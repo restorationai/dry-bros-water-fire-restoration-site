@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Chicago (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Chicago (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in chicago without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -11,7 +11,7 @@ plan_hash: "0cb75dafabbc7aaa"
 generated_at: "2026-09-11T14:21:07.290304+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/fire-damage-restoration/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Chicago (Without Getting Burned)"}]
 faq: [{"question": "Can I choose my own restoration company, or does my insurance company decide?", "answer": "In Illinois, you have the right to choose your own contractor, your insurance company cannot require you to use a specific vendor. Your carrier may have a preferred network, and using it can sometimes speed up the claims process, but it is not mandatory. Get your own estimate and compare it against any carrier-recommended scope before agreeing to anything."}, {"question": "How long does water damage restoration typically take from start to finish?", "answer": "Structural drying alone usually takes three to five days for a straightforward loss, though that timeline extends with older plaster construction, large affected areas, or high ambient humidity. After drying is complete, any necessary demolition, repairs, and reconstruction are separate phases with their own timelines. A company that promises to have everything done in 24 hours is almost certainly not doing the job correctly."}, {"question": "What is an Assignment of Benefits, and should I sign one?", "answer": "An Assignment of Benefits (AOB) is a document that transfers your insurance claim rights directly to the contractor, allowing them to bill and negotiate with your carrier on your behalf without your ongoing involvement. While not inherently fraudulent, AOBs have been used to inflate claims and create billing disputes that leave homeowners caught in the middle. Consult your insurance agent before signing one, in most cases, a reputable contractor can work with your carrier without requiring an AOB."}, {"question": "Is mold always visible, and how do I know if I need professional remediation?", "answer": "Mold is often not visible at the point where it becomes a problem. A persistent musty smell, particularly in a basement, bathroom, or crawl space, is frequently the first sign of active growth behind walls or under flooring. If you've had a water intrusion event in the last 24 to 72 hours, mold can begin colonizing damp materials within that window. A professional assessment with moisture meters and, if warranted, air sampling can tell you more than a visual inspection alone."}]
 published_at: "2026-08-31"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
