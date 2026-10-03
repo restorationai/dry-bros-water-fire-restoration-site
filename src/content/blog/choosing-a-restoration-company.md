@@ -16,6 +16,7 @@ faq: [{"question": "Can I choose my own restoration company, or does my insuranc
 published_at: "2026-08-31"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Amin Mashouf"
 ---
 Choosing a restoration company after water damage, a fire, or a mold discovery is one of the worst decisions to make under pressure. You're stressed, possibly displaced, and your phone is ringing with contractors you've never heard of. The short answer: vet credentials before you sign anything, confirm the company bills insurance directly, and never let urgency, real or manufactured, push you into a contract you haven't read. The rest of this guide walks you through exactly how to do that, step by step.
 

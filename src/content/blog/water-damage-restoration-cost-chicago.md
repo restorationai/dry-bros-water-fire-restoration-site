@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Chicago?", "a
 published_at: "2026-09-18"
 services: ["water-damage-restoration", "water-cleanup"]
 rendered: true
+author: "Amin Mashouf"
 ---
 **TL;DR:** Water damage restoration in Chicago typically costs $1,500 to $12,000 for most residential losses. Clean water from a burst pipe runs $1,500 to $4,000. Contaminated water from a backed-up sewer or flooding can push $5,000 to $12,000 or more. Your homeowners policy likely covers sudden, accidental losses but not slow leaks or flood events. The final number depends on water category, square footage affected, how many days of drying equipment runs, and what materials need to come out.
 

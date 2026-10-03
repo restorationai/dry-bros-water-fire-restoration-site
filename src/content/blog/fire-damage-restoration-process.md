@@ -18,6 +18,7 @@ faq: [{"question": "How long does fire damage restoration typically take from st
 published_at: "2026-09-02"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Amin Mashouf"
 ---
 Fire damage rarely stops when the flames do. The restoration process that follows a house fire, or even a contained kitchen fire, unfolds in stages, and understanding those stages helps you ask the right questions, make better decisions with your insurance adjuster, and avoid mistakes that can make the damage worse. Here is what the process looks like from the moment the fire department clears the scene to the day you walk back into a fully restored home.
 

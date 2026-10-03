@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in IL?", "answer
 published_at: "2026-09-30"
 services: []
 rendered: true
+author: "Amin Mashouf"
 ---
 **TL;DR:** In Illinois, water damage restoration typically runs $1,300 to $5,000 for a contained clean-water loss and $7,000 to $20,000 or more when sewage, category 3 water, or multiple rooms are involved. The biggest cost drivers are how much water intruded, what materials got wet, and how long the water sat before extraction started.
 

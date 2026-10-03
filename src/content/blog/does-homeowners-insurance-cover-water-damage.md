@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover a burst pipe in a vacant or 
 published_at: "2026-08-22"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Amin Mashouf"
 ---
 The short answer: it depends on *how* the water got in. Homeowners insurance typically covers sudden, accidental water damage, a pipe that bursts overnight, a washing machine hose that lets go, an ice dam that forces water under your shingles. It almost never covers damage that built up slowly over time, and it does not cover flooding from outside your home. Understanding that one distinction, sudden versus gradual, internal versus external, will answer about 80 percent of the coverage questions you'll face after a water loss.
 

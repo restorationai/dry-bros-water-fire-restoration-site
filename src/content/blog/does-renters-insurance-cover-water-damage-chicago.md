@@ -17,6 +17,7 @@ faq: [{"question": "Does renters insurance cover water damage in Chicago?", "ans
 published_at: "2026-10-02"
 services: ["water-damage-restoration", "water-cleanup"]
 rendered: true
+author: "Amin Mashouf"
 ---
 **TL;DR:** Renters insurance, known as an HO-4 policy, covers your personal belongings and additional living expenses after a sudden, accidental water loss like a burst pipe or an upstairs unit's water heater failing. It does not cover the building itself, that's the landlord's or condo association's responsibility. Slow leaks caused by neglected maintenance are typically excluded, and mold coverage is usually capped at a few thousand dollars unless you've added a rider.
 

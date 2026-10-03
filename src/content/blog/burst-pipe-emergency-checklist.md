@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have before a burst pipe causes mold?", "answe
 published_at: "2026-08-24"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Amin Mashouf"
 ---
 If a pipe just burst in your home, stop reading and go turn off the water first. Find your main shutoff valve, in Chicago homes it's usually in the basement near the front foundation wall, or in a utility closet, and turn it clockwise until it stops. Once the water is off, come back here. The steps below walk you through everything from the first five minutes to the weeks of drying and repair that follow, so you know what to expect and what mistakes to avoid.
 

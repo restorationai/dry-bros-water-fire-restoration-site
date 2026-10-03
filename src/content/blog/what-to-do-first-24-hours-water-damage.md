@@ -18,6 +18,7 @@ faq: [{"question": "How long does it take for mold to grow after water damage?",
 published_at: "2026-09-05"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Amin Mashouf"
 ---
 If water is actively coming in, from a burst pipe, an overflowing appliance, or a roof leak during a storm, stop the source first. Shut off the main water valve, unplug appliances near the water, and get everyone out of any room where the ceiling is sagging or outlets are submerged. Once the immediate danger is controlled, the clock starts. Mold can begin colonizing wet building materials within 24 to 48 hours, and the decisions you make in the first few hours will determine how much of your flooring, drywall, and framing survives.
 

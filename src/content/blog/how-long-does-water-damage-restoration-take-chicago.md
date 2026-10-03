@@ -17,6 +17,7 @@ faq: [{"question": "How long does water damage restoration take in Chicago?", "a
 published_at: "2026-09-23"
 services: ["water-damage-restoration", "mold-remediation", "odor-removal"]
 rendered: true
+author: "Amin Mashouf"
 ---
 **TL;DR:** Water damage restoration in Chicago takes 3 to 5 days for a small, contained loss with clean water. Add 2 to 5 more days if drywall needs to come out, hardwood floors are saturated, or a finished basement is involved. The drying phase ends when a moisture meter confirms the structure has reached its dry standard, not when the space looks or feels dry. Mold can begin growing within 24 to 48 hours of a water event, so the clock starts the moment water touches your building materials.
 

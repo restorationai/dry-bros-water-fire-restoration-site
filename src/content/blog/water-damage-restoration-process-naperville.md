@@ -17,6 +17,7 @@ faq: [{"question": "How long does the water damage restoration process take?", "
 published_at: "2026-09-21"
 services: ["water-damage-restoration", "water-cleanup", "mold-remediation"]
 rendered: true
+author: "Amin Mashouf"
 ---
 **TL;DR:** Water damage restoration follows six phases: inspection and damage classification, water extraction, structural drying with air movers, dehumidification, antimicrobial treatment, and final repairs. The entire process takes 3 to 7 days for most residential losses, though heavily saturated materials or hidden moisture can extend that timeline. Every phase is governed by the [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500), the industry's baseline for what "done" actually means.
 

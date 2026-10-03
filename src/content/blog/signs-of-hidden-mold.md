@@ -16,6 +16,7 @@ faq: [{"question": "How quickly does mold start growing after a water leak?", "a
 published_at: "2026-08-26"
 services: ["mold-remediation"]
 rendered: true
+author: "Amin Mashouf"
 ---
 Mold doesn't always announce itself with a visible black patch on the wall. More often, it grows in the dark, inside wall cavities, under bathroom tile, behind baseboards, beneath subfloors, for weeks or months before anyone notices. If you've had a leak, a flood, or even just persistent humidity, and something feels off about your home, these seven signs can help you figure out whether mold is the problem.
 

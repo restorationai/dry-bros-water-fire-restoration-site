@@ -16,6 +16,7 @@ faq: [{"question": "Can a home test kit tell me if I have black mold?", "answer"
 published_at: "2026-08-26"
 services: ["mold-remediation"]
 rendered: true
+author: "Amin Mashouf"
 ---
 The short answer: you usually cannot tell the difference between black mold and other mold species just by looking at the color. *Stachybotrys chartarum*, the organism most people mean when they say "black mold", is dark greenish-black, but so are dozens of other common mold species. Meanwhile, some *Stachybotrys* colonies appear dark gray or olive. Color alone is not a reliable diagnostic tool. The only way to confirm what species is growing in your home is laboratory analysis of a physical sample. What you *can* do at home is assess the conditions, the smell, and the growth pattern to decide how urgently you need professional help.
 
