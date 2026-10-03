@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Dry Bros Water & Fire Restoration | Restoration Services in Chicago, IL"
-h1: "Restoration Services in Chicago"
-meta_description: "Dry Bros Water & Fire Restoration provides water, fire, mold, and storm damage restoration across Chicago and surrounding areas. Licensed, insured. Call us now."
-primary_keyword: "restoration services chicago"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Chicago, IL | Dry Bros Water & Fire Restoration"
+h1: "24/7 Water Damage Restoration in Chicago, IL"
+meta_description: "Dry Bros Water & Fire Restoration provides water damage restoration in Chicago, IL, answering 24/7. Licensed and insured. Call (877) 379-2767 now."
+primary_keyword: "water damage restoration chicago"
+secondary_keywords: ["best restoration company in chicago", "restoration company chicago", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "725e9b31411ede7f"
