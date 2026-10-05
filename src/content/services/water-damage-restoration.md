@@ -71,6 +71,6 @@ Chicago's climate creates a predictable calendar of water damage events. Freeze-
 
 ## Service area
 
-Dry Bros Water & Fire Restoration serves Chicago and the surrounding region, including communities throughout Cook, DuPage, Lake, and Will counties. Individual service-area pages cover specific cities and neighborhoods, if you're outside Chicago proper, check those pages for local details or call us directly.
+Dry Bros Water & Fire Restoration serves Chicago and the surrounding region, including communities throughout Cook, DuPage, Lake, and Will counties. Individual service-area pages cover specific cities and neighborhoods, if you're outside Chicago proper, check those pages for local details, such as [Naperville](/service-areas/naperville-il/water-damage-restoration/), [Oak Park](/service-areas/oak-park-il/water-damage-restoration/), [Evanston](/service-areas/evanston-il/water-damage-restoration/) and [Cicero](/service-areas/cicero-il/water-damage-restoration/), or call us directly.
 
 If you're standing in a wet room right now, the most useful next step is a moisture assessment, not a general estimate, but a mapped inspection that shows exactly where the water went and what it will take to dry it out. Call Dry Bros Water & Fire Restoration now to schedule your moisture assessment and get a written scope before any work begins.
