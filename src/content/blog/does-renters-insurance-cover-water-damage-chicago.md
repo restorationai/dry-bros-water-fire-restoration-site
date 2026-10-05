@@ -63,7 +63,7 @@ Act within the first 24 to 48 hours: notify your landlord or property manager in
 
 1. **Notify the landlord or building manager immediately**, in writing (text or email), even if you also call. This creates a timestamp proving you reported the issue promptly, which protects your claim if mold shows up later.
 2. **Photograph the damage** before anything is moved or cleaned, including the ceiling stain, the wet flooring, and any belongings affected.
-3. **Move and elevate belongings** out of standing water where it's safe to do so. Wet drywall and carpet left untreated past 24 to 48 hours is when mold growth typically begins, per [IICRC](https://iicrc.org) drying guidelines.
+3. **Move and elevate belongings** out of standing water where it's safe to do so. Wet drywall and carpet left untreated past 24 to 48 hours is when mold growth typically begins, per industry drying guidelines.
 4. **File a claim with your own renters insurer**, get a claim number, and ask whether the loss is covered as sudden and accidental.
 5. **Call a restoration crew for extraction and structural drying**, especially in a multi-unit building where water has already traveled into the unit below. Our [first-24-hours guide](/blog/what-to-do-first-24-hours-water-damage/) covers the full checklist in more detail, and it pairs well with our breakdown of [how homeowners insurance handles water damage](/blog/does-homeowners-insurance-cover-water-damage/) if you're comparing coverage with a unit owner upstairs.
 

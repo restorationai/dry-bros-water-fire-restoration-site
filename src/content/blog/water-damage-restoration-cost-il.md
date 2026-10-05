@@ -46,7 +46,7 @@ These are typical industry ranges for Illinois, not a quote. Every loss is diffe
 
 The water's category and how long it sat are the two factors that move the price the most, followed by square footage and the materials affected. A same-day clean-water response costs far less than a three-day-old Category 3 loss.
 
-**Category and class of water.** The [IICRC](https://iicrc.org) classifies water losses by contamination level: Category 1 is clean water (a supply line break), Category 2 is gray water (a washing machine overflow), and Category 3 is grossly contaminated water (sewage backup, floodwater). Higher categories require more demolition, more disposal, and more disinfection, which raises cost.
+**Category and class of water.** The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) classifies water losses by contamination level: Category 1 is clean water (a supply line break), Category 2 is gray water (a washing machine overflow), and Category 3 is grossly contaminated water (sewage backup, floodwater). Higher categories require more demolition, more disposal, and more disinfection, which raises cost.
 
 **Response time.** Drywall, carpet pad, and subfloor start absorbing moisture within hours. A loss caught and mitigated the same day usually needs less material removal than one sitting untreated for two or three days, when mold growth becomes a real risk.
 
