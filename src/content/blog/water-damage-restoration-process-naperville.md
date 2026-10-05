@@ -73,7 +73,7 @@ If you are concerned about mold that may have already started, our post on [sign
 
 Not everything that gets wet has to go. The decision to remove or retain a material depends on its porosity, how long it has been wet, and the water category.
 
-General guidelines that certified technicians follow:
+General guidelines restoration technicians follow:
 
 - **Drywall:** Drywall that has wicked water up from a flooded floor is typically cut 12 to 18 inches above the waterline, a technique called flood cutting. This opens the wall cavity for drying and allows technicians to inspect and treat the framing and insulation inside. Drywall that has been saturated by Category 2 or 3 water is almost always removed entirely.
 - **Insulation:** Fiberglass batt insulation loses its drying potential once saturated and is removed. Spray foam is more resistant but must be inspected for moisture intrusion at seams.

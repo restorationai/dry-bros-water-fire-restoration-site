@@ -27,7 +27,7 @@ You just shut off the water, moved what you could, and now you're staring at soa
 
 Most Chicago homeowners pay between $1,500 and $12,000 for water damage restoration, with the average residential loss landing around $3,000 to $5,000. That range is wide because the single biggest cost driver is the category of water involved, and category 3 losses cost three to four times more than category 1 losses of the same square footage.
 
-The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) defines three water categories that every certified restoration company uses to scope and price a job:
+The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) defines three water categories that restoration companies use to scope and price a job:
 
 - **Category 1 (clean water):** Water from a supply line, ice maker, or clean toilet tank. Lowest contamination risk, lowest cost. Think burst pipe in a finished basement or a dishwasher supply line failure.
 - **Category 2 (gray water):** Water with some contamination. Washing machine discharge, aquarium overflow, or a toilet overflow with urine only. Requires more aggressive drying protocols and antimicrobial treatment.
@@ -94,7 +94,7 @@ If you have standing water, the clock is already running. Here is the sequence t
 1. **Stop the source.** If it is a supply line or pipe, shut off the main water valve. If it is a sewer backup, do not use any drains.
 2. **Document everything before touching it.** Photos and video of standing water, affected materials, and the source of the loss. Your adjuster will ask for this.
 3. **Call your insurance company** to open a claim. You do not need to wait for a restoration estimate first.
-4. **Call a certified restoration company.** Mitigation needs to start within 24 hours to keep the loss in the lowest-cost category possible.
+4. **Call a professional restoration company.** Mitigation needs to start within 24 hours to keep the loss in the lowest-cost category possible.
 5. **Get a written scope before work begins.** A reputable company will provide a written scope of work with line-item pricing before starting demolition or extended drying.
 
 For 24/7 emergency response in Chicago and the surrounding suburbs, Dry Bros Water & Fire Restoration handles extraction, structural drying, and insurance documentation for residential and commercial losses. Call (877) 379-2767 to schedule an assessment or get a written scope.
