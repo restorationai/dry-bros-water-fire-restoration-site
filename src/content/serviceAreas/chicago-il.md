@@ -27,13 +27,13 @@ Chicago's weather swings hard between extremes, and both ends cause damage. Wint
 
 ## Services we provide in Chicago
 
-Water damage restoration is the most frequent call, and in Chicago it usually means basement flooding from sewer backup or foundation seepage, or upper-floor leaks from frozen and burst supply lines. We extract standing water, pull wet flooring and drywall where needed, and set drying equipment to bring moisture content back down before mold has a chance to establish.
+[Water damage restoration](/services/water-damage-restoration/) is the most frequent call, and in Chicago it usually means [basement flooding](/services/basement-flooding-cleanup/) from sewer backup or foundation seepage, or upper-floor leaks from frozen and burst supply lines. We extract standing water, pull wet flooring and drywall where needed, and set drying equipment to bring moisture content back down before mold has a chance to establish.
 
-Fire and smoke damage cleanup addresses both the structural loss and the lingering odor that soaks into plaster, trim, and fabric. Chicago's older buildings often have plaster walls and original woodwork, which hold smoke odor differently than modern drywall and require different cleaning agents and sealing steps.
+[Fire and smoke damage cleanup](/services/fire-damage-restoration/) addresses both the structural loss and the lingering odor that soaks into plaster, trim, and fabric. Chicago's older buildings often have plaster walls and original woodwork, which hold smoke odor differently than modern drywall and require different cleaning agents and sealing steps.
 
 Storm damage response covers wind, hail, and flood-related losses, including roof and window damage from the severe thunderstorm lines that move through the area and the basement flooding that follows heavy rain events.
 
-Mold remediation follows almost any water event that goes undetected for more than a day or two, which is common in finished basements and behind plaster walls where moisture isn't visible until it's already spread.
+[Mold remediation](/services/mold-remediation/) follows almost any water event that goes undetected for more than a day or two, which is common in finished basements and behind plaster walls where moisture isn't visible until it's already spread.
 
 ## Coverage and how fast we can get there
 

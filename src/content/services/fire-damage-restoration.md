@@ -75,6 +75,6 @@ Older housing stock throughout Chicago and its inner suburbs, two-flats, greysto
 
 ## Service area
 
-Dry Bros Water & Fire Restoration serves Chicago and the surrounding region, including communities across Cook, DuPage, Lake, and Will counties. Individual city pages cover specific service areas in more detail, if you're outside Chicago proper, check the city pages linked from this service for coverage in your area.
+Dry Bros Water & Fire Restoration serves Chicago and the surrounding region, including communities across Cook, DuPage, Lake, and Will counties. Individual city pages cover specific service areas in more detail, if you're outside Chicago proper, check the city pages for coverage in your area, such as [Oak Park](/service-areas/oak-park-il/fire-damage-restoration/), [Berwyn](/service-areas/berwyn-il/fire-damage-restoration/), [Skokie](/service-areas/skokie-il/fire-damage-restoration/) and [Naperville](/service-areas/naperville-il/fire-damage-restoration/).
 
 If you're standing in a smoke-damaged home right now, the next step is straightforward: call **call us now** to begin smoke and soot removal. The sooner the scope is documented and cleaning starts, the more of your home, and your belongings, can be saved.
