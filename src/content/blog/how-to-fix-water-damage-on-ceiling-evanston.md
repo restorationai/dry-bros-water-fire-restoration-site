@@ -55,7 +55,7 @@ For the stain-only case: let the area dry fully (this can take several days depe
 
 For saturated material: the wet drywall or plaster section gets cut out back to dry framing, the cavity gets dried with air movers and a dehumidifier until moisture readings return to normal, and only then does new drywall go up. If the water sat for more than 24 to 48 hours, or if you can smell must, check for hidden growth before closing the ceiling back up; our [guide to spotting hidden mold](/blog/signs-of-hidden-mold/) covers what to look for beyond a visible stain. The [EPA's guidance on mold and moisture](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home) is a useful reference for why this step isn't optional.
 
-Drying to the industry benchmark matters here. The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) for water damage restoration is what professional crews use to confirm a structure is actually dry, not just dry to the touch, before closing it back up.
+Drying to the industry benchmark matters here. The [IICRC S500 standard](https://iicrc.org/s500/) for water damage restoration is what professional crews use to confirm a structure is actually dry, not just dry to the touch, before closing it back up.
 
 ## What should you do if the ceiling damage came from upstairs or a burst pipe?
 

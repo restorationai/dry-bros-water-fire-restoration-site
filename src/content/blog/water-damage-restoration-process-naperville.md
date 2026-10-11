@@ -19,7 +19,7 @@ services: ["water-damage-restoration", "water-cleanup", "mold-remediation"]
 rendered: true
 author: "Amin Mashouf"
 ---
-**TL;DR:** Water damage restoration follows six phases: inspection and damage classification, water extraction, structural drying with air movers, dehumidification, antimicrobial treatment, and final repairs. The entire process takes 3 to 7 days for most residential losses, though heavily saturated materials or hidden moisture can extend that timeline. Every phase is governed by the [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500), the industry's baseline for what "done" actually means.
+**TL;DR:** Water damage restoration follows six phases: inspection and damage classification, water extraction, structural drying with air movers, dehumidification, antimicrobial treatment, and final repairs. The entire process takes 3 to 7 days for most residential losses, though heavily saturated materials or hidden moisture can extend that timeline. Every phase is governed by the [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/), the industry's baseline for what "done" actually means.
 
 Your basement flooded, or a supply line burst behind the refrigerator, or the upstairs toilet overflowed and soaked through the subfloor. You have water somewhere it should not be, and now you are wondering what the next several days actually look like. This post walks through every phase of the water damage restoration process the way a certified crew would explain it to you on-site, including what they are measuring, what equipment they are running, and why each step matters before the next one starts.
 

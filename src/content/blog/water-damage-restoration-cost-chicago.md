@@ -27,7 +27,7 @@ You just shut off the water, moved what you could, and now you're staring at soa
 
 Most Chicago homeowners pay between $1,500 and $12,000 for water damage restoration, with the average residential loss landing around $3,000 to $5,000. That range is wide because the single biggest cost driver is the category of water involved, and category 3 losses cost three to four times more than category 1 losses of the same square footage.
 
-The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) defines three water categories that restoration companies use to scope and price a job:
+The [IICRC S500 standard](https://iicrc.org/s500/) defines three water categories that restoration companies use to scope and price a job:
 
 - **Category 1 (clean water):** Water from a supply line, ice maker, or clean toilet tank. Lowest contamination risk, lowest cost. Think burst pipe in a finished basement or a dishwasher supply line failure.
 - **Category 2 (gray water):** Water with some contamination. Washing machine discharge, aquarium overflow, or a toilet overflow with urine only. Requires more aggressive drying protocols and antimicrobial treatment.
