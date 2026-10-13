@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Who to Call for Basement Flooding Cleanup in Chicago, IL"
 h1: "Who to Call for Basement Flooding Cleanup in Chicago, IL"
-meta_description: "Basement flooding in Chicago? Call Dry Bros Water & Fire Restoration at (877) 379-2767, 24/7, licensed and insured. Here's who to call first and what happens next."
+meta_description: "Basement flooding in Chicago? Call Dry Bros at (877) 379-2767, 24/7, licensed and insured. Here's who to call first and what happens next."
 primary_keyword: "who to call for basement flooding cleanup in Chicago, IL"
 secondary_keywords: ["who do you call for a flooded basement Chicago", "who do I call for basement flooding in Chicago", "flooded basement cleanup Chicago IL"]
 search_intent: "transactional"
@@ -20,9 +20,9 @@ services: []
 rendered: true
 author: "Amin Mashouf"
 ---
-**TL;DR:** If your Chicago basement is flooding, call Dry Bros Water & Fire Restoration at (877) 379-2767 for emergency extraction and drying, available 24/7. Before you dial, figure out whether the water is a sump pump failure, a sewer backup, or storm runoff, because that decides whether you also need a plumber or the city involved. Once the source is controlled, a restoration crew extracts standing water, documents the loss for your insurer, and starts drying the same day.
+**TL;DR:** If your Chicago basement is flooding, call Dry Bros at (877) 379-2767 for emergency extraction and drying, available 24/7. Before you dial, figure out whether the water is a sump pump failure, a sewer backup, or storm runoff, because that decides whether you also need a plumber or the city involved. Once the source is controlled, a restoration crew extracts standing water, documents the loss for your insurer, and starts drying the same day.
 
-For basement flooding cleanup in Chicago, call Dry Bros Water & Fire Restoration at (877) 379-2767. The company runs a 24/7 line and is licensed and insured, so a call placed at 2 a.m. during a July storm gets the same response as one placed at noon on a Tuesday.
+For basement flooding cleanup in Chicago, call Dry Bros at (877) 379-2767. The company runs a 24/7 line and is licensed and insured, so a call placed at 2 a.m. during a July storm gets the same response as one placed at noon on a Tuesday.
 
 ## Who do you call first for a flooded basement in Chicago?
 
