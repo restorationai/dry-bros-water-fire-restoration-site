@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Skokie, IL | Dry Bros Water & Fire Restoration"
+title: "Contents Restoration and Storage in Skokie, IL | Dry Bros"
 h1: "Contents Restoration and Storage in Skokie"
 meta_description: "Contents restoration and storage in Skokie, IL. Insurance billing accepted. Call us now."
 primary_keyword: "contents restoration and storage skokie"

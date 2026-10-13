@@ -1,7 +1,7 @@
 ---
 archetype: "contact"
-title: "Contact Dry Bros Water & Fire Restoration | Restoration in Chicago"
-h1: "Contact Dry Bros Water & Fire Restoration"
+title: "Contact Dry Bros | Restoration in Chicago"
+h1: "Contact Dry Bros"
 meta_description: "Call us now for restoration services in Chicago and surrounding areas. Free estimates. Direct insurance billing."
 primary_keyword: "dry bros water & fire restoration contact"
 secondary_keywords: ["restoration company contact"]
@@ -27,4 +27,4 @@ If your situation is stable and you're looking for an estimate, have a question 
 
 ## Where we're located
 
-Dry Bros Water & Fire Restoration is based at **3918 W 63rd St, Chicago, IL 60629**, on the Southwest Side. From here we serve homeowners and commercial property owners across Chicago and the surrounding communities, including Cicero, Berwyn, Oak Lawn, Evergreen Park, and neighboring Cook County suburbs. Chicago's older housing stock, much of it built before modern moisture barriers and vapor retarders were standard, means water intrusion and post-fire structural concerns often involve materials, plaster, older dimensional lumber, clay tile drainage, that require specific handling. We know what that looks like in these neighborhoods.
+Dry Bros is based at **3918 W 63rd St, Chicago, IL 60629**, on the Southwest Side. From here we serve homeowners and commercial property owners across Chicago and the surrounding communities, including Cicero, Berwyn, Oak Lawn, Evergreen Park, and neighboring Cook County suburbs. Chicago's older housing stock, much of it built before modern moisture barriers and vapor retarders were standard, means water intrusion and post-fire structural concerns often involve materials, plaster, older dimensional lumber, clay tile drainage, that require specific handling. We know what that looks like in these neighborhoods.

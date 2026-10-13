@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Des Plaines, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Smoke Damage Restoration in Des Plaines, IL | Dry Bros"
 h1: "24/7 Emergency Smoke Damage Restoration in Des Plaines"
 meta_description: "24/7 emergency smoke damage restoration in Des Plaines, IL. Insurance billing accepted. Call us now."
 primary_keyword: "smoke damage restoration des plaines"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Smoke damage emergency in Des Plaines? We answer 24/7.** Call now and our crew heads out to stop smoke and soot damage from spreading.
 
-Des Plaines sits in a dense corridor of Cook County where bungalows, split-levels, and postwar ranch homes share blocks with commercial strips along Mannheim Road and Golf Road. When a kitchen fire or electrical fault fills one of these older homes with smoke, the damage rarely stays in the room where the fire started. Smoke travels through HVAC ducts, seeps into wall cavities, and settles into porous surfaces, and in a house built in the 1950s or 1960s, there is a lot of porous surface to find. Dry Bros Water & Fire Restoration responds to smoke damage calls throughout Des Plaines, working to stop the spread of residue before it permanently stains, corrodes, or odorizes materials that could otherwise be saved.
+Des Plaines sits in a dense corridor of Cook County where bungalows, split-levels, and postwar ranch homes share blocks with commercial strips along Mannheim Road and Golf Road. When a kitchen fire or electrical fault fills one of these older homes with smoke, the damage rarely stays in the room where the fire started. Smoke travels through HVAC ducts, seeps into wall cavities, and settles into porous surfaces, and in a house built in the 1950s or 1960s, there is a lot of porous surface to find. Dry Bros responds to smoke damage calls throughout Des Plaines, working to stop the spread of residue before it permanently stains, corrodes, or odorizes materials that could otherwise be saved.
 
 ## Why Des Plaines Homes Are Particularly Vulnerable to Smoke Damage
 
@@ -49,4 +49,4 @@ Smoke damage is a covered peril under most standard homeowners policies, but the
 
 In Des Plaines's older bungalow neighborhoods, many homes were built with unfinished attic spaces that were later converted into livable rooms without full permit pulls, a common pattern across Cook County's postwar suburbs. These informal conversions often lack proper fire blocking between the attic and the original ceiling structure below, which means smoke from a first-floor fire can travel directly into the converted upper space through gaps that were never sealed. If your home has a finished attic addition, we inspect that space as part of the initial assessment even when the fire occurred on a lower floor. It is one of the more common sources of lingering odor that gets missed on a standard walkthrough.
 
-If your Des Plaines home has been affected by smoke, from a contained kitchen fire, an electrical fault, or a larger structural fire, call Dry Bros Water & Fire Restoration now. The sooner smoke residue is addressed, the more of your home's materials and finishes can be saved.
+If your Des Plaines home has been affected by smoke, from a contained kitchen fire, an electrical fault, or a larger structural fire, call Dry Bros now. The sooner smoke residue is addressed, the more of your home's materials and finishes can be saved.

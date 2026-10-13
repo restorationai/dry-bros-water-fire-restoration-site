@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Bedford Park, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Bedford Park, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Bedford Park"
 meta_description: "24/7 emergency water damage restoration in Bedford Park, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration bedford park"
@@ -41,4 +41,4 @@ Bedford Park sits right off the I-55 and I-294 interchange, with Cicero Avenue r
 
 One thing that catches property managers off guard in Bedford Park: a lot of the industrial buildings here have floor drains tied into a combined sewer system, and during a heavy summer downpour those drains can back up and push water into the building instead of away from it. If we're called out during or right after a storm, we check whether the water came from a roof failure, a plumbing failure, or a sewer backup before we start drying, because each one changes how we handle contamination and what gets documented for the claim.
 
-If your Bedford Park property, warehouse, or office space has standing water right now, don't wait for it to find its way into insulation or stored inventory. Call Dry Bros Water & Fire Restoration at (877) 379-2767 and we'll walk you through what to expect before a crew is even on the road.
+If your Bedford Park property, warehouse, or office space has standing water right now, don't wait for it to find its way into insulation or stored inventory. Call Dry Bros at (877) 379-2767 and we'll walk you through what to expect before a crew is even on the road.

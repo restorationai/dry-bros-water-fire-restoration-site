@@ -63,14 +63,14 @@ Start by identifying whether the source is still active, since repairing a ceili
 
 If a pipe burst is the cause, our [burst pipe emergency checklist](/blog/burst-pipe-emergency-checklist/) walks through shutting off the water main and documenting the damage for insurance before repairs start. Water from an upstairs neighbor or a shared building system is also one of the more common disputes homeowners run into with claims, since fault and coverage can depend on whether the source was sudden (a supply line failure) or gradual (a slow, long-term leak); our guide on [what to do in the first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/) covers the documentation that protects a claim either way.
 
-Once the source is confirmed stopped, a moisture assessment of the ceiling, the framing above it, and any adjoining walls tells you the real scope before a single patch goes on. Dry Bros Water & Fire Restoration handles that assessment and the [water damage restoration](/services/water-damage-restoration/) work that follows for homes across Evanston and the North Shore, including [burst pipe repair](/services/burst-pipe-repair/) when a failed line is the source.
+Once the source is confirmed stopped, a moisture assessment of the ceiling, the framing above it, and any adjoining walls tells you the real scope before a single patch goes on. Dry Bros handles that assessment and the [water damage restoration](/services/water-damage-restoration/) work that follows for homes across Evanston and the North Shore, including [burst pipe repair](/services/burst-pipe-repair/) when a failed line is the source.
 
 A ceiling stain that looks small from the floor can mean a much larger wet area above it. Getting a moisture reading before you patch anything is the cheapest insurance you can buy against redoing the work in a few months.
 
 ---
 
-**About Dry Bros Water & Fire Restoration**
+**About Dry Bros**
 
-This guide was prepared with the Dry Bros Water & Fire Restoration team, led by Amin Mashouf. Dry Bros is a licensed and insured, locally owned restoration company based in Chicago, IL, serving Evanston and the surrounding North Shore and western suburbs with 24/7 emergency response. Their crews handle water damage restoration, burst pipe repair, flood cleanup, and mold remediation across homes and multi-unit buildings in the region.
+This guide was prepared with the Dry Bros team, led by Amin Mashouf. Dry Bros is a licensed and insured, locally owned restoration company based in Chicago, IL, serving Evanston and the surrounding North Shore and western suburbs with 24/7 emergency response. Their crews handle water damage restoration, burst pipe repair, flood cleanup, and mold remediation across homes and multi-unit buildings in the region.
 
-**Need help now?** [Call Dry Bros Water & Fire Restoration at (877) 379-2767](tel:+18773792767).
+**Need help now?** [Call Dry Bros at (877) 379-2767](tel:+18773792767).

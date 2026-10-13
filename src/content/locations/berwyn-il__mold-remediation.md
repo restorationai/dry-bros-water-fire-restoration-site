@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "Mold Remediation in Berwyn, IL | Dry Bros"
 h1: "Mold Remediation in Berwyn"
 meta_description: "Mold remediation in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "mold remediation berwyn"

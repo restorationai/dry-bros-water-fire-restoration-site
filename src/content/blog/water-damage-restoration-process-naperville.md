@@ -93,12 +93,12 @@ For most residential losses in Naperville, reconstruction takes 2 to 5 business 
 
 The reconstruction scope is itemized separately from the mitigation scope on most insurance claims. If you are working with an adjuster, ask for the Xactimate line items for both phases so you can verify that the scope matches what was actually removed and what needs to be replaced.
 
-If your loss is covered, Dry Bros Water & Fire Restoration works directly with your insurance carrier and provides the documentation your adjuster needs, including moisture logs, photo documentation, and a written scope of work, so you are not chasing paperwork while your home is being put back together.
+If your loss is covered, Dry Bros works directly with your insurance carrier and provides the documentation your adjuster needs, including moisture logs, photo documentation, and a written scope of work, so you are not chasing paperwork while your home is being put back together.
 
-For [water damage restoration in Naperville](/service-areas/naperville-il/water-damage-restoration/), call Dry Bros Water & Fire Restoration at (877) 379-2767. Crews are available 24/7 and can begin the inspection and extraction process the same day you call.
+For [water damage restoration in Naperville](/service-areas/naperville-il/water-damage-restoration/), call Dry Bros at (877) 379-2767. Crews are available 24/7 and can begin the inspection and extraction process the same day you call.
 
 ---
 
-**About Dry Bros Water & Fire Restoration**
+**About Dry Bros**
 
-Dry Bros Water & Fire Restoration is a licensed and insured restoration company serving Naperville, Chicago, and surrounding communities throughout the Chicago metro area. The company handles water damage restoration, flood damage, burst pipe cleanup, basement flooding, sewage cleanup, mold remediation, fire and smoke damage restoration, storm damage, emergency board-up and tarping, odor removal, and contents restoration. Dry Bros is locally owned and operated and available around the clock for emergency response. License and insurance information is available on request.
+Dry Bros is a licensed and insured restoration company serving Naperville, Chicago, and surrounding communities throughout the Chicago metro area. The company handles water damage restoration, flood damage, burst pipe cleanup, basement flooding, sewage cleanup, mold remediation, fire and smoke damage restoration, storm damage, emergency board-up and tarping, odor removal, and contents restoration. Dry Bros is locally owned and operated and available around the clock for emergency response. License and insurance information is available on request.

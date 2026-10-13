@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "Contents Restoration and Storage in Oak Park, IL | Dry Bros"
 h1: "Contents Restoration and Storage in Oak Park"
 meta_description: "Contents restoration and storage in Oak Park, IL. Insurance billing accepted. Call us now."
 primary_keyword: "contents restoration and storage oak park"

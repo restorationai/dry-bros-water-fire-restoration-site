@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Fire Damage Restoration in Berwyn, IL | Dry Bros"
 h1: "24/7 Emergency Fire Damage Restoration in Berwyn"
 meta_description: "24/7 emergency fire damage restoration in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "fire damage restoration berwyn"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Berwyn? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-Berwyn's dense grid of brick bungalows and two-flats, most of them built between the 1920s and 1950s, creates fire conditions that newer construction simply doesn't. Balloon-frame cavities inside those older walls act like chimneys, pulling smoke and heat vertically through the structure long after the visible flames are out. If you're dealing with fire damage in Berwyn right now, the clock on secondary damage, smoke penetration, soot corrosion, and water from suppression, is already running. Dry Bros Water & Fire Restoration responds to calls across Berwyn and the broader Cook County area, and we understand what post-fire work actually looks like inside these homes.
+Berwyn's dense grid of brick bungalows and two-flats, most of them built between the 1920s and 1950s, creates fire conditions that newer construction simply doesn't. Balloon-frame cavities inside those older walls act like chimneys, pulling smoke and heat vertically through the structure long after the visible flames are out. If you're dealing with fire damage in Berwyn right now, the clock on secondary damage, smoke penetration, soot corrosion, and water from suppression, is already running. Dry Bros responds to calls across Berwyn and the broader Cook County area, and we understand what post-fire work actually looks like inside these homes.
 
 ## Why Berwyn's Building Stock Shapes Fire Damage Differently
 
@@ -57,4 +57,4 @@ If your policy includes additional living expense (ALE) coverage, we can help yo
 
 Berwyn's brick bungalows often have unfinished basements with exposed wood floor joists directly below the first floor, a construction detail that matters after a kitchen or first-floor fire. Suppression water pools in the basement and soaks those joists from below while the floor above dries from the top. Restoration crews who don't check the basement moisture readings after a first-floor fire routinely miss this, and the joists stay wet long enough to develop mold before anyone notices. On Berwyn properties, we treat the basement as part of the fire loss scope even when the fire itself never reached it.
 
-If you're in Berwyn and dealing with fire or smoke damage right now, call Dry Bros Water & Fire Restoration now. We'll assess the property, walk you through what needs to happen, and get the work moving.
+If you're in Berwyn and dealing with fire or smoke damage right now, call Dry Bros now. We'll assess the property, walk you through what needs to happen, and get the work moving.

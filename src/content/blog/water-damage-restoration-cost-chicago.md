@@ -97,12 +97,12 @@ If you have standing water, the clock is already running. Here is the sequence t
 4. **Call a professional restoration company.** Mitigation needs to start within 24 hours to keep the loss in the lowest-cost category possible.
 5. **Get a written scope before work begins.** A reputable company will provide a written scope of work with line-item pricing before starting demolition or extended drying.
 
-For 24/7 emergency response in Chicago and the surrounding suburbs, Dry Bros Water & Fire Restoration handles extraction, structural drying, and insurance documentation for residential and commercial losses. Call (877) 379-2767 to schedule an assessment or get a written scope.
+For 24/7 emergency response in Chicago and the surrounding suburbs, Dry Bros handles extraction, structural drying, and insurance documentation for residential and commercial losses. Call (877) 379-2767 to schedule an assessment or get a written scope.
 
 If you are also seeing discoloration or musty odors after a water event, read [7 Signs You Have Hidden Mold](/blog/signs-of-hidden-mold/) before assuming the job is done.
 
 ---
 
-**About Dry Bros Water & Fire Restoration**
+**About Dry Bros**
 
-Dry Bros Water & Fire Restoration is a licensed and insured restoration company serving Chicago, IL and surrounding communities including Naperville, Evanston, Oak Park, and Cicero. Their crews handle water damage restoration, water cleanup, flood damage restoration, burst pipe repair, basement flooding cleanup, sewage cleanup, and related services across the Chicago metro area. Available 24/7. Call (877) 379-2767.
+Dry Bros is a licensed and insured restoration company serving Chicago, IL and surrounding communities including Naperville, Evanston, Oak Park, and Cicero. Their crews handle water damage restoration, water cleanup, flood damage restoration, burst pipe repair, basement flooding cleanup, sewage cleanup, and related services across the Chicago metro area. Available 24/7. Call (877) 379-2767.

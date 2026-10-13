@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Evanston, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Storm Damage Restoration in Evanston, IL | Dry Bros"
 h1: "24/7 Emergency Storm Damage Restoration in Evanston"
 meta_description: "24/7 emergency storm damage restoration in Evanston, IL. Insurance billing accepted. Call us now."
 primary_keyword: "storm damage restoration evanston"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Evanston? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Evanston sits at the edge of Lake Michigan, and that geography shapes every storm that rolls through. When a line of severe thunderstorms pushes in from the northwest or a late-season nor'easter stacks moisture off the lake, the result isn't just wind and rain, it's fallen tree limbs through rooflines, window failures in century-old brick two-flats, and basement drains overwhelmed by runoff that has nowhere to go on flat, clay-heavy soil. Dry Bros Water & Fire Restoration responds to that specific combination of problems, not a generic checklist.
+Evanston sits at the edge of Lake Michigan, and that geography shapes every storm that rolls through. When a line of severe thunderstorms pushes in from the northwest or a late-season nor'easter stacks moisture off the lake, the result isn't just wind and rain, it's fallen tree limbs through rooflines, window failures in century-old brick two-flats, and basement drains overwhelmed by runoff that has nowhere to go on flat, clay-heavy soil. Dry Bros responds to that specific combination of problems, not a generic checklist.
 
 ## Why Evanston Properties See Distinctive Storm Damage
 

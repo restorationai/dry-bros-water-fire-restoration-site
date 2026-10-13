@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Flood Damage Restoration in Brookfield, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Flood Damage Restoration in Brookfield, IL | Dry Bros"
 h1: "24/7 Emergency Flood Damage Restoration in Brookfield"
 meta_description: "24/7 emergency flood damage restoration in Brookfield, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "flood damage restoration brookfield"
@@ -42,4 +42,4 @@ Most standard homeowners policies exclude flood water that enters from the outsi
 
 Homes closer to Salt Creek, particularly along the eastern edge of the village, often have sump pumps and French drains added decades after the original build, retrofits rather than original equipment. When those systems were installed matters: a sump pump added in the 1980s may not have a battery backup, which means it fails at the exact moment Brookfield's power grid is most likely to flicker during a storm. We check backup power on these systems as part of our initial walkthrough, because a pump that isn't running is the same as no pump at all.
 
-Flood damage in Brookfield doesn't wait for business hours, and neither do we. If Salt Creek has sent water into your basement or crawlspace, call Dry Bros Water & Fire Restoration at (877) 379-2767 and we'll get a crew moving toward your address.
+Flood damage in Brookfield doesn't wait for business hours, and neither do we. If Salt Creek has sent water into your basement or crawlspace, call Dry Bros at (877) 379-2767 and we'll get a crew moving toward your address.

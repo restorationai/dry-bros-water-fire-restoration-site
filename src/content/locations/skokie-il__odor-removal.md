@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Skokie, IL | Dry Bros Water & Fire Restoration"
+title: "Odor Removal and Deodorization in Skokie, IL | Dry Bros"
 h1: "Odor Removal and Deodorization in Skokie"
 meta_description: "Odor removal and deodorization in Skokie, IL. Insurance billing accepted. Call us now."
 primary_keyword: "odor removal and deodorization skokie"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Skokie's dense mix of postwar brick ranches and mid-century two-flats holds odors differently than newer construction, the porous mortar joints, original plaster ceilings, and older HVAC ductwork that characterizes so much of the village's housing stock can trap smoke, fire, and mold-related smells long after the visible damage is gone. Dry Bros Water & Fire Restoration brings professional odor removal and deodorization to Skokie properties using methods matched to the specific materials and conditions found here, not a one-size-fits-all approach borrowed from newer suburban markets.
+Skokie's dense mix of postwar brick ranches and mid-century two-flats holds odors differently than newer construction, the porous mortar joints, original plaster ceilings, and older HVAC ductwork that characterizes so much of the village's housing stock can trap smoke, fire, and mold-related smells long after the visible damage is gone. Dry Bros brings professional odor removal and deodorization to Skokie properties using methods matched to the specific materials and conditions found here, not a one-size-fits-all approach borrowed from newer suburban markets.
 
 ## Why Skokie Properties Hold Odors Longer
 

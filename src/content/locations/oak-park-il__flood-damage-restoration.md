@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Flood Damage Restoration in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Flood Damage Restoration in Oak Park, IL | Dry Bros"
 h1: "24/7 Emergency Flood Damage Restoration in Oak Park"
 meta_description: "24/7 emergency flood damage restoration in Oak Park, IL. Insurance billing accepted. Call us now."
 primary_keyword: "flood damage restoration oak park"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Flooding emergency in Oak Park? We answer 24/7.** Call now and our crew heads out to pump out the water and stop the damage from spreading.
 
-Oak Park sits at the edge of Cook County where the flat prairie grade and aging combined sewer infrastructure create a flood profile unlike most Chicago suburbs. When a heavy storm rolls through, water doesn't just enter through doors and windows, it backs up through floor drains, seeps beneath century-old limestone foundations, and saturates the balloon-frame construction that defines so much of the village's residential stock. Dry Bros Water & Fire Restoration responds to flood damage calls throughout Oak Park, bringing industrial extraction and drying equipment to homes where the architecture itself can complicate every step of the recovery.
+Oak Park sits at the edge of Cook County where the flat prairie grade and aging combined sewer infrastructure create a flood profile unlike most Chicago suburbs. When a heavy storm rolls through, water doesn't just enter through doors and windows, it backs up through floor drains, seeps beneath century-old limestone foundations, and saturates the balloon-frame construction that defines so much of the village's residential stock. Dry Bros responds to flood damage calls throughout Oak Park, bringing industrial extraction and drying equipment to homes where the architecture itself can complicate every step of the recovery.
 
 ## Why Oak Park Properties See Flood Damage Differently
 

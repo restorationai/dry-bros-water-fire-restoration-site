@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Oak Park, IL | Dry Bros"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Oak Park"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Oak Park, IL. Insurance billing accepted. Call us now."
 primary_keyword: "burst pipe cleanup and repair oak park"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-Oak Park's winters are unforgiving, and the village's housing stock, much of it built before World War II, carries plumbing that was never designed to handle the freeze-thaw cycles that define a Chicago-area winter. When a pipe lets go inside a century-old craftsman or a Prairie-style two-flat, water moves fast through plaster walls, original hardwood floors, and basement cavities that were never meant to drain. Dry Bros Water & Fire Restoration responds to burst pipe emergencies across Oak Park, bringing industrial extraction and structural drying equipment to homes that need more than a mop and a fan.
+Oak Park's winters are unforgiving, and the village's housing stock, much of it built before World War II, carries plumbing that was never designed to handle the freeze-thaw cycles that define a Chicago-area winter. When a pipe lets go inside a century-old craftsman or a Prairie-style two-flat, water moves fast through plaster walls, original hardwood floors, and basement cavities that were never meant to drain. Dry Bros responds to burst pipe emergencies across Oak Park, bringing industrial extraction and structural drying equipment to homes that need more than a mop and a fan.
 
 ## Why Oak Park Properties See Burst Pipe Issues
 
@@ -52,4 +52,4 @@ In Oak Park's older two-flats and greystones, particularly those that were conve
 
 If you're in a converted two-flat or a vintage condo building and you're not sure who owns the broken pipe, call us and call your association's management contact at the same time. Getting that question answered early prevents delays in both the repair authorization and the insurance process.
 
-Burst pipe water damage in Oak Park moves quickly through materials that have been absorbing moisture for decades. The sooner extraction starts, the less secondary damage, and the smaller the overall claim. Call Dry Bros Water & Fire Restoration now to get a crew scheduled for your Oak Park property.
+Burst pipe water damage in Oak Park moves quickly through materials that have been absorbing moisture for decades. The sooner extraction starts, the less secondary damage, and the smaller the overall claim. Call Dry Bros now to get a crew scheduled for your Oak Park property.

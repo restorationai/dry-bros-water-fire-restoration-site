@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Flood Damage Restoration in Lyons, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Flood Damage Restoration in Lyons, IL | Dry Bros"
 h1: "24/7 Emergency Flood Damage Restoration in Lyons"
 meta_description: "24/7 emergency flood damage restoration in Lyons, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "flood damage restoration lyons"
@@ -44,4 +44,4 @@ A detail that catches a lot of Lyons homeowners off guard: when the Des Plaines 
 
 Flood losses are frequently handled through a separate flood insurance policy rather than a standard homeowner's policy, which catches people off guard when a claim gets denied under the wrong coverage. We document water lines, affected materials, and moisture readings thoroughly so you have what's needed whether you're filing under a flood policy, a sewer backup rider, or working directly with FEMA in a declared disaster. For condo or townhome properties in Lyons with shared basements or mechanical rooms, we coordinate with property management so common-area drying doesn't get held up waiting on individual unit decisions.
 
-If water from the Des Plaines River, a sewer backup, or storm runoff has reached your home or business in Lyons, don't wait on the rest of the cleanup to figure itself out. Call Dry Bros Water & Fire Restoration at (877) 379-2767 and we'll get a crew moving on flood extraction and drying right away.
+If water from the Des Plaines River, a sewer backup, or storm runoff has reached your home or business in Lyons, don't wait on the rest of the cleanup to figure itself out. Call Dry Bros at (877) 379-2767 and we'll get a crew moving on flood extraction and drying right away.

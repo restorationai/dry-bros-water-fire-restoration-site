@@ -52,7 +52,7 @@ Third, don't assume your insurer's first scope covers everything. Adjusters some
 
 ## What should I do first after a fire in my Chicago home?
 
-The first call after the fire department clears the scene should be to a restoration company that can board up the structure immediately and start documenting damage before you touch anything. Dry Bros Water & Fire Restoration answers 24/7 and can get a crew assessing the property and securing openings the same day.
+The first call after the fire department clears the scene should be to a restoration company that can board up the structure immediately and start documenting damage before you touch anything. Dry Bros answers 24/7 and can get a crew assessing the property and securing openings the same day.
 
 Before a crew arrives, avoid running the HVAC system (it spreads soot further), avoid wiping soot with household cleaners, and photograph every room, including ones that only smell like smoke, for the insurance file. Once on site, a restoration crew scopes the full extent of smoke travel, documents it in writing for the adjuster, and sequences the board-up, cleaning, odor removal, and contents work so nothing sits exposed longer than it has to.
 
@@ -62,8 +62,8 @@ A fire is disorienting enough without guessing at the cleanup order. Getting the
 
 ---
 
-**About Dry Bros Water & Fire Restoration**
+**About Dry Bros**
 
-Dry Bros Water & Fire Restoration is a locally owned and operated, licensed and insured restoration company serving Chicago, IL and the surrounding suburbs including Naperville, Evanston, Oak Park, and Skokie. The team, led by Amin Mashouf, handles fire and smoke damage restoration, water damage restoration, mold remediation, storm damage, and contents restoration, and is available 24/7 for emergency response across the Chicago area.
+Dry Bros is a locally owned and operated, licensed and insured restoration company serving Chicago, IL and the surrounding suburbs including Naperville, Evanston, Oak Park, and Skokie. The team, led by Amin Mashouf, handles fire and smoke damage restoration, water damage restoration, mold remediation, storm damage, and contents restoration, and is available 24/7 for emergency response across the Chicago area.
 
-**Need help now?** [Call Dry Bros Water & Fire Restoration at (877) 379-2767](tel:+18773792767).
+**Need help now?** [Call Dry Bros at (877) 379-2767](tel:+18773792767).

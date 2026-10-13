@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "Contents Restoration and Storage in Berwyn, IL | Dry Bros"
 h1: "Contents Restoration and Storage in Berwyn"
 meta_description: "Contents restoration and storage in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "contents restoration and storage berwyn"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Contents Restoration and Storage"
 rendered: true
 ---
-Berwyn's housing stock tells a story in wood, plaster, and brick, most of the city's bungalows and two-flats were built between the 1910s and 1950s, and the contents inside them often carry the same history. When a burst pipe soaks a living room or a kitchen fire leaves smoke residue embedded in upholstered furniture and family heirlooms, the belongings inside those homes deserve the same careful attention as the structure itself. Contents restoration and storage is the part of disaster recovery most homeowners don't think about until they're standing in a damaged room wondering what can be saved, and Dry Bros Water & Fire Restoration handles exactly that.
+Berwyn's housing stock tells a story in wood, plaster, and brick, most of the city's bungalows and two-flats were built between the 1910s and 1950s, and the contents inside them often carry the same history. When a burst pipe soaks a living room or a kitchen fire leaves smoke residue embedded in upholstered furniture and family heirlooms, the belongings inside those homes deserve the same careful attention as the structure itself. Contents restoration and storage is the part of disaster recovery most homeowners don't think about until they're standing in a damaged room wondering what can be saved, and Dry Bros handles exactly that.
 
 ## Why Berwyn Homes Create Unique Contents Challenges
 
@@ -46,4 +46,4 @@ If your carrier has questions about the scope of contents restoration work, the 
 
 Berwyn's bungalow belt, the rows of brick and frame bungalows that define much of the city's residential character, often have finished basements that families use as living space, home offices, or storage for everything from holiday decorations to furniture passed down through generations. When basement flooding occurs, those lower levels can contain some of the most sentimental and hardest-to-replace items in the home. Because basements in this area frequently have older floor drains that back up rather than drain during heavy rain events, water can enter faster than expected and reach items on low shelving before the homeowner is even aware of the problem. If you store anything of value in a Berwyn basement, keeping items on shelving at least 12 inches off the floor is a simple precaution that can make the difference between a restorable item and a total loss.
 
-If your home in Berwyn has been affected by water, fire, or smoke damage and you're worried about your belongings, call Dry Bros Water & Fire Restoration at **call us now**. The sooner contents are assessed and moved to a controlled environment, the better the chances of a full recovery, for your home and everything inside it.
+If your home in Berwyn has been affected by water, fire, or smoke damage and you're worried about your belongings, call Dry Bros at **call us now**. The sooner contents are assessed and moved to a controlled environment, the better the chances of a full recovery, for your home and everything inside it.

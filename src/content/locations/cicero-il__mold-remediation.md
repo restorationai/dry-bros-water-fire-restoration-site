@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Cicero, IL | Dry Bros Water & Fire Restoration"
+title: "Mold Remediation in Cicero, IL | Dry Bros"
 h1: "Mold Remediation in Cicero"
 meta_description: "Mold remediation in Cicero, IL. Insurance billing accepted. Call us now."
 primary_keyword: "mold remediation cicero"
@@ -48,4 +48,4 @@ Mold claims are among the more contested in residential insurance, because cover
 
 In Cicero's older two-flat and three-flat buildings, a mold problem in one unit frequently has its moisture source in a shared wall cavity, a common basement, or a roof that serves the whole structure. That matters for remediation scope: treating only the unit where the smell is present can leave the source untouched in a space the affected tenant doesn't control. When we assess a multi-unit property in Cicero, we look at the building as a system, not just the unit that called. Landlords and property managers should be aware that a single-unit mold complaint often warrants a building-wide moisture inspection before any remediation work begins.
 
-If mold has shown up in your Cicero home or rental property, the right move is an honest assessment before any work starts. Call Dry Bros Water & Fire Restoration now to schedule an inspection, we'll tell you exactly what's there, what caused it, and what it takes to clear it properly.
+If mold has shown up in your Cicero home or rental property, the right move is an honest assessment before any work starts. Call Dry Bros now to schedule an inspection, we'll tell you exactly what's there, what caused it, and what it takes to clear it properly.

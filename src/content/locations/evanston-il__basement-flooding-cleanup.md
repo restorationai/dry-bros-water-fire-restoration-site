@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Evanston, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Basement Flooding Cleanup in Evanston, IL | Dry Bros"
 h1: "24/7 Emergency Basement Flooding Cleanup in Evanston"
 meta_description: "24/7 emergency basement flooding cleanup in Evanston, IL. Insurance billing accepted. Call us now."
 primary_keyword: "basement flooding cleanup evanston"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
-Evanston sits on a narrow strip of land between Lake Michigan and the Chicago city line, and that geography shapes what happens under your home when it rains hard. The combination of aging combined sewer infrastructure, clay-heavy soil that sheds water rather than absorbing it, and a housing stock that leans heavily on full-depth basements means a heavy storm or a burst supply line can turn a finished lower level into a standing-water emergency faster than most homeowners expect. Dry Bros Water & Fire Restoration responds to flooded basement calls throughout Evanston and coordinates closely with property owners on next steps from the first call.
+Evanston sits on a narrow strip of land between Lake Michigan and the Chicago city line, and that geography shapes what happens under your home when it rains hard. The combination of aging combined sewer infrastructure, clay-heavy soil that sheds water rather than absorbing it, and a housing stock that leans heavily on full-depth basements means a heavy storm or a burst supply line can turn a finished lower level into a standing-water emergency faster than most homeowners expect. Dry Bros responds to flooded basement calls throughout Evanston and coordinates closely with property owners on next steps from the first call.
 
 ## Why Evanston Properties See Basement Flooding
 
@@ -46,4 +46,4 @@ Dry Bros operates out of Chicago, and Evanston is a direct run up Sheridan Road 
 
 One thing that catches Evanston homeowners off guard is how long the ground stays saturated after a significant rain event. Because the clay soil drains so slowly, hydrostatic pressure against the foundation can persist for days after the storm passes, meaning a basement that appears to have stopped taking on water may still be at risk of additional seepage while the surrounding soil is still holding moisture. If your sump pump is running constantly two days after a storm, that's not a malfunction; it's the clay releasing water gradually. We account for this when setting up drying equipment, because pulling equipment too early in this soil environment often leads to secondary moisture problems.
 
-If your basement has taken on water, whether from a backed-up drain, a failed sump, a cracked wall, or a burst pipe, call Dry Bros Water & Fire Restoration at **call us now**. We'll walk through what happened, explain the cleanup process specific to your home's construction, and get the work scheduled before standing water has a chance to cause deeper structural damage or create conditions for mold growth.
+If your basement has taken on water, whether from a backed-up drain, a failed sump, a cracked wall, or a burst pipe, call Dry Bros at **call us now**. We'll walk through what happened, explain the cleanup process specific to your home's construction, and get the work scheduled before standing water has a chance to cause deeper structural damage or create conditions for mold growth.

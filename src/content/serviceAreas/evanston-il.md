@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Evanston, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Evanston, IL | Dry Bros"
 h1: "Restoration Services in Evanston"
 meta_description: "Serving Evanston, IL with water, fire, mold, and storm damage restoration. Experienced team. Call us now."
 primary_keyword: "restoration services evanston"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration responds to water damage, fire damage, mold, and smoke remediation calls throughout Evanston, dispatching from Chicago along the lakefront corridor. Whether the problem is a burst pipe in a century-old greystone basement or smoke damage in a newer condo near the lakefront, the crew arrives with drying equipment, documentation for your insurance carrier, and a clear scope of work, not a sales pitch.
+Dry Bros responds to water damage, fire damage, mold, and smoke remediation calls throughout Evanston, dispatching from Chicago along the lakefront corridor. Whether the problem is a burst pipe in a century-old greystone basement or smoke damage in a newer condo near the lakefront, the crew arrives with drying equipment, documentation for your insurance carrier, and a clear scope of work, not a sales pitch.
 
 ## Restoration emergencies common in Evanston
 
@@ -51,4 +51,4 @@ Evanston begins roughly 13 miles north of downtown Chicago. From the Dry Bros Ch
 
 Most of Evanston's residential housing was built between the 1880s and the 1950s, with a significant share of brick two-flats, Craftsman bungalows, and larger frame homes on full basements. Plaster-on-lath walls are common in this era, and they behave differently from modern drywall when wet, the plaster face can appear intact while the wood lath and framing behind it stay saturated. Galvanized steel supply lines and cast-iron drain stacks are typical in pre-war construction; both corrode over time and can fail without warning. Homes built before 1980 should be assumed to contain asbestos-containing materials in floor tile, pipe insulation, or textured ceilings, and lead-based paint in pre-1978 structures, both require specific handling protocols before any demolition work begins. Evanston's soil is predominantly clay-heavy glacial till that drains slowly and exerts lateral pressure on basement walls. The city's Community Development Department handles building permits for structural repair and reconstruction; most scope-of-work projects beyond cosmetic repair will require a permit, and restoration contractors should plan for that step in the project timeline.
 
-When water, fire, or mold has affected your Evanston property, the decisions you make in the first hours matter, what to move, what to leave, whether to run fans, when to call your carrier. Call Dry Bros Water & Fire Restoration now to talk through what you're seeing and get a crew scheduled.
+When water, fire, or mold has affected your Evanston property, the decisions you make in the first hours matter, what to move, what to leave, whether to run fans, when to call your carrier. Call Dry Bros now to talk through what you're seeing and get a crew scheduled.

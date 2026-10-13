@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Cicero, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Cicero, IL | Dry Bros"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Cicero"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Cicero, IL. Insurance billing accepted. Call us now."
 primary_keyword: "burst pipe cleanup and repair cicero"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-Cicero winters are not gentle on plumbing. When temperatures drop hard off Lake Michigan and stay there for days, the older cast-iron and galvanized supply lines running through uninsulated exterior walls in this town's dense bungalow and two-flat stock can freeze, expand, and split, sometimes quietly behind a kitchen cabinet, sometimes loudly enough to wake the building. When that happens, the clock starts immediately. Dry Bros Water & Fire Restoration responds to burst pipe emergencies in Cicero, handling everything from initial water extraction to structural drying and pipe repair coordination so the damage stops where it started.
+Cicero winters are not gentle on plumbing. When temperatures drop hard off Lake Michigan and stay there for days, the older cast-iron and galvanized supply lines running through uninsulated exterior walls in this town's dense bungalow and two-flat stock can freeze, expand, and split, sometimes quietly behind a kitchen cabinet, sometimes loudly enough to wake the building. When that happens, the clock starts immediately. Dry Bros responds to burst pipe emergencies in Cicero, handling everything from initial water extraction to structural drying and pipe repair coordination so the damage stops where it started.
 
 ## Why Cicero Properties See Burst Pipe Issues
 

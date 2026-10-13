@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Basement Flooding Cleanup in Berwyn, IL | Dry Bros"
 h1: "24/7 Emergency Basement Flooding Cleanup in Berwyn"
 meta_description: "24/7 emergency basement flooding cleanup in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "basement flooding cleanup berwyn"
@@ -55,4 +55,4 @@ We document the loss thoroughly: photographs of all affected materials, moisture
 
 In Berwyn's older bungalow belt, the basement floor is often a single layer of concrete poured directly over compacted fill, with no vapor barrier beneath it. When groundwater rises, it doesn't just come through the walls, it wicks up through the slab itself, and the floor reads damp or even wet across its entire surface. Thermal imaging often shows this as a uniform cool pattern rather than the localized wet spots you'd see from a pipe leak. Drying a slab-wicked basement takes longer than a typical pipe-burst loss because you're pulling moisture out of the concrete mass itself, not just the air above it. Homeowners are sometimes surprised when drying takes several days even after the visible water is gone, that's the slab releasing what it absorbed.
 
-If your basement has taken on water, the sooner extraction starts, the shorter that drying window. Call Dry Bros Water & Fire Restoration now and we'll walk you through what to expect for your specific situation in Berwyn.
+If your basement has taken on water, the sooner extraction starts, the shorter that drying window. Call Dry Bros now and we'll walk you through what to expect for your specific situation in Berwyn.

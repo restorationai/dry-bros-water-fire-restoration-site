@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Cicero, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Board-Up and Tarping in Cicero, IL | Dry Bros"
 h1: "24/7 Emergency Board-Up and Tarping in Cicero"
 meta_description: "24/7 emergency board-up and tarping in Cicero, IL. Insurance billing accepted. Call us now."
 primary_keyword: "emergency board-up and tarping cicero"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Cicero? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Cicero's dense blocks of early-twentieth-century brick two-flats and bungalows sit close together, and when fire, a severe storm, or a break-in leaves a structure open to the elements, every hour the building stays unsecured compounds the damage. Wind off Lake Michigan funnels through the grid of tight streets here, driving rain into exposed interiors and accelerating deterioration in ways that a boarded-up opening or a properly weighted tarp can stop almost immediately. Dry Bros Water & Fire Restoration responds to those calls across Cicero, moving quickly to close the breach before the weather, or opportunistic entry, turns a contained loss into a far larger one.
+Cicero's dense blocks of early-twentieth-century brick two-flats and bungalows sit close together, and when fire, a severe storm, or a break-in leaves a structure open to the elements, every hour the building stays unsecured compounds the damage. Wind off Lake Michigan funnels through the grid of tight streets here, driving rain into exposed interiors and accelerating deterioration in ways that a boarded-up opening or a properly weighted tarp can stop almost immediately. Dry Bros responds to those calls across Cicero, moving quickly to close the breach before the weather, or opportunistic entry, turns a contained loss into a far larger one.
 
 ## Why Cicero Properties Face Particular Board-Up and Tarping Demands
 

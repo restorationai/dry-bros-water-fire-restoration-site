@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Sewage Cleanup and Sanitization in Skokie, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Sewage Cleanup and Sanitization in Skokie, IL | Dry Bros"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Skokie"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Skokie, IL. Insurance billing accepted. Call us now."
 primary_keyword: "sewage cleanup and sanitization skokie"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Skokie? We answer 24/7.** Call now and our crew heads out to contain the contamination and start the cleanup.
 
-Skokie sits on some of the flattest, most clay-dense ground in Cook County, and that geology matters the moment a sewer line backs up into your basement. Clay soil drains slowly, so when the Metropolitan Water Reclamation District's combined sewer system surges during a heavy rain event, the pressure has nowhere to go but backward through floor drains and laundry tubs. Dry Bros Water & Fire Restoration responds to sewage backup calls throughout Skokie, handling raw sewage removal and full sanitization so the space is safe to occupy again.
+Skokie sits on some of the flattest, most clay-dense ground in Cook County, and that geology matters the moment a sewer line backs up into your basement. Clay soil drains slowly, so when the Metropolitan Water Reclamation District's combined sewer system surges during a heavy rain event, the pressure has nowhere to go but backward through floor drains and laundry tubs. Dry Bros responds to sewage backup calls throughout Skokie, handling raw sewage removal and full sanitization so the space is safe to occupy again.
 
 ## Why Skokie Properties See Sewage Backup Problems
 

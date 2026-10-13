@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Cicero, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Fire Damage Restoration in Cicero, IL | Dry Bros"
 h1: "24/7 Emergency Fire Damage Restoration in Cicero"
 meta_description: "24/7 emergency fire damage restoration in Cicero, IL. Insurance billing accepted. Call us now."
 primary_keyword: "fire damage restoration cicero"
@@ -49,4 +49,4 @@ Fire claims in Cook County tend to be complex. Carriers often send their own adj
 
 Cicero's brick bungalows often have a feature that surprises homeowners after a fire: the original wood window frames and interior trim were frequently painted with oil-based paint through the mid-20th century, and those layers react differently to heat and smoke than modern latex finishes. Scorched or heavily smoked trim in these homes can off-gas a distinct, persistent odor even after surface cleaning because the old oil-based layers underneath have been volatilized by heat. In our experience working with this era of construction across Cook County, that trim often needs to be stripped or replaced rather than simply repainted, a detail that affects both the restoration timeline and the scope submitted to your carrier.
 
-If you are dealing with fire or smoke damage in Cicero, the sooner the structure is assessed and secured, the more options remain available for salvage. Call Dry Bros Water & Fire Restoration now to schedule an evaluation and get a clear picture of what the restoration process will involve for your specific property.
+If you are dealing with fire or smoke damage in Cicero, the sooner the structure is assessed and secured, the more options remain available for salvage. Call Dry Bros now to schedule an evaluation and get a clear picture of what the restoration process will involve for your specific property.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Brookfield, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Brookfield, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Brookfield"
 meta_description: "24/7 emergency water damage restoration in Brookfield, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration brookfield"
@@ -38,4 +38,4 @@ Most of the water losses we handle in this area come through homeowner's policie
 
 Basements near Salt Creek and the lower-lying blocks closer to the floodplain tend to take on water from the outside in, through foundation seepage and window wells, rather than from an internal plumbing failure. That distinction matters for how we approach drying: a seepage event usually means the surrounding soil stays saturated for days after the rain stops, so we leave dehumidification running longer than we would for a one-time pipe break, and we check crawlspace and sump pit conditions before calling the job finished.
 
-Water does not wait for business hours, and neither do we. If you are standing in a Brookfield basement right now watching water creep across the floor, stop trying to manage it with towels and a shop vac. Call Dry Bros Water & Fire Restoration at (877) 379-2767 and we will walk you through what to do until our crew is on site to start extraction and drying the right way.
+Water does not wait for business hours, and neither do we. If you are standing in a Brookfield basement right now watching water creep across the floor, stop trying to manage it with towels and a shop vac. Call Dry Bros at (877) 379-2767 and we will walk you through what to do until our crew is on site to start extraction and drying the right way.

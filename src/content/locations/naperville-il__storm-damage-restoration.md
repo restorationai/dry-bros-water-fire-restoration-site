@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Naperville, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Storm Damage Restoration in Naperville, IL | Dry Bros"
 h1: "24/7 Emergency Storm Damage Restoration in Naperville"
 meta_description: "24/7 emergency storm damage restoration in Naperville, IL. Insurance billing accepted. Call us now."
 primary_keyword: "storm damage restoration naperville"
@@ -53,4 +53,4 @@ Many of Naperville's planned communities and newer subdivisions are governed by 
 
 One pattern that shows up repeatedly in Naperville's established neighborhoods is the mature tree canopy, the city's older residential streets are lined with silver maples and cottonwoods that were planted decades ago and have grown to significant size. Those trees are beautiful, but silver maples in particular are brittle-wooded and prone to large limb failures in straight-line wind events even when the trunk looks healthy. When a limb that size comes down on a roof, it rarely punches a clean hole, it drags shingles, tears gutters, and can crack ridge boards or rafters along a several-foot run. The visible damage at the point of impact is only part of the story; the structural assessment needs to follow the load path, not just the obvious breach.
 
-If your home has taken storm damage, call Dry Bros Water & Fire Restoration at **call us now**. The sooner the structure is stabilized and water intrusion is stopped, the narrower the gap between what the storm damaged and what the repair bill covers.
+If your home has taken storm damage, call Dry Bros at **call us now**. The sooner the structure is stabilized and water intrusion is stopped, the narrower the gap between what the storm damaged and what the repair bill covers.

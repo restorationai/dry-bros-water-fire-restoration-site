@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Maywood, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Maywood, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Maywood"
 meta_description: "24/7 emergency water damage restoration in Maywood, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration maywood"

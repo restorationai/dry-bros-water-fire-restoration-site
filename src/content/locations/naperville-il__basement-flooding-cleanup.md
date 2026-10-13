@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Naperville, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Basement Flooding Cleanup in Naperville, IL | Dry Bros"
 h1: "24/7 Emergency Basement Flooding Cleanup in Naperville"
 meta_description: "24/7 emergency basement flooding cleanup in Naperville, IL. Insurance billing accepted. Call us now."
 primary_keyword: "basement flooding cleanup naperville"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Flooded basement in Naperville? We answer 24/7.** Call now and our crew heads out to pump out the water and start drying.
 
-Naperville sits on the DuPage Plain, a stretch of flat glacial till that drains slowly after heavy rain, and when a summer cloudburst or a rapid snowmelt overwhelms the ground, that water finds the lowest point on your property fast. Basements in Naperville's established subdivisions and newer planned communities alike can go from dry to ankle-deep in the time it takes to drive home from work. Dry Bros Water & Fire Restoration responds to flooded basements across Naperville, moving quickly to extract standing water, dry structural materials, and protect your home before secondary damage sets in.
+Naperville sits on the DuPage Plain, a stretch of flat glacial till that drains slowly after heavy rain, and when a summer cloudburst or a rapid snowmelt overwhelms the ground, that water finds the lowest point on your property fast. Basements in Naperville's established subdivisions and newer planned communities alike can go from dry to ankle-deep in the time it takes to drive home from work. Dry Bros responds to flooded basements across Naperville, moving quickly to extract standing water, dry structural materials, and protect your home before secondary damage sets in.
 
 ## Why Naperville Properties See Basement Flooding Issues
 

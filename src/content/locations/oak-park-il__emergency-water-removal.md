@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Removal & Cleanup in Oak Park, IL | Dry Bros"
 h1: "24/7 Emergency Water Removal & Cleanup in Oak Park"
 meta_description: "24/7 emergency water removal and cleanup in Oak Park, IL. Insurance billing accepted. Call us now."
 primary_keyword: "emergency water removal oak park"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-Oak Park sits on some of the flattest, most clay-dense ground in Cook County, and when a pipe bursts or a storm backs up a basement drain, that clay soil has nowhere to send the water. It pools under slabs, wicks into century-old brick foundations, and saturates the lathe-and-plaster walls that define so much of Oak Park's architectural character. Dry Bros Water & Fire Restoration responds to emergency water removal and cleanup calls across Oak Park, bringing industrial extraction and drying equipment to homes where the damage is often deeper and slower to release than it first appears on the surface.
+Oak Park sits on some of the flattest, most clay-dense ground in Cook County, and when a pipe bursts or a storm backs up a basement drain, that clay soil has nowhere to send the water. It pools under slabs, wicks into century-old brick foundations, and saturates the lathe-and-plaster walls that define so much of Oak Park's architectural character. Dry Bros responds to emergency water removal and cleanup calls across Oak Park, bringing industrial extraction and drying equipment to homes where the damage is often deeper and slower to release than it first appears on the surface.
 
 ## Why Oak Park Properties See Water Damage Differently
 
@@ -54,4 +54,4 @@ Most homeowner policies in Illinois distinguish between sudden and accidental di
 
 Oak Park's plaster walls, common in homes built before World War II, behave very differently from modern drywall during a water loss. Plaster can read nearly dry at the surface with a pin-type meter while the underlying wood lath and the horsehair-reinforced plaster body remain significantly saturated. This means drying timelines in many Oak Park homes run longer than the industry average for comparable square footage, and crews need to monitor readings deeper into the wall assembly rather than relying on surface checks alone. Rushing the drying phase in a plaster home is one of the most common reasons secondary mold growth appears weeks after emergency water removal and cleanup is declared complete.
 
-If you're dealing with standing water or visible water damage anywhere in Oak Park, call Dry Bros Water & Fire Restoration at **call us now**. The sooner extraction and drying equipment is on-site, the narrower the window for structural damage and microbial growth to take hold in your home's walls, floors, and framing.
+If you're dealing with standing water or visible water damage anywhere in Oak Park, call Dry Bros at **call us now**. The sooner extraction and drying equipment is on-site, the narrower the window for structural damage and microbial growth to take hold in your home's walls, floors, and framing.

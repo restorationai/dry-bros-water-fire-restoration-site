@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Stickney, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Stickney, IL | Dry Bros"
 h1: "Restoration Services in Stickney"
 meta_description: "Serving Stickney, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services stickney"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water, fire, and storm damage cleanup for homes and small commercial buildings throughout Stickney, from burst supply lines in older ranch homes to basement backups after heavy rain along the Des Plaines River corridor. We document the loss, extract water or soot, dry structures to the IICRC S500 standard, and work directly with your insurance adjuster so the scope of repairs is clear from day one.
+Dry Bros handles water, fire, and storm damage cleanup for homes and small commercial buildings throughout Stickney, from burst supply lines in older ranch homes to basement backups after heavy rain along the Des Plaines River corridor. We document the loss, extract water or soot, dry structures to the IICRC S500 standard, and work directly with your insurance adjuster so the scope of repairs is clear from day one.
 
 ## Restoration emergencies common in Stickney
 
@@ -43,4 +43,4 @@ Much of Stickney's housing dates to the postwar boom of the 1940s through 1960s:
 
 The village sits near the Des Plaines River and low-lying drainage areas, so basements can see groundwater pressure from below in addition to surface water from above during heavy rain. Structural repairs and rebuild work generally require a permit through the Village of Stickney's building department, with Cook County and Illinois state plumbing and electrical code governing the trade work itself; a licensed contractor should always confirm current permit triggers before opening walls or replacing systems.
 
-If water, fire, smoke, or storm damage has hit your Stickney home or building, call Dry Bros Water & Fire Restoration at (877) 379-2767. We're available 24/7 to start mitigation, document the damage for your insurance claim, and get drying equipment running before secondary damage sets in.
+If water, fire, smoke, or storm damage has hit your Stickney home or building, call Dry Bros at (877) 379-2767. We're available 24/7 to start mitigation, document the damage for your insurance claim, and get drying equipment running before secondary damage sets in.

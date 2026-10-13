@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Cicero, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Smoke Damage Restoration in Cicero, IL | Dry Bros"
 h1: "24/7 Emergency Smoke Damage Restoration in Cicero"
 meta_description: "24/7 emergency smoke damage restoration in Cicero, IL. Insurance billing accepted. Call us now."
 primary_keyword: "smoke damage restoration cicero"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Smoke damage emergency in Cicero? We answer 24/7.** Call now and our crew heads out to stop smoke and soot damage from spreading.
 
-Cicero's dense residential blocks, row after row of brick two-flats and bungalows built between the 1910s and 1950s, hold onto smoke the way old masonry holds onto cold: deeply, invisibly, and long after the fire trucks have left. When a kitchen fire or an electrical blaze chars the interior of one of these tightly constructed homes, smoke residue doesn't just coat the walls. It migrates into plaster, burrows into the mortar between brick courses, and settles into the wooden subfloor beneath linoleum that's been layered over original hardwood for decades. Dry Bros Water & Fire Restoration responds to smoke damage calls across Cicero and the broader Cook County corridor, helping homeowners move from the acrid, lingering smell of a fire back to a livable, safe home.
+Cicero's dense residential blocks, row after row of brick two-flats and bungalows built between the 1910s and 1950s, hold onto smoke the way old masonry holds onto cold: deeply, invisibly, and long after the fire trucks have left. When a kitchen fire or an electrical blaze chars the interior of one of these tightly constructed homes, smoke residue doesn't just coat the walls. It migrates into plaster, burrows into the mortar between brick courses, and settles into the wooden subfloor beneath linoleum that's been layered over original hardwood for decades. Dry Bros responds to smoke damage calls across Cicero and the broader Cook County corridor, helping homeowners move from the acrid, lingering smell of a fire back to a livable, safe home.
 
 ## Why Cicero's Housing Stock Makes Smoke Damage Harder to Clear
 
@@ -59,4 +59,4 @@ Dry Bros operates out of Chicago, and Cicero sits directly on the city's western
 
 Cicero's bungalows frequently have unfinished or partially finished basements with exposed brick foundation walls and wood-joist ceilings. After a fire anywhere in the structure, smoke stratifies, it rises, but it also infiltrates downward into basement spaces through floor gaps and utility penetrations. Restoration crews who don't inspect the basement after an upper-floor fire often miss a significant reservoir of embedded odor. That oversight tends to surface three to six months later when a homeowner notices the smell returning in cooler weather, when the house tightens up and air circulation slows. Any thorough smoke damage assessment in a Cicero bungalow includes the basement, regardless of where the fire originated.
 
-If your home or investment property in Cicero has been affected by fire and smoke, call Dry Bros Water & Fire Restoration at **call us now**. We'll assess the full scope of smoke penetration, walls, HVAC, basement, and all, and walk you through exactly what restoration will involve before any work begins.
+If your home or investment property in Cicero has been affected by fire and smoke, call Dry Bros at **call us now**. We'll assess the full scope of smoke penetration, walls, HVAC, basement, and all, and walk you through exactly what restoration will involve before any work begins.

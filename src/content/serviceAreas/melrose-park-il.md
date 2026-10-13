@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Melrose Park, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Melrose Park, IL | Dry Bros"
 h1: "Restoration Services in Melrose Park"
 meta_description: "Serving Melrose Park, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services melrose park"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water damage, fire and smoke recovery, mold remediation, storm response, biohazard cleanup, and the reconstruction that follows, for homeowners, landlords, and property managers across Melrose Park. We answer 24/7, document the loss for your insurance carrier, and get equipment running the same day you call, whether it's a basement taking on water during a summer storm or a kitchen fire that needs board-up before anything else happens.
+Dry Bros handles water damage, fire and smoke recovery, mold remediation, storm response, biohazard cleanup, and the reconstruction that follows, for homeowners, landlords, and property managers across Melrose Park. We answer 24/7, document the loss for your insurance carrier, and get equipment running the same day you call, whether it's a basement taking on water during a summer storm or a kitchen fire that needs board-up before anything else happens.
 
 ## Restoration emergencies common in Melrose Park
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Burbank, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Fire Damage Restoration in Burbank, IL | Dry Bros"
 h1: "24/7 Emergency Fire Damage Restoration in Burbank"
 meta_description: "24/7 emergency fire damage restoration in Burbank, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "fire damage restoration burbank"

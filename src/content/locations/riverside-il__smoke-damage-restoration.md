@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Riverside, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Smoke Damage Restoration in Riverside, IL | Dry Bros"
 h1: "24/7 Emergency Smoke Damage Restoration in Riverside"
 meta_description: "24/7 emergency smoke damage restoration in Riverside, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "smoke damage restoration riverside"
@@ -44,4 +44,4 @@ Riverside sits close enough to the city that we keep crews moving toward it regu
 
 In Riverside's older homes, the combination of balloon framing and river-adjacent humidity means we almost always check the attic and basement for smoke migration even when the fire was reported as confined to a single room. Skipping that step is the most common reason homeowners call back a few weeks later asking why the smell came back, the residue was still sitting in a wall cavity nobody opened.
 
-If your Riverside property has smoke damage from a fire, furnace malfunction, or drifting wildfire smoke, call Dry Bros Water & Fire Restoration at (877) 379-2767. We're available 24/7 and can walk you through what the first few hours of cleanup and documentation should look like before we're even on site.
+If your Riverside property has smoke damage from a fire, furnace malfunction, or drifting wildfire smoke, call Dry Bros at (877) 379-2767. We're available 24/7 and can walk you through what the first few hours of cleanup and documentation should look like before we're even on site.

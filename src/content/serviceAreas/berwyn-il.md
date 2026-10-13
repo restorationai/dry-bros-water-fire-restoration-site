@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Berwyn, IL | Dry Bros"
 h1: "Restoration Services in Berwyn"
 meta_description: "Serving Berwyn, IL with water, fire, mold, and storm damage restoration. Experienced team. Call us now."
 primary_keyword: "restoration services berwyn"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration responds to water damage, fire damage, mold, and biohazard losses for homeowners and property managers across Berwyn, IL. From a burst pipe in a century-old bungalow to smoke damage after a kitchen fire, the work here demands familiarity with Berwyn's specific building stock, drainage patterns, and local permitting process, not a one-size-fits-all approach. Call us now to reach us directly.
+Dry Bros responds to water damage, fire damage, mold, and biohazard losses for homeowners and property managers across Berwyn, IL. From a burst pipe in a century-old bungalow to smoke damage after a kitchen fire, the work here demands familiarity with Berwyn's specific building stock, drainage patterns, and local permitting process, not a one-size-fits-all approach. Call us now to reach us directly.
 
 ## Restoration emergencies common in Berwyn
 

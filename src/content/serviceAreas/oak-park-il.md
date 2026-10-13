@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Oak Park, IL | Dry Bros"
 h1: "Restoration Services in Oak Park"
 meta_description: "Serving Oak Park, IL with water, fire, mold, and storm damage restoration. Experienced team. Call us now."
 primary_keyword: "restoration services oak park"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration responds to water damage, fire damage, mold, and related emergencies for homeowners and property managers throughout Oak Park. From the century-old greystones along Kenilworth Avenue to the vintage bungalows closer to the Austin Boulevard border, the properties here have their own set of vulnerabilities, and getting restoration right means understanding them before the first piece of equipment rolls through the door. Reach us at **call us now**.
+Dry Bros responds to water damage, fire damage, mold, and related emergencies for homeowners and property managers throughout Oak Park. From the century-old greystones along Kenilworth Avenue to the vintage bungalows closer to the Austin Boulevard border, the properties here have their own set of vulnerabilities, and getting restoration right means understanding them before the first piece of equipment rolls through the door. Reach us at **call us now**.
 
 ## Restoration emergencies common in Oak Park
 
@@ -47,4 +47,4 @@ Oak Park is roughly 10 miles due west of Chicago's downtown core, a straightforw
 
 The overwhelming majority of Oak Park's residential buildings were constructed between roughly 1890 and 1940, with a significant concentration of Prairie-style and Foursquare homes, brick two-flats, and greystone courtyard buildings. Basements are the norm, full, masonry-walled, and often below a water table that rises noticeably during wet seasons. The clay-heavy soils across Cook County drain slowly and exert lateral pressure on foundation walls over time, contributing to cracking and seepage that lets groundwater in during prolonged rain events. Supply plumbing in homes of this era is commonly galvanized steel or early copper; galvanized lines corrode from the inside out and can fail without visible exterior warning. Lead paint and asbestos-containing materials are realistic considerations in pre-1978 construction, and any restoration scope that disturbs those materials requires proper handling protocols. Permits for structural repair or reconstruction in Oak Park are issued through the village's Community Development department; work that goes beyond cosmetic repair typically triggers a permit requirement, and the village enforces those requirements actively.
 
-When water damage, fire, or mold disrupts your Oak Park property, the right response is fast, thorough, and built around what's actually in your walls and under your floors. Call Dry Bros Water & Fire Restoration at **call us now** to talk through what you're dealing with and get the process started.
+When water damage, fire, or mold disrupts your Oak Park property, the right response is fast, thorough, and built around what's actually in your walls and under your floors. Call Dry Bros at **call us now** to talk through what you're dealing with and get the process started.

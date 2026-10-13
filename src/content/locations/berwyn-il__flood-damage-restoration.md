@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Flood Damage Restoration in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Flood Damage Restoration in Berwyn, IL | Dry Bros"
 h1: "24/7 Emergency Flood Damage Restoration in Berwyn"
 meta_description: "24/7 emergency flood damage restoration in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "flood damage restoration berwyn"
@@ -53,4 +53,4 @@ We document the loss thoroughly, photographs, moisture logs, a written scope of 
 
 In Berwyn's pre-war bungalows and two-flats, plaster walls behave very differently from the paper-faced drywall in newer construction. Plaster itself is relatively water-resistant at the surface, but the wood lath behind it absorbs moisture readily and releases it slowly, sometimes taking two to three times longer to reach drying goals than a comparable drywall assembly would. This matters for job timelines and for mold risk: the surface can feel and read dry while the lath is still holding enough moisture to support microbial growth. We account for this in how we set drying targets and how long we monitor before closing out a job.
 
-If your Berwyn home has taken on water, whether from a backed-up floor drain, a sump failure, or storm intrusion, call Dry Bros Water & Fire Restoration now. The sooner the drying process starts, the less secondary damage you're dealing with a week from now.
+If your Berwyn home has taken on water, whether from a backed-up floor drain, a sump failure, or storm intrusion, call Dry Bros now. The sooner the drying process starts, the less secondary damage you're dealing with a week from now.

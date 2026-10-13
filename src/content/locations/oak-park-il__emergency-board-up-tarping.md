@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Board-Up and Tarping in Oak Park, IL | Dry Bros"
 h1: "24/7 Emergency Board-Up and Tarping in Oak Park"
 meta_description: "24/7 emergency board-up and tarping in Oak Park, IL. Insurance billing accepted. Call us now."
 primary_keyword: "emergency board-up and tarping oak park"
@@ -53,4 +53,4 @@ For single-family homeowners, most standard HO-3 policies cover emergency protec
 
 Oak Park's mature urban tree canopy, one of the densest in the western suburbs, is genuinely beautiful, but it creates a specific hazard after storms. Large silver maples and cottonwoods that overhang rooflines are common throughout the village, and when a limb comes down on a slate or clay-tile roof, the damage pattern is different from what you'd see on asphalt shingles. Tile roofs crack and displace rather than tear, leaving irregular gaps that a standard rectangular tarp won't seal cleanly. When we tarp a tile or slate roof in Oak Park, we take extra time to conform the tarp to the broken field and seal the edges carefully, a flat-laid tarp that bridges over displaced tiles still lets water channel underneath.
 
-Call Dry Bros Water & Fire Restoration now to get board-up and tarping scheduled for your Oak Park property. The sooner the openings are sealed, the smaller the secondary damage bill.
+Call Dry Bros now to get board-up and tarping scheduled for your Oak Park property. The sooner the openings are sealed, the smaller the secondary damage bill.

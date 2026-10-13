@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Des Plaines, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Fire Damage Restoration in Des Plaines, IL | Dry Bros"
 h1: "24/7 Emergency Fire Damage Restoration in Des Plaines"
 meta_description: "24/7 emergency fire damage restoration in Des Plaines, IL. Insurance billing accepted. Call us now."
 primary_keyword: "fire damage restoration des plaines"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Des Plaines? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-Des Plaines sits in a dense corridor of Cook County where older residential blocks, mid-century commercial strips, and apartment complexes share tight lots, and when fire moves through a structure here, it rarely stays contained to one room. The mix of balloon-frame construction common in homes built before the 1960s, combined with the region's cold, dry winters that push residents to run space heaters and fireplaces hard, creates conditions where fire spreads fast and smoke penetrates deep into wall cavities before the first engine arrives. Dry Bros Water & Fire Restoration responds to fire damage calls across Des Plaines, helping property owners move from crisis to a livable, documented, repaired structure.
+Des Plaines sits in a dense corridor of Cook County where older residential blocks, mid-century commercial strips, and apartment complexes share tight lots, and when fire moves through a structure here, it rarely stays contained to one room. The mix of balloon-frame construction common in homes built before the 1960s, combined with the region's cold, dry winters that push residents to run space heaters and fireplaces hard, creates conditions where fire spreads fast and smoke penetrates deep into wall cavities before the first engine arrives. Dry Bros responds to fire damage calls across Des Plaines, helping property owners move from crisis to a livable, documented, repaired structure.
 
 ## Why Des Plaines Properties Are Vulnerable After a Fire
 
@@ -53,4 +53,4 @@ If your policy includes additional living expenses (ALE) coverage, we can help y
 
 In Des Plaines, many of the homes built in the postwar decades used a combination of plaster-and-lath walls and original knob-and-tube or early-generation Romex wiring. After a fire, the wiring path matters: smoke and heat can travel along electrical conduit runs into areas that show no visible char, and those areas still need to be assessed before drywall goes back up. Local building permits for fire repair work in Des Plaines are issued through the city's Community and Economic Development department, and inspections are required before walls are closed. We build that inspection window into the project schedule so reconstruction doesn't have to stop and wait.
 
-If you're dealing with fire or smoke damage in Des Plaines, call Dry Bros Water & Fire Restoration at **call us now**. We'll walk you through what the process looks like for your specific property, help you get documentation started, and schedule an assessment so you know exactly what you're facing.
+If you're dealing with fire or smoke damage in Des Plaines, call Dry Bros at **call us now**. We'll walk you through what the process looks like for your specific property, help you get documentation started, and schedule an assessment so you know exactly what you're facing.

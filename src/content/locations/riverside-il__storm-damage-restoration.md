@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Riverside, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Storm Damage Restoration in Riverside, IL | Dry Bros"
 h1: "24/7 Emergency Storm Damage Restoration in Riverside"
 meta_description: "24/7 emergency storm damage restoration in Riverside, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "storm damage restoration riverside"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Storm Damage Restoration"
 rendered: true
 ---
-**Storm damage in Riverside after high winds or heavy rain?** Call Dry Bros Water & Fire Restoration and we'll walk you through what to secure right now while we get a crew moving. Riverside's tree-lined, curvilinear streets, laid out by Frederick Law Olmsted in the 1860s, are part of what makes the village distinctive, but that same mature tree canopy and the village's low-lying position along the Des Plaines River also mean storm damage here tends to involve downed limbs, roof punctures, and water intrusion all at once. We answer 24/7, document the damage for your insurer, and start stabilizing the structure the same day you call.
+**Storm damage in Riverside after high winds or heavy rain?** Call Dry Bros and we'll walk you through what to secure right now while we get a crew moving. Riverside's tree-lined, curvilinear streets, laid out by Frederick Law Olmsted in the 1860s, are part of what makes the village distinctive, but that same mature tree canopy and the village's low-lying position along the Des Plaines River also mean storm damage here tends to involve downed limbs, roof punctures, and water intrusion all at once. We answer 24/7, document the damage for your insurer, and start stabilizing the structure the same day you call.
 
 ## Why Riverside Properties See Storm Damage
 
@@ -42,4 +42,4 @@ Most homeowners' policies cover wind and storm-driven water damage, but coverage
 
 Because Riverside's tree canopy is older and denser than in most surrounding suburbs, storm jobs here more often involve a split timeline: tarping and water extraction happen within hours, but full roof and siding repair waits on village permitting and, in some cases, approval for matching original wood trim or rooflines in the historic district. We build that lag into the claim documentation from day one so homeowners aren't surprised when the structural repair phase takes longer than the mitigation phase.
 
-If a storm has left your Riverside property with a damaged roof, fallen tree limbs, or water coming in where it shouldn't be, don't wait for the next rain to make it worse. Call Dry Bros Water & Fire Restoration at (877) 379-2767 and we'll get a crew assessing the damage and protecting your home today.
+If a storm has left your Riverside property with a damaged roof, fallen tree limbs, or water coming in where it shouldn't be, don't wait for the next rain to make it worse. Call Dry Bros at (877) 379-2767 and we'll get a crew assessing the damage and protecting your home today.

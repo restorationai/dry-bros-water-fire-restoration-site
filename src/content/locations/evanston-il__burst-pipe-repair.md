@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Evanston, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Evanston, IL | Dry Bros"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Evanston"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Evanston, IL. Insurance billing accepted. Call us now."
 primary_keyword: "burst pipe cleanup and repair evanston"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Evanston? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-Evanston's winters are punishing in a specific way: temperatures can swing from the low teens to above freezing within a single week, and that freeze-thaw cycling is exactly what splits supply lines in older homes. When a pipe lets go, behind a kitchen wall, under a basement slab, or inside an exterior soffit, water moves fast and quietly before anyone notices. Dry Bros Water & Fire Restoration responds to burst pipe calls across Evanston, helping property owners stop the damage, dry the structure, and coordinate repairs before secondary problems like mold take hold.
+Evanston's winters are punishing in a specific way: temperatures can swing from the low teens to above freezing within a single week, and that freeze-thaw cycling is exactly what splits supply lines in older homes. When a pipe lets go, behind a kitchen wall, under a basement slab, or inside an exterior soffit, water moves fast and quietly before anyone notices. Dry Bros responds to burst pipe calls across Evanston, helping property owners stop the damage, dry the structure, and coordinate repairs before secondary problems like mold take hold.
 
 ## Why Evanston Properties See Burst Pipe Issues
 
@@ -53,4 +53,4 @@ Evanston also has a mix of single-family homes, two- and three-flats, and larger
 
 In Evanston's older two- and three-flat buildings, common throughout the city's central and southern neighborhoods, the plumbing stacks often run through interior chases that were never insulated because they were assumed to stay warm from the heated living spaces around them. When a building sits vacant, loses heat during a utility interruption, or has a unit that's been unoccupied through a cold stretch, those chase temperatures can drop faster than owners expect. A pipe failure in a shared stack can release water into multiple units simultaneously. If you're managing a rental property and the heat goes out, even briefly, it's worth checking those units before temperatures recover, by the time water appears at a ceiling, it has usually been moving through the structure for hours.
 
-Call Dry Bros Water & Fire Restoration now when a burst pipe hits your Evanston home or building. The sooner the drying process starts, the less of the structure ends up needing replacement.
+Call Dry Bros now when a burst pipe hits your Evanston home or building. The sooner the drying process starts, the less of the structure ends up needing replacement.

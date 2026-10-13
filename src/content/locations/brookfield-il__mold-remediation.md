@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Brookfield, IL | Dry Bros Water & Fire Restoration"
+title: "Mold Remediation in Brookfield, IL | Dry Bros"
 h1: "Mold Remediation in Brookfield"
 meta_description: "24/7 mold remediation in Brookfield, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "mold remediation brookfield"
@@ -42,4 +42,4 @@ Containment barriers, negative air machines, and HEPA air scrubbers are standard
 
 A lot of Brookfield's older homes near the creek have partially below-grade basements with those original rubble stone foundations still in place, sometimes behind a layer of paneling added decades later. That paneling traps moisture against the stone and creates a hidden growth zone that doesn't show up until the smell gets noticeable upstairs. When we're working in one of these basements, we pull back enough of the finished surface to actually see the foundation before we call the job contained, because sealing mold behind a wall that's still feeding it moisture just delays the next call.
 
-If you're dealing with a musty smell, visible growth, or a basement that's stayed damp since the last storm came through Brookfield, call Dry Bros Water & Fire Restoration at (877) 379-2767. We're available 24/7, and the sooner moisture mapping starts, the less material you lose.
+If you're dealing with a musty smell, visible growth, or a basement that's stayed damp since the last storm came through Brookfield, call Dry Bros at (877) 379-2767. We're available 24/7, and the sooner moisture mapping starts, the less material you lose.

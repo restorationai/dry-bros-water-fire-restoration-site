@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in North Riverside, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in North Riverside, IL | Dry Bros"
 h1: "Restoration Services in North Riverside"
 meta_description: "Serving North Riverside, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services north riverside"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water extraction, fire and smoke cleanup, mold remediation, and storm damage repair for homeowners and property managers across North Riverside, IL. Our crews travel from Chicago along I-290 and the Des Plaines River corridor to reach this Cook County village, working directly with insurance carriers so you are not left managing the claim and the cleanup at the same time.
+Dry Bros handles water extraction, fire and smoke cleanup, mold remediation, and storm damage repair for homeowners and property managers across North Riverside, IL. Our crews travel from Chicago along I-290 and the Des Plaines River corridor to reach this Cook County village, working directly with insurance carriers so you are not left managing the claim and the cleanup at the same time.
 
 ## Restoration emergencies common in North Riverside
 
@@ -43,4 +43,4 @@ We're based in Chicago and reach North Riverside primarily via I-290, with the D
 
 Much of North Riverside's housing dates to the postwar boom, with brick and frame bungalows, Cape Cods, and ranch homes built from the 1940s through the 1960s, many on full or partial basements rather than slab foundations. That basement-heavy stock means water intrusion tends to collect and sit rather than drain away, and it's also where older galvanized supply lines and cast iron drain stacks are most likely to be found, both prone to age-related failure. Homes from this era can also carry asbestos-containing materials in old flooring, pipe insulation, or plaster, which a restoration scope has to account for before demolition begins. Structural repairs and rebuilds in North Riverside fall under village and Cook County permitting requirements, with the village handling permit issuance for most residential work. The area's clay-heavy soil, typical of this part of the Chicago region, holds water against foundation walls longer than sandier ground would, which is part of why basement seepage and hydrostatic pressure show up repeatedly in older homes here.
 
-If water, fire, or storm damage has hit your North Riverside home or building, call Dry Bros Water & Fire Restoration at (877) 379-2767. We answer 24/7 and work with most major insurance carriers to get the cleanup started without delay.
+If water, fire, or storm damage has hit your North Riverside home or building, call Dry Bros at (877) 379-2767. We answer 24/7 and work with most major insurance carriers to get the cleanup started without delay.

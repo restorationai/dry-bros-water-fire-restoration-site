@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in River Forest, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Basement Flooding Cleanup in River Forest, IL | Dry Bros"
 h1: "24/7 Emergency Basement Flooding Cleanup in River Forest"
 meta_description: "24/7 emergency basement flooding cleanup in River Forest, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "basement flooding cleanup river forest"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
-**Basement flooding in River Forest?** Call Dry Bros Water & Fire Restoration now, we answer 24/7 and get a crew moving the moment you call. Standing water in a finished rec room or an unfinished mechanical space both carry the same clock: the longer it sits against drywall, carpet pad, and framing, the more of the basement has to be torn out rather than dried. We pump, extract, and start structural drying the same day we're called.
+**Basement flooding in River Forest?** Call Dry Bros now, we answer 24/7 and get a crew moving the moment you call. Standing water in a finished rec room or an unfinished mechanical space both carry the same clock: the longer it sits against drywall, carpet pad, and framing, the more of the basement has to be torn out rather than dried. We pump, extract, and start structural drying the same day we're called.
 
 River Forest's name isn't decorative. The village sits close to the Des Plaines River, and that proximity shapes groundwater behavior across the whole area, not just the lots closest to the water. After a heavy spring rain or a fast snowmelt, the water table along this stretch of the river corridor rises quickly, and older foundation walls that were poured decades before modern waterproofing codes existed often show it first through a damp floor seam or a crack near the footer. Combine that with a housing stock where many homes date to the early and mid-1900s, and you get basements with fieldstone or aging poured-concrete foundations, cast iron drain lines, and sump systems that were retrofitted long after the house was built. When one of those systems is overwhelmed, even an inch of water across a slab can wick up into baseboards, insulation batting, and the bottom plates of framed walls within hours.
 
@@ -40,4 +40,4 @@ We're based out of Chicago and run crews west along the Eisenhower corridor and 
 
 One pattern worth knowing if you're dealing with this for the first time: homes here with partially finished basements often have the mechanical room, sump pit, and laundry area tucked into one corner with a single floor drain serving all of it. If that drain is the sewer-connected type rather than a dedicated storm drain, a basement flood and a sewer backup can look identical at first glance, standing water, similar odor, but they're handled very differently for safety and disposal reasons. We test before we start pulling material so you're not paying for the wrong kind of cleanup.
 
-If water is sitting in your basement right now, don't wait on it to recede on its own, every hour changes how much of the structure can be saved. Call Dry Bros Water & Fire Restoration and we'll walk you through what to expect before a truck is even on the way.
+If water is sitting in your basement right now, don't wait on it to recede on its own, every hour changes how much of the structure can be saved. Call Dry Bros and we'll walk you through what to expect before a truck is even on the way.

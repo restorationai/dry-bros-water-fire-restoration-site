@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Smoke Damage Restoration in Berwyn, IL | Dry Bros"
 h1: "24/7 Emergency Smoke Damage Restoration in Berwyn"
 meta_description: "24/7 emergency smoke damage restoration in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "smoke damage restoration berwyn"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Smoke damage emergency in Berwyn? We answer 24/7.** Call now and our crew heads out to stop smoke and soot damage from spreading.
 
-Berwyn's dense grid of bungalows and two-flats, most of them built between the 1910s and 1950s, holds smoke the way few newer construction types do. Plaster walls, horsehair insulation, and old-growth wood framing are porous at a microscopic level, and after a kitchen fire or a structural blaze, smoke residue works its way into those materials long before the flames are out. If you're dealing with that acrid, oily smell that won't leave a room no matter how many windows you open, that's not just odor, it's soot chemistry embedded in your walls, ceilings, and ductwork. Dry Bros Water & Fire Restoration responds to smoke damage calls across Berwyn and the surrounding Cook County communities.
+Berwyn's dense grid of bungalows and two-flats, most of them built between the 1910s and 1950s, holds smoke the way few newer construction types do. Plaster walls, horsehair insulation, and old-growth wood framing are porous at a microscopic level, and after a kitchen fire or a structural blaze, smoke residue works its way into those materials long before the flames are out. If you're dealing with that acrid, oily smell that won't leave a room no matter how many windows you open, that's not just odor, it's soot chemistry embedded in your walls, ceilings, and ductwork. Dry Bros responds to smoke damage calls across Berwyn and the surrounding Cook County communities.
 
 ## Why Berwyn's Housing Stock Makes Smoke Damage Harder to Clear
 

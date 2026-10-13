@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Removal & Cleanup in Berwyn, IL | Dry Bros"
 h1: "24/7 Emergency Water Removal & Cleanup in Berwyn"
 meta_description: "24/7 emergency water removal and cleanup in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "emergency water removal berwyn"
@@ -53,4 +53,4 @@ Dry Bros photographs affected materials, records moisture readings at each inspe
 
 Berwyn's brick bungalows were built with full masonry party walls between attached units, and those walls act like sponges during a water loss that originates in one unit and migrates laterally. If your home shares a wall with a neighbor, common in the two-flat and rowhouse sections of the city, a water event on their side can show up as elevated moisture readings on yours days after their loss appears resolved. If you notice a damp smell or soft drywall near a shared wall and your neighbor recently had water damage, that connection is worth investigating before assuming the source is internal to your unit.
 
-Water damage in Berwyn moves fast through old materials and tight building configurations. Call Dry Bros Water & Fire Restoration now for emergency water removal and cleanup to stop the spread before it reaches materials that cannot be saved.
+Water damage in Berwyn moves fast through old materials and tight building configurations. Call Dry Bros now for emergency water removal and cleanup to stop the spread before it reaches materials that cannot be saved.

@@ -1,6 +1,6 @@
 ---
 archetype: "services-hub"
-title: "Restoration Services in Chicago | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Chicago | Dry Bros"
 h1: "Our Restoration Services"
 meta_description: "Full-service restoration in Chicago: water, fire, mold, storm, biohazard, and commercial restoration. Prompt scheduling. Call us now."
 primary_keyword: "restoration services chicago"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services"}]
 faq: [{"question": "Do you work with both residential and commercial properties?", "answer": "Yes. Dry Bros handles losses in single-family homes, condos, apartment buildings, retail spaces, offices, and other commercial properties. The scope and logistics differ, a multi-tenant building has different access, liability, and timeline considerations than a private residence, but the core process of documentation, mitigation, and rebuild applies to both."}, {"question": "What's the difference between mitigation and reconstruction?", "answer": "Mitigation is everything done to stop ongoing damage and stabilize the property: extracting standing water, drying structural materials, removing unsalvageable drywall or flooring, cleaning smoke residue, or containing a biohazard. Reconstruction is the rebuild that follows once the structure is clean and dry, replacing what was removed so the property is restored to its pre-loss condition. Both phases are necessary; skipping or rushing mitigation typically creates bigger problems during reconstruction."}, {"question": "Do you handle insurance claims across all your services?", "answer": "Yes. For water, fire, smoke, storm, mold, and biohazard losses, Dry Bros documents the damage with photos, moisture readings, and written scope notes in the format carriers expect. We work with most major insurance companies and can communicate directly with your adjuster throughout the process. Having a single company manage both mitigation and reconstruction also simplifies the claim, since there's one consistent record of what was damaged and what was done."}]
 rendered: true
 ---
-From a burst pipe flooding a basement at 2 a.m. to smoke-damaged drywall that needs full replacement months later, Dry Bros Water & Fire Restoration handles the complete arc of property damage, initial emergency response, structural drying, cleanup, and rebuild. We work with homeowners, landlords, property managers, and commercial clients across Chicago and the surrounding area, so whether the loss is a single-family bungalow or a multi-unit building, the same crew and process apply.
+From a burst pipe flooding a basement at 2 a.m. to smoke-damaged drywall that needs full replacement months later, Dry Bros handles the complete arc of property damage, initial emergency response, structural drying, cleanup, and rebuild. We work with homeowners, landlords, property managers, and commercial clients across Chicago and the surrounding area, so whether the loss is a single-family bungalow or a multi-unit building, the same crew and process apply.
 
 ## Emergency restoration services
 

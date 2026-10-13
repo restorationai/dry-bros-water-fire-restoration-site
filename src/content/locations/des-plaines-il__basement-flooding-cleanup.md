@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Des Plaines, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Basement Flooding Cleanup in Des Plaines, IL | Dry Bros"
 h1: "24/7 Emergency Basement Flooding Cleanup in Des Plaines"
 meta_description: "24/7 emergency basement flooding cleanup in Des Plaines, IL. Insurance billing accepted. Call us now."
 primary_keyword: "basement flooding cleanup des plaines"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
-Des Plaines sits in a low-lying corridor of Cook County where the combination of flat terrain, clay-heavy soil, and aging combined sewer infrastructure turns a heavy rain event into a basement emergency faster than most homeowners expect. When the North Branch of the Chicago River backs up or a storm overwhelms the municipal system, water doesn't politely wait at the door, it pushes through floor drains, seeps through block foundation walls, and can be ankle-deep before you've found your flashlight. Dry Bros Water & Fire Restoration responds to flooded basements throughout Des Plaines, moving quickly to stop the damage before it compounds.
+Des Plaines sits in a low-lying corridor of Cook County where the combination of flat terrain, clay-heavy soil, and aging combined sewer infrastructure turns a heavy rain event into a basement emergency faster than most homeowners expect. When the North Branch of the Chicago River backs up or a storm overwhelms the municipal system, water doesn't politely wait at the door, it pushes through floor drains, seeps through block foundation walls, and can be ankle-deep before you've found your flashlight. Dry Bros responds to flooded basements throughout Des Plaines, moving quickly to stop the damage before it compounds.
 
 ## Why Des Plaines Properties See Basement Flooding Issues
 

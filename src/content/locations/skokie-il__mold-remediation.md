@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Skokie, IL | Dry Bros Water & Fire Restoration"
+title: "Mold Remediation in Skokie, IL | Dry Bros"
 h1: "Mold Remediation in Skokie"
 meta_description: "Mold remediation in Skokie, IL. Insurance billing accepted. Call us now."
 primary_keyword: "mold remediation skokie"

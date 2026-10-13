@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Storm Damage Restoration in Chicago | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Storm Damage Restoration in Chicago | Dry Bros"
 h1: "24/7 Emergency Storm Damage Restoration in Chicago"
 meta_description: "24/7 emergency storm damage restoration in Chicago and surrounding areas. Insurance billing accepted. Call us now."
 primary_keyword: "storm damage restoration chicago"
@@ -54,7 +54,7 @@ Tree strike claims carry their own complexity. The visible damage is the tree. T
 
 ## What does Storm Damage Restoration cost?
 
-Typical costs vary widely depending on the size of the affected area, how many building systems were compromised, and how long water was present before mitigation began. Most homeowners pay somewhere in the ranges below, these are industry-typical figures, not quotes, and every loss is different; Dry Bros Water & Fire Restoration provides a written scope before any work begins so there are no surprises.
+Typical costs vary widely depending on the size of the affected area, how many building systems were compromised, and how long water was present before mitigation began. Most homeowners pay somewhere in the ranges below, these are industry-typical figures, not quotes, and every loss is different; Dry Bros provides a written scope before any work begins so there are no surprises.
 
 | Scenario | Typical industry range |
 |---|---|

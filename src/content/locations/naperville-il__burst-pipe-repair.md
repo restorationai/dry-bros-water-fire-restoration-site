@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Burst Pipe Cleanup and Repair in Naperville, IL | Dry Bros Water & Fire Restoration"
+title: "Emergency Burst Pipe Cleanup and Repair in Naperville, IL | Dry Bros"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Naperville"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Naperville, IL. Insurance billing accepted. Call us now."
 primary_keyword: "burst pipe cleanup and repair naperville"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-When a pipe bursts in Naperville during a January cold snap, the kind that sends temperatures plunging well below zero across DuPage County, water can be moving through your walls, subfloor, and finished basement before you've had time to locate the main shutoff. Dry Bros Water & Fire Restoration responds to burst pipe emergencies across Naperville, handling everything from the initial water extraction to structural drying and pipe repair coordination so the damage stops where it starts.
+When a pipe bursts in Naperville during a January cold snap, the kind that sends temperatures plunging well below zero across DuPage County, water can be moving through your walls, subfloor, and finished basement before you've had time to locate the main shutoff. Dry Bros responds to burst pipe emergencies across Naperville, handling everything from the initial water extraction to structural drying and pipe repair coordination so the damage stops where it starts.
 
 ## Why Naperville Properties See Burst Pipe Damage
 

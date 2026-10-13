@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Naperville, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Naperville, IL | Dry Bros"
 h1: "Restoration Services in Naperville"
 meta_description: "Serving Naperville, IL with water, fire, mold, and storm damage restoration. Experienced team. Call us now."
 primary_keyword: "restoration services naperville"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration responds to water damage, fire damage, mold, and biohazard losses across Naperville, from the older ranch homes near the downtown corridor to the newer construction subdivisions along the city's western and southern edges. When something goes wrong with your property, the goal is simple: stop the damage from spreading, document everything your insurance carrier needs, and get your home or building back to a livable condition as efficiently as possible. Call us now to get started.
+Dry Bros responds to water damage, fire damage, mold, and biohazard losses across Naperville, from the older ranch homes near the downtown corridor to the newer construction subdivisions along the city's western and southern edges. When something goes wrong with your property, the goal is simple: stop the damage from spreading, document everything your insurance carrier needs, and get your home or building back to a livable condition as efficiently as possible. Call us now to get started.
 
 ## Restoration emergencies common in Naperville
 
@@ -55,4 +55,4 @@ Naperville's housing stock spans roughly six decades of construction. The neighb
 
 DuPage County's soils are predominantly clay-rich glacial till, slow to drain, prone to expansion when wet, and hard on foundation walls and footings over time. A wet spring can saturate the soil against a basement wall for weeks. Structural repairs and significant reconstruction in Naperville require permits through the City of Naperville's Department of Development Services; work that affects the building envelope, framing, or mechanical systems typically triggers an inspection. HOA covenants in many of Naperville's planned subdivisions add a parallel approval layer for exterior work.
 
-Dry Bros Water & Fire Restoration is ready to help Naperville property owners move from emergency to restored. Call us now to speak with someone about your loss and get a crew scheduled.
+Dry Bros is ready to help Naperville property owners move from emergency to restored. Call us now to speak with someone about your loss and get a crew scheduled.

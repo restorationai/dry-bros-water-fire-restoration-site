@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Des Plaines, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Removal & Cleanup in Des Plaines, IL | Dry Bros"
 h1: "24/7 Emergency Water Removal & Cleanup in Des Plaines"
 meta_description: "24/7 emergency water removal and cleanup in Des Plaines, IL. Insurance billing accepted. Call us now."
 primary_keyword: "emergency water removal des plaines"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-Des Plaines sits in a low-lying stretch of Cook County where the Des Plaines River has a long history of overbank flooding, and the flat, clay-heavy soil underneath most of the city drains slowly after heavy rain. When a pipe fails or a sump pump gives out during a storm, water doesn't just pool, it spreads under flooring, wicks into drywall, and starts working on framing before the smell even registers. Dry Bros Water & Fire Restoration responds to emergency water removal calls across Des Plaines, moving fast to stop that spread before it becomes a mold or structural problem.
+Des Plaines sits in a low-lying stretch of Cook County where the Des Plaines River has a long history of overbank flooding, and the flat, clay-heavy soil underneath most of the city drains slowly after heavy rain. When a pipe fails or a sump pump gives out during a storm, water doesn't just pool, it spreads under flooring, wicks into drywall, and starts working on framing before the smell even registers. Dry Bros responds to emergency water removal calls across Des Plaines, moving fast to stop that spread before it becomes a mold or structural problem.
 
 ## Why Des Plaines Properties See Water Damage
 

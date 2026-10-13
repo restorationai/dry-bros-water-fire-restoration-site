@@ -76,10 +76,10 @@ Insurance adjusters are not adversaries, but they work for the carrier. Their jo
 
 If your claim is denied or the settlement offer seems low, you have options: request a written explanation of the denial, ask your agent to advocate internally, or hire a public adjuster who works on your behalf (they typically charge a percentage of the settlement). For large losses, a property insurance attorney is worth a consultation.
 
-A restoration company can also help. When Dry Bros Water & Fire Restoration responds to a water loss, the crew documents moisture readings, affected materials, and scope of damage in a format that's useful for insurance purposes, not because they're adjusters, but because thorough documentation is part of doing the job right.
+A restoration company can also help. When Dry Bros responds to a water loss, the crew documents moisture readings, affected materials, and scope of damage in a format that's useful for insurance purposes, not because they're adjusters, but because thorough documentation is part of doing the job right.
 
 ## The Bottom Line
 
 Homeowners insurance is a useful safety net for sudden, internal water events, and a frustrating gap for everything else. The single most valuable thing you can do before a loss is read your declarations page, add a water-backup endorsement if you don't have one, and know where your main shutoff valve is.
 
-If you're dealing with an active water loss in the Chicago area and need help with extraction, drying, or understanding the scope of the damage, Dry Bros Water & Fire Restoration can be reached at **call us now**. The more quickly water is extracted and the structure is dried, the smaller the claim, and the less time your home spends at risk for secondary mold growth.
+If you're dealing with an active water loss in the Chicago area and need help with extraction, drying, or understanding the scope of the damage, Dry Bros can be reached at **call us now**. The more quickly water is extracted and the structure is dried, the smaller the claim, and the less time your home spends at risk for secondary mold growth.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Evergreen Park, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Evergreen Park, IL | Dry Bros"
 h1: "Restoration Services in Evergreen Park"
 meta_description: "Serving Evergreen Park, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services evergreen park"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water damage, fire and smoke cleanup, mold remediation, and storm response for homes and commercial buildings across Evergreen Park. Our crews work directly with property owners and insurance carriers to document the loss, stabilize the structure, and get drying or rebuild work moving fast, whether it's a basement full of sewer backup after a summer storm or smoke damage from a kitchen fire.
+Dry Bros handles water damage, fire and smoke cleanup, mold remediation, and storm response for homes and commercial buildings across Evergreen Park. Our crews work directly with property owners and insurance carriers to document the loss, stabilize the structure, and get drying or rebuild work moving fast, whether it's a basement full of sewer backup after a summer storm or smoke damage from a kitchen fire.
 
 ## Restoration emergencies common in Evergreen Park
 
@@ -45,4 +45,4 @@ Much of Evergreen Park's housing dates to the post-war building boom of the 1940
 
 The heavy clay soil common across this part of Cook County holds water against foundations longer than sandier soil would, which slows drainage after storms and puts added hydrostatic pressure on basement walls. Structural repair or rebuild work in Evergreen Park goes through the Village's building department, and anything touching electrical, plumbing, or load-bearing framing typically triggers a permit review before work can close out.
 
-If water is spreading across your basement floor, smoke has settled into your walls, or a storm has torn into your roof, call Dry Bros Water & Fire Restoration at (877) 379-2767. We answer 24/7 and can start the assessment and insurance documentation as soon as we're on-site.
+If water is spreading across your basement floor, smoke has settled into your walls, or a storm has torn into your roof, call Dry Bros at (877) 379-2767. We answer 24/7 and can start the assessment and insurance documentation as soon as we're on-site.

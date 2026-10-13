@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Berwyn, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Berwyn"
 meta_description: "24/7 emergency water damage restoration in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "water damage restoration berwyn"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Berwyn? We answer 24/7.** Call now and our crew heads out to stop the water and start drying your property.
 
-Berwyn's housing stock tells the story before the water does. Most of the bungalows and two-flats lining the streets west of Harlem Avenue were built between the 1910s and 1940s, long before modern moisture barriers, sump systems, or PVC supply lines were standard. When a pipe fails or a basement floods in one of these homes, water doesn't just pool on the floor; it wicks into old-growth wood framing, plaster-and-lath walls, and century-old masonry foundations in ways that a moisture meter at the surface won't fully reveal. Dry Bros Water & Fire Restoration responds to water damage calls throughout Berwyn, bringing drying equipment and documentation calibrated to what these homes actually hold.
+Berwyn's housing stock tells the story before the water does. Most of the bungalows and two-flats lining the streets west of Harlem Avenue were built between the 1910s and 1940s, long before modern moisture barriers, sump systems, or PVC supply lines were standard. When a pipe fails or a basement floods in one of these homes, water doesn't just pool on the floor; it wicks into old-growth wood framing, plaster-and-lath walls, and century-old masonry foundations in ways that a moisture meter at the surface won't fully reveal. Dry Bros responds to water damage calls throughout Berwyn, bringing drying equipment and documentation calibrated to what these homes actually hold.
 
 ## Why Berwyn Properties See Water Damage Differently
 
@@ -51,4 +51,4 @@ Most homeowner policies in Illinois cover sudden and accidental water discharge,
 
 One pattern worth knowing if your home is in Berwyn's older bungalow belt: many of these properties have unlined or partially lined basement walls where the parging coat has deteriorated over decades. After a flood event, that porous masonry holds water long after the floor is dry, and a standard drying protocol aimed at the room air won't pull moisture from the wall assembly fast enough to prevent efflorescence and microbial growth. We position drying equipment with wall-directed airflow and extend monitoring through the masonry readings, not just the ambient humidity, a step that matters more here than it would in a newer construction suburb.
 
-If water has reached your floors, walls, or framing in Berwyn, the clock on secondary damage starts immediately. Call Dry Bros Water & Fire Restoration now to schedule an assessment and get the drying process started before the structure absorbs more than it has to.
+If water has reached your floors, walls, or framing in Berwyn, the clock on secondary damage starts immediately. Call Dry Bros now to schedule an assessment and get the drying process started before the structure absorbs more than it has to.

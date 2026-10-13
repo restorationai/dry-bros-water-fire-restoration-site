@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Lyons, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Lyons, IL | Dry Bros"
 h1: "Restoration Services in Lyons"
 meta_description: "Serving Lyons, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services lyons"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water, fire, and storm damage response for homeowners and property managers throughout Lyons, Illinois, a Des Plaines River community where basement flooding, roof leaks after Chicago-area storms, and aging plumbing failures are routine calls. We document the loss for insurance, extract standing water, and dry structures to the IICRC S500 standard, working directly with adjusters so Lyons property owners aren't managing the paperwork and the cleanup at the same time.
+Dry Bros handles water, fire, and storm damage response for homeowners and property managers throughout Lyons, Illinois, a Des Plaines River community where basement flooding, roof leaks after Chicago-area storms, and aging plumbing failures are routine calls. We document the loss for insurance, extract standing water, and dry structures to the IICRC S500 standard, working directly with adjusters so Lyons property owners aren't managing the paperwork and the cleanup at the same time.
 
 ## Restoration emergencies common in Lyons
 
@@ -43,4 +43,4 @@ We run crews out of our Chicago headquarters into Lyons via I-55 and the Stevens
 
 Much of Lyons was built up in the early to mid-20th century as a close-in Chicago suburb, which means brick bungalows and frame homes with full basements, galvanized or early copper supply lines, and cast iron drain stacks that are now well past their original service life. Basements here are a liability during river-stage rises and heavy rain events, since shallow footings and older foundation parging don't always keep pace with hydrostatic pressure. Homes of this era can also carry asbestos-containing materials in floor tile, pipe insulation, or plaster, which a restoration scope has to account for before demolition begins. Structural repair or rebuild work in Lyons goes through the Village of Lyons building department, and any project touching electrical, plumbing, or structural framing typically needs a permit before work starts.
 
-If water is actively coming into a Lyons basement, a pipe has let go, or you're dealing with fire or smoke damage right now, call Dry Bros Water & Fire Restoration at (877) 379-2767. We answer 24/7 and can get a crew moving toward Lyons as soon as you call.
+If water is actively coming into a Lyons basement, a pipe has let go, or you're dealing with fire or smoke damage right now, call Dry Bros at (877) 379-2767. We answer 24/7 and can get a crew moving toward Lyons as soon as you call.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Burbank, IL | Dry Bros Water & Fire Restoration"
+title: "Emergency Sewage Cleanup and Sanitization in Burbank, IL | Dry Bros"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Burbank"
 meta_description: "24/7 emergency sewage cleanup and sanitization in Burbank, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "sewage cleanup and sanitization burbank"
@@ -38,4 +38,4 @@ Burbank sits a short run down I-294 from our Chicago base, which keeps us close 
 
 One thing worth knowing if you're dealing with this for the first time: older Burbank homes with a single main-floor cleanout often have no secondary access point, which means a backed-up lateral has to clear before extraction crews can make real progress on the source side. We coordinate with a licensed plumber or the municipal line as needed so the cleanup isn't working against water still pushing back in.
 
-If sewage has backed up into your home or business in Burbank, don't wait on the smell to tell you how bad it is, bacteria and odor-causing compounds spread well before visible damage does. Call Dry Bros Water & Fire Restoration at (877) 379-2767 for sewage cleanup and sanitization in Burbank, we answer 24/7 and treat contaminated water as the health hazard it actually is.
+If sewage has backed up into your home or business in Burbank, don't wait on the smell to tell you how bad it is, bacteria and odor-causing compounds spread well before visible damage does. Call Dry Bros at (877) 379-2767 for sewage cleanup and sanitization in Burbank, we answer 24/7 and treat contaminated water as the health hazard it actually is.

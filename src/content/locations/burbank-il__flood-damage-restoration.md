@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Flood Damage Restoration in Burbank, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Flood Damage Restoration in Burbank, IL | Dry Bros"
 h1: "24/7 Emergency Flood Damage Restoration in Burbank"
 meta_description: "24/7 emergency flood damage restoration in Burbank, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "flood damage restoration burbank"
@@ -45,4 +45,4 @@ Flood water isn't always clean, especially when it's come up through a floor dra
 
 One thing that catches homeowners off guard in this part of Cook County: a sump pump that's been working fine for years can fail the moment it's needed most, because sustained heavy rain draws far more continuous runtime than the pump ever sees during normal weather. We routinely find pumps that overheated or burned out mid-storm in homes where the owner had no idea there was a problem until water was already on the floor. If your home relies on a single sump pump with no battery backup, that's worth addressing before the next storm system rolls through, not after.
 
-If water is active in your Burbank home right now, stop walking through it more than necessary and call Dry Bros Water & Fire Restoration at (877) 379-2767. We answer 24/7, and the sooner extraction starts, the less of your flooring, drywall, and subfloor ends up in a dumpster instead of back in your home.
+If water is active in your Burbank home right now, stop walking through it more than necessary and call Dry Bros at (877) 379-2767. We answer 24/7, and the sooner extraction starts, the less of your flooring, drywall, and subfloor ends up in a dumpster instead of back in your home.

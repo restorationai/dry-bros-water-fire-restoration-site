@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "24/7 Emergency Basement Flooding Cleanup in Chicago | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Basement Flooding Cleanup in Chicago | Dry Bros"
 h1: "24/7 Emergency Basement Flooding Cleanup in Chicago"
 meta_description: "24/7 emergency basement flooding cleanup in Chicago and surrounding areas. Insurance billing accepted. Call us now."
 primary_keyword: "basement flooding cleanup chicago"

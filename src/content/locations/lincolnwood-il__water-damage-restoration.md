@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Lincolnwood, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Lincolnwood, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Lincolnwood"
 meta_description: "24/7 emergency water damage restoration in Lincolnwood, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration lincolnwood"

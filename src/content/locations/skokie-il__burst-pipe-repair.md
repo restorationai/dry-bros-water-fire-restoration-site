@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Burst Pipe Cleanup and Repair in Skokie, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Burst Pipe Cleanup and Repair in Skokie, IL | Dry Bros"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Skokie"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Skokie, IL. Insurance billing accepted. Call us now."
 primary_keyword: "burst pipe cleanup and repair skokie"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Skokie? We answer 24/7.** Call now and our crew heads out to stop the water and start the cleanup.
 
-Skokie winters are hard on pipes. The freeze-thaw cycles that roll through Cook County from December through March push soil temperatures low enough to stress water lines in crawl spaces, uninsulated exterior walls, and the older cast-iron supply runs that still run through much of the village's mid-century housing stock. When a pipe lets go, whether it's a copper elbow that split overnight or a galvanized line that finally gave way behind a kitchen wall, the water doesn't wait for a convenient moment. Dry Bros Water & Fire Restoration responds to burst pipe calls across Skokie, handling both the immediate water extraction and the structural drying that protects your home long after the visible puddles are gone.
+Skokie winters are hard on pipes. The freeze-thaw cycles that roll through Cook County from December through March push soil temperatures low enough to stress water lines in crawl spaces, uninsulated exterior walls, and the older cast-iron supply runs that still run through much of the village's mid-century housing stock. When a pipe lets go, whether it's a copper elbow that split overnight or a galvanized line that finally gave way behind a kitchen wall, the water doesn't wait for a convenient moment. Dry Bros responds to burst pipe calls across Skokie, handling both the immediate water extraction and the structural drying that protects your home long after the visible puddles are gone.
 
 ## Why Skokie Properties See Burst Pipe Issues
 

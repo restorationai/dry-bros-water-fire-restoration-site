@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Des Plaines, IL | Dry Bros Water & Fire Restoration"
+title: "Mold Remediation in Des Plaines, IL | Dry Bros"
 h1: "Mold Remediation in Des Plaines"
 meta_description: "Mold remediation in Des Plaines, IL. Insurance billing accepted. Call us now."
 primary_keyword: "mold remediation des plaines"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Des Plaines sits in a part of northeastern Illinois where the soil holds moisture long after a rainstorm passes, and where basements in homes built during the postwar building boom of the 1950s and 1960s were often finished with materials that had no real resistance to humidity. When a slow pipe leak, a sump pump failure, or a backed-up floor drain goes unaddressed for even 48 to 72 hours, that combination of damp soil pressure and older construction creates exactly the conditions mold needs to colonize wall cavities, floor joists, and HVAC chases. Dry Bros Water & Fire Restoration provides mold remediation in Des Plaines for homeowners and property managers dealing with that reality.
+Des Plaines sits in a part of northeastern Illinois where the soil holds moisture long after a rainstorm passes, and where basements in homes built during the postwar building boom of the 1950s and 1960s were often finished with materials that had no real resistance to humidity. When a slow pipe leak, a sump pump failure, or a backed-up floor drain goes unaddressed for even 48 to 72 hours, that combination of damp soil pressure and older construction creates exactly the conditions mold needs to colonize wall cavities, floor joists, and HVAC chases. Dry Bros provides mold remediation in Des Plaines for homeowners and property managers dealing with that reality.
 
 ## Why Des Plaines Properties See Mold Issues
 
@@ -46,4 +46,4 @@ Dry Bros documents the loss thoroughly: moisture mapping, photographic evidence 
 
 Des Plaines has a significant number of homes with crawl spaces rather than full basements, a construction style common in neighborhoods developed in the 1950s on lots where full excavation was cost-prohibitive. Crawl spaces in this area tend to accumulate standing water after heavy rain because the soil grade often pitches slightly toward the foundation rather than away from it. Mold in a crawl space is frequently misidentified as dirt or efflorescence until it's tested. If you're seeing white or gray fuzzy growth on floor joists or vapor barrier plastic, or if your first floor has an unexplained musty smell that intensifies in spring, a crawl space inspection is worth doing before the problem migrates upward into the living space.
 
-If you're dealing with visible mold growth, a persistent musty odor, or recent water damage in a Des Plaines home, call Dry Bros Water & Fire Restoration now. Prompt remediation limits both the health exposure and the scope of reconstruction, and in a housing market where disclosure requirements apply to known mold conditions, getting it documented and resolved correctly protects your investment.
+If you're dealing with visible mold growth, a persistent musty odor, or recent water damage in a Des Plaines home, call Dry Bros now. Prompt remediation limits both the health exposure and the scope of reconstruction, and in a housing market where disclosure requirements apply to known mold conditions, getting it documented and resolved correctly protects your investment.

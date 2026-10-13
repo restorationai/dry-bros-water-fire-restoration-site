@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Evanston, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Board-Up and Tarping in Evanston, IL | Dry Bros"
 h1: "24/7 Emergency Board-Up and Tarping in Evanston"
 meta_description: "24/7 emergency board-up and tarping in Evanston, IL. Insurance billing accepted. Call us now."
 primary_keyword: "emergency board-up and tarping evanston"
@@ -48,4 +48,4 @@ For single-family properties, most standard homeowners' policies cover emergency
 
 Evanston's older greystones and brick two-flats often have limestone or terra cotta decorative elements around window openings that are irreplaceable and easy to crack if a crew drives fasteners without checking the substrate first. On these properties, we use standoff framing techniques that anchor into the masonry jamb rather than the decorative surround, a small adjustment that prevents secondary damage to architectural details that are genuinely difficult and expensive to restore. It's the kind of thing that matters in a city where the building stock has real character worth protecting.
 
-If your Evanston property has been damaged by fire, storm, or impact, call Dry Bros Water & Fire Restoration at **call us now**. We'll assess the openings, secure the structure, and document everything your insurer needs, before the next weather system makes a bad situation worse.
+If your Evanston property has been damaged by fire, storm, or impact, call Dry Bros at **call us now**. We'll assess the openings, secure the structure, and document everything your insurer needs, before the next weather system makes a bad situation worse.

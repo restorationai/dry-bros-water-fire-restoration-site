@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Skokie, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Fire Damage Restoration in Skokie, IL | Dry Bros"
 h1: "24/7 Emergency Fire Damage Restoration in Skokie"
 meta_description: "24/7 emergency fire damage restoration in Skokie, IL. Insurance billing accepted. Call us now."
 primary_keyword: "fire damage restoration skokie"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Skokie? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-Skokie's dense residential neighborhoods, many of them built out in the postwar decades when brick bungalows and two-flats went up block after block, create a particular challenge after a house fire. Brick exteriors can look intact while smoke and combustion gases have migrated deep into interior framing, plaster cavities, and shared attic spaces. If you're dealing with fire damage in Skokie right now, the clock on secondary damage from soot and smoke odor started the moment the flames were extinguished. Call Dry Bros Water & Fire Restoration now.
+Skokie's dense residential neighborhoods, many of them built out in the postwar decades when brick bungalows and two-flats went up block after block, create a particular challenge after a house fire. Brick exteriors can look intact while smoke and combustion gases have migrated deep into interior framing, plaster cavities, and shared attic spaces. If you're dealing with fire damage in Skokie right now, the clock on secondary damage from soot and smoke odor started the moment the flames were extinguished. Call Dry Bros now.
 
 ## Why Skokie's Building Stock Shapes Fire Damage Recovery
 

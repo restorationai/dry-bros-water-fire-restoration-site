@@ -1,8 +1,8 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | Dry Bros Water & Fire Restoration"
+title: "Restoration Blog | Dry Bros"
 h1: "Restoration Resources and Insights"
-meta_description: "Guides, checklists, and explainers from Dry Bros Water & Fire Restoration on water, fire, mold, and storm damage restoration."
+meta_description: "Guides, checklists, and explainers from Dry Bros on water, fire, mold, and storm damage restoration."
 primary_keyword: "restoration blog chicago"
 secondary_keywords: ["restoration guides", "damage restoration tips", "restoration insights"]
 search_intent: "informational_browse"

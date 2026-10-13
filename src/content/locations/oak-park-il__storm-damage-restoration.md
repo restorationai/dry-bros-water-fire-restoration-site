@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Storm Damage Restoration in Oak Park, IL | Dry Bros"
 h1: "24/7 Emergency Storm Damage Restoration in Oak Park"
 meta_description: "24/7 emergency storm damage restoration in Oak Park, IL. Insurance billing accepted. Call us now."
 primary_keyword: "storm damage restoration oak park"
@@ -53,4 +53,4 @@ Roof and structural repairs in Oak Park require permits through the village's De
 
 Homes in Oak Park's older residential blocks, particularly those with full basements and original clay-tile lateral sewer lines, are more susceptible to sewer backup during heavy rain than the street-level flooding risk alone would suggest. Clay tile joints can infiltrate groundwater and surcharge the line before the main sewer even reaches capacity. If your basement took water through a floor drain during a storm rather than through a window well or exterior crack, the source and the contamination category are different, and so is the correct remediation approach. It's worth knowing that distinction before any work begins, because it affects both the scope of cleanup and what your insurance policy will cover.
 
-Call Dry Bros Water & Fire Restoration now to schedule an assessment after storm damage in Oak Park. The sooner the structure is evaluated, the more options you have, and the shorter the recovery.
+Call Dry Bros now to schedule an assessment after storm damage in Oak Park. The sooner the structure is evaluated, the more options you have, and the shorter the recovery.

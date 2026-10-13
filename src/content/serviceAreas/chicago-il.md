@@ -1,8 +1,8 @@
 ---
 archetype: "service-area"
-title: "Serving All of Chicago, IL | Dry Bros Water & Fire Restoration"
+title: "Serving All of Chicago, IL | Dry Bros"
 h1: "Serving All of Chicago"
-meta_description: "Dry Bros Water & Fire Restoration is based in Chicago, IL. See the parts of Chicago we cover and every service we offer here. Call (877) 379-2767."
+meta_description: "Dry Bros is based in Chicago, IL. See the parts of Chicago we cover and every service we offer here. Call (877) 379-2767."
 primary_keyword: "chicago service area"
 secondary_keywords: ["chicago neighborhoods we serve"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "IL"
 primary: true
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water damage, fire and smoke cleanup, storm response, and mold remediation for homes and commercial buildings across Chicago. Based right in the city, our crews answer calls 24/7 and work directly with property insurance to document loss, extract water, and dry structures before secondary damage like mold or warped flooring sets in. Whether it's a burst pipe in a vintage two-flat or storm water in a basement, the approach is the same: stop the damage, dry it correctly, and get the paperwork right.
+Dry Bros handles water damage, fire and smoke cleanup, storm response, and mold remediation for homes and commercial buildings across Chicago. Based right in the city, our crews answer calls 24/7 and work directly with property insurance to document loss, extract water, and dry structures before secondary damage like mold or warped flooring sets in. Whether it's a burst pipe in a vintage two-flat or storm water in a basement, the approach is the same: stop the damage, dry it correctly, and get the paperwork right.
 
 ## Restoration emergencies common in Chicago
 
@@ -45,4 +45,4 @@ Much of Chicago's housing was built from the late 1800s through the mid-1900s, w
 
 The city's flat terrain and clay-heavy soil drain slowly, which is part of why basement seepage and sewer backup are recurring problems after heavy rain. Structural repairs and rebuild work typically require a permit through the City of Chicago's Department of Buildings, and older masonry buildings in particular often need a closer look at party walls and foundation conditions before repair work begins.
 
-If water, fire, or storm damage has hit your Chicago property, call Dry Bros Water & Fire Restoration at (877) 379-2767. We're local, we answer 24/7, and we'll walk you through what happens first, from stopping active damage to documenting the loss for your insurance carrier.
+If water, fire, or storm damage has hit your Chicago property, call Dry Bros at (877) 379-2767. We're local, we answer 24/7, and we'll walk you through what happens first, from stopping active damage to documenting the loss for your insurance carrier.

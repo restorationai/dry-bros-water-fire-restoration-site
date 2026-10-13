@@ -1,8 +1,8 @@
 ---
 archetype: "home"
-title: "Water Damage Restoration in Chicago, IL | Dry Bros Water & Fire Restoration"
+title: "Water Damage Restoration in Chicago, IL | Dry Bros"
 h1: "24/7 Water Damage Restoration in Chicago, IL"
-meta_description: "Dry Bros Water & Fire Restoration provides water damage restoration in Chicago, IL, answering 24/7. Licensed and insured. Call (877) 379-2767 now."
+meta_description: "Dry Bros provides water damage restoration in Chicago, IL, answering 24/7. Licensed and insured. Call (877) 379-2767 now."
 primary_keyword: "water damage restoration chicago"
 secondary_keywords: ["best restoration company in chicago", "restoration company chicago", "water damage restoration near me"]
 search_intent: "local_commercial"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}]
 faq: [{"question": "How quickly can you get someone to my property?", "answer": "Response time depends on your location within our service area and current call volume. Call us now and we'll give you an honest arrival estimate based on where you are and what's happening. The sooner you call, the sooner we can stop the damage from spreading."}, {"question": "Will you bill my insurance company directly?", "answer": "Yes. Dry Bros works with most major homeowners insurance carriers and can bill them directly for covered losses. We document the damage thoroughly, photos, moisture readings, scope of affected materials, so your claim reflects the full picture. You'll know what's covered and what isn't before work begins."}, {"question": "What should I do while I'm waiting for your crew to arrive?", "answer": "For water damage, shut off the water source if you can locate the valve safely, and move valuables or documents off wet floors. For fire or smoke damage, avoid running HVAC systems, which can spread soot through ductwork. Don't discard any damaged items, insurers and restoration crews need to document everything in place."}, {"question": "Do you offer free estimates?", "answer": "Yes, we assess the damage and walk you through the scope of work before any restoration begins. For insurance claims, the estimate also feeds directly into the documentation we provide your carrier, so it's a necessary first step regardless."}, {"question": "Do you handle after-hours or weekend emergencies?", "answer": "Call us now and you'll reach someone who can tell you what's available and get you scheduled as quickly as possible. We'll be straightforward with you about timing rather than make a promise we can't keep."}]
 rendered: true
 ---
-When water soaks through your subfloor, smoke odor settles into every surface, or a storm tears through your roof, the damage compounds fast. Dry Bros Water & Fire Restoration handles water damage, fire and smoke damage, and storm damage restoration for homeowners and property managers across Chicago and the surrounding area, getting the right crew and equipment on-site before a manageable problem becomes a structural one.
+When water soaks through your subfloor, smoke odor settles into every surface, or a storm tears through your roof, the damage compounds fast. Dry Bros handles water damage, fire and smoke damage, and storm damage restoration for homeowners and property managers across Chicago and the surrounding area, getting the right crew and equipment on-site before a manageable problem becomes a structural one.
 
 ## Services we handle
 
@@ -35,10 +35,10 @@ Chicago's older housing stock adds complexity that generic contractors often und
 
 ## Service area
 
-Dry Bros Water & Fire Restoration is based in Chicago and responds to losses throughout the city and surrounding communities. That includes close-in suburbs such as Evanston, Oak Park, and Cicero, as well as broader Cook County and the collar counties. If you're not sure whether your address falls within our range, call, the answer is usually yes, and we'd rather confirm it quickly than have you lose time searching for alternatives.
+Dry Bros is based in Chicago and responds to losses throughout the city and surrounding communities. That includes close-in suburbs such as Evanston, Oak Park, and Cicero, as well as broader Cook County and the collar counties. If you're not sure whether your address falls within our range, call, the answer is usually yes, and we'd rather confirm it quickly than have you lose time searching for alternatives.
 
 Chicago's geography shapes the types of losses we see regularly. Neighborhoods near the lakefront deal with wind-driven moisture and drainage challenges that inland areas don't. Older bungalow belts on the Northwest and Southwest sides have basement drainage systems that can be overwhelmed during the intense rainfall events that have become more frequent in recent years. We know the territory.
 
 ---
 
-If you're reading this right now, there's a reasonable chance something has already gone wrong. The right move is a phone call, not more research. Reach Dry Bros Water & Fire Restoration at **call us now**, describe what you're seeing, and we'll tell you exactly what happens next.
+If you're reading this right now, there's a reasonable chance something has already gone wrong. The right move is a phone call, not more research. Reach Dry Bros at **call us now**, describe what you're seeing, and we'll tell you exactly what happens next.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Burbank, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Burbank, IL | Dry Bros"
 h1: "Restoration Services in Burbank"
 meta_description: "Serving Burbank, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services burbank"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water damage, fire and smoke cleanup, mold remediation, storm response, and biohazard cleanup for homeowners and property managers throughout Burbank, Illinois. We document every loss for insurance purposes, work directly with adjusters where possible, and dry or rebuild structures to industry drying standards rather than guessing at when a space is safe to close back up.
+Dry Bros handles water damage, fire and smoke cleanup, mold remediation, storm response, and biohazard cleanup for homeowners and property managers throughout Burbank, Illinois. We document every loss for insurance purposes, work directly with adjusters where possible, and dry or rebuild structures to industry drying standards rather than guessing at when a space is safe to close back up.
 
 ## Restoration emergencies common in Burbank
 

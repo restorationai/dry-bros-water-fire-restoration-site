@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Flood Damage Restoration in Maywood, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Flood Damage Restoration in Maywood, IL | Dry Bros"
 h1: "24/7 Emergency Flood Damage Restoration in Maywood"
 meta_description: "24/7 emergency flood damage restoration in Maywood, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "flood damage restoration maywood"
@@ -42,4 +42,4 @@ Flood losses are documented differently than a typical pipe break, and carriers 
 
 One thing we watch closely in Maywood: homes near the river with finished basements often have that finishing done directly over original concrete slab, with no vapor barrier underneath. When floodwater gets under that slab finish, it can stay trapped against the concrete long after the carpet or laminate on top tests dry, which is why we pull moisture readings from the slab itself rather than relying on surface readings alone in these basements.
 
-Flood damage doesn't wait for a convenient time, and in a river-adjacent community like Maywood, the gap between "a little water in the basement" and a full structural drying job can close fast. If you're looking at standing water, a flooded crawlspace, or storm backup in your home, call Dry Bros Water & Fire Restoration now and we'll get a crew moving toward Maywood.
+Flood damage doesn't wait for a convenient time, and in a river-adjacent community like Maywood, the gap between "a little water in the basement" and a full structural drying job can close fast. If you're looking at standing water, a flooded crawlspace, or storm backup in your home, call Dry Bros now and we'll get a crew moving toward Maywood.

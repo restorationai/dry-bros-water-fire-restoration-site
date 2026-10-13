@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Evanston, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Fire Damage Restoration in Evanston, IL | Dry Bros"
 h1: "24/7 Emergency Fire Damage Restoration in Evanston"
 meta_description: "24/7 emergency fire damage restoration in Evanston, IL. Insurance billing accepted. Call us now."
 primary_keyword: "fire damage restoration evanston"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Evanston? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-Evanston's dense mix of century-old brick two-flats, Victorian-era single-families, and mid-century apartment buildings creates a particular challenge after a house fire: smoke and soot don't just coat surfaces, they penetrate plaster lathe, settle into original hardwood subfloors, and travel through the kind of interconnected duct systems that were standard before modern HVAC zoning. If you've just had a fire in Evanston, the visible char is rarely the whole story. Dry Bros Water & Fire Restoration responds from Chicago to help property owners cut through the confusion and start the recovery process the right way.
+Evanston's dense mix of century-old brick two-flats, Victorian-era single-families, and mid-century apartment buildings creates a particular challenge after a house fire: smoke and soot don't just coat surfaces, they penetrate plaster lathe, settle into original hardwood subfloors, and travel through the kind of interconnected duct systems that were standard before modern HVAC zoning. If you've just had a fire in Evanston, the visible char is rarely the whole story. Dry Bros responds from Chicago to help property owners cut through the confusion and start the recovery process the right way.
 
 ## Why Evanston's Building Stock Shapes Fire Damage Recovery
 
@@ -61,4 +61,4 @@ For Evanston properties with condo association or HOA structures, it's worth con
 
 Evanston's older greystone and brick courtyard buildings, common in the central and southern parts of the city, often have shared mechanical chases and common-area ductwork that connects individual units. After a fire in one unit, smoke odor can migrate into adjacent units through these shared systems even when the fire itself was contained. Property managers dealing with a fire loss in one of these buildings should plan for odor assessment in neighboring units, not just the unit of origin. Ignoring the shared systems is one of the more common reasons a fire restoration job gets called back for persistent smell complaints weeks after the work is done.
 
-If you're dealing with fire or smoke damage in Evanston, whether it's a single-family home, a two-flat, or a multi-unit building, call Dry Bros Water & Fire Restoration now. We'll assess the full scope of the damage, not just what's visible, and walk you through a clear recovery plan from the first call.
+If you're dealing with fire or smoke damage in Evanston, whether it's a single-family home, a two-flat, or a multi-unit building, call Dry Bros now. We'll assess the full scope of the damage, not just what's visible, and walk you through a clear recovery plan from the first call.

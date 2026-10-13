@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Skokie, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Skokie, IL | Dry Bros"
 h1: "Restoration Services in Skokie"
 meta_description: "Serving Skokie, IL with water, fire, mold, and storm damage restoration. Experienced team. Call us now."
 primary_keyword: "restoration services skokie"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration responds to water damage, fire damage, mold, and smoke remediation calls from Skokie property owners, handling everything from the first emergency extraction through the final rebuild. Whether the problem is a burst pipe in a postwar bungalow or smoke residue coating every surface after a kitchen fire, the goal is the same: stop the loss, document it thoroughly, and return the property to a livable condition as efficiently as the work allows. Reach us at **call us now**.
+Dry Bros responds to water damage, fire damage, mold, and smoke remediation calls from Skokie property owners, handling everything from the first emergency extraction through the final rebuild. Whether the problem is a burst pipe in a postwar bungalow or smoke residue coating every surface after a kitchen fire, the goal is the same: stop the loss, document it thoroughly, and return the property to a livable condition as efficiently as the work allows. Reach us at **call us now**.
 
 ## Restoration emergencies common in Skokie
 
@@ -51,4 +51,4 @@ Homes built before the mid-1970s may contain asbestos-containing materials in fl
 
 ---
 
-If you're dealing with standing water, smoke damage, or visible mold at a Skokie property, the right move is to call before the loss gets larger. Reach Dry Bros Water & Fire Restoration at **call us now** to describe what you're seeing and get a response scheduled.
+If you're dealing with standing water, smoke damage, or visible mold at a Skokie property, the right move is to call before the loss gets larger. Reach Dry Bros at **call us now** to describe what you're seeing and get a response scheduled.

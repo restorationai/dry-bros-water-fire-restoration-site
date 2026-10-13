@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Lincolnwood, IL | Dry Bros Water & Fire Restoration"
+title: "Mold Remediation in Lincolnwood, IL | Dry Bros"
 h1: "Mold Remediation in Lincolnwood"
 meta_description: "24/7 mold remediation in Lincolnwood, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "mold remediation lincolnwood"

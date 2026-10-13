@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "Odor Removal and Deodorization in Berwyn, IL | Dry Bros"
 h1: "Odor Removal and Deodorization in Berwyn"
 meta_description: "Odor removal and deodorization in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "odor removal and deodorization berwyn"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Berwyn's dense grid of brick bungalows and two-flats, most of them built between the 1920s and 1950s, holds onto odors in ways that newer construction simply doesn't. Plaster walls, horsehair insulation, original hardwood subfloors, and decades of layered paint create a porous interior environment where smoke, fire residue, pet odors, and flood-related mustiness can penetrate far beyond the surface. When a smell lingers after a loss event in Berwyn, it usually means the odor compounds have bonded to the building materials themselves, and surface sprays won't reach them. Dry Bros Water & Fire Restoration brings professional-grade deodorization equipment and methods to address that specific challenge.
+Berwyn's dense grid of brick bungalows and two-flats, most of them built between the 1920s and 1950s, holds onto odors in ways that newer construction simply doesn't. Plaster walls, horsehair insulation, original hardwood subfloors, and decades of layered paint create a porous interior environment where smoke, fire residue, pet odors, and flood-related mustiness can penetrate far beyond the surface. When a smell lingers after a loss event in Berwyn, it usually means the odor compounds have bonded to the building materials themselves, and surface sprays won't reach them. Dry Bros brings professional-grade deodorization equipment and methods to address that specific challenge.
 
 ## Why Berwyn's Housing Stock Makes Odor Problems Harder to Resolve
 
@@ -52,4 +52,4 @@ Odor removal is a covered line item under most homeowners' policies when it resu
 
 In Berwyn's bungalow belt, the original basement stairwells are often open to the main living floor with no door, a design feature that makes these homes feel spacious but means odors migrate vertically without resistance. After a basement sump failure or a furnace puff-back, smoke and musty air rise directly into the kitchen and living areas. When we're scoping a job in one of these properties, we treat the basement and the main floor as a single odor zone rather than two separate spaces, which changes both the equipment placement and the treatment duration. Skipping that step is the most common reason a previous deodorization attempt didn't hold.
 
-If a persistent odor is making your Berwyn home uncomfortable or affecting your ability to rent or sell the property, call Dry Bros Water & Fire Restoration at **call us now** to schedule an assessment. We'll identify what's holding the smell and apply the right combination of methods to eliminate it, not just mask it.
+If a persistent odor is making your Berwyn home uncomfortable or affecting your ability to rent or sell the property, call Dry Bros at **call us now** to schedule an assessment. We'll identify what's holding the smell and apply the right combination of methods to eliminate it, not just mask it.

@@ -1,8 +1,8 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Dry Bros Water & Fire Restoration Restoration"
+title: "Service Areas | Dry Bros Restoration"
 h1: "Areas We Serve"
-meta_description: "Dry Bros Water & Fire Restoration provides restoration services across Chicago and the surrounding region. Find your city."
+meta_description: "Dry Bros provides restoration services across Chicago and the surrounding region. Find your city."
 primary_keyword: "dry bros water & fire restoration service areas"
 secondary_keywords: ["restoration service area", "cities we serve", "local restoration coverage"]
 search_intent: "navigational_local"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas"}]
 faq: [{"question": "How far will Dry Bros travel for a job?", "answer": "The primary service area covers Chicago and the surrounding collar counties, but the team will consider dispatching beyond that boundary for larger or more complex losses. The best way to find out whether your address is covered is to call us now and describe the situation, scope of damage is often as important as distance when making that call."}, {"question": "Will a distant location mean a longer wait for a crew?", "answer": "Yes, realistically. Properties at the outer edge of the service area take longer to reach than those closer to Chicago, and highway traffic in the metro can affect arrival times unpredictably. When you call, the team will give you an honest estimate based on where your property is and which crews are available, not a guaranteed minute count."}, {"question": "Is there a mileage or travel charge for locations outside Chicago proper?", "answer": "Travel and mobilization fees vary depending on the distance and the scope of the job. That information will be addressed directly when you speak with the team and before any work is scheduled. There are no hidden charges added after the fact."}]
 rendered: true
 ---
-Dry Bros Water & Fire Restoration serves the Chicago metropolitan area and the surrounding region. Because the brand's current hours are not listed here, the best way to confirm availability and schedule a visit is to call **call us now**, a team member can tell you exactly when a crew can be on-site for your address.
+Dry Bros serves the Chicago metropolitan area and the surrounding region. Because the brand's current hours are not listed here, the best way to confirm availability and schedule a visit is to call **call us now**, a team member can tell you exactly when a crew can be on-site for your address.
 
 ## Where we work
 

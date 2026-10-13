@@ -86,10 +86,10 @@ Water damage restoration is not just drying. A full-scope job under the IICRC S5
 
 That last item matters more than most homeowners realize. A complete drying log is the paper trail that supports your insurance claim and protects you if a mold issue surfaces six months later. Our post on [water damage restoration cost in Chicago](/blog/water-damage-restoration-cost-chicago/) covers what insurance typically covers and what documentation adjusters look for.
 
-If you are in the middle of a loss right now, the [water damage restoration](/services/water-damage-restoration/) page has the fastest way to reach Dry Bros Water & Fire Restoration at (877) 379-2767, available around the clock.
+If you are in the middle of a loss right now, the [water damage restoration](/services/water-damage-restoration/) page has the fastest way to reach Dry Bros at (877) 379-2767, available around the clock.
 
 ---
 
-**About Dry Bros Water & Fire Restoration**
+**About Dry Bros**
 
-Dry Bros Water & Fire Restoration is a licensed and insured restoration company serving Chicago, IL and surrounding communities including Evanston, Oak Park, Naperville, and Cicero. The company handles water damage restoration, flood damage restoration, basement flooding cleanup, burst pipe repair, sewage cleanup, mold remediation, fire and smoke damage restoration, odor removal, storm damage restoration, emergency board-up and tarping, and contents restoration. Dry Bros operates 24/7 and provides written scopes and drying documentation for every job.
+Dry Bros is a licensed and insured restoration company serving Chicago, IL and surrounding communities including Evanston, Oak Park, Naperville, and Cicero. The company handles water damage restoration, flood damage restoration, basement flooding cleanup, burst pipe repair, sewage cleanup, mold remediation, fire and smoke damage restoration, odor removal, storm damage restoration, emergency board-up and tarping, and contents restoration. Dry Bros operates 24/7 and provides written scopes and drying documentation for every job.

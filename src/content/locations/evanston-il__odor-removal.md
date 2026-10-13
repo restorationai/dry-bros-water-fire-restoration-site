@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Evanston, IL | Dry Bros Water & Fire Restoration"
+title: "Odor Removal and Deodorization in Evanston, IL | Dry Bros"
 h1: "Odor Removal and Deodorization in Evanston"
 meta_description: "Odor removal and deodorization in Evanston, IL. Insurance billing accepted. Call us now."
 primary_keyword: "odor removal and deodorization evanston"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Evanston's older housing stock, much of it built before World War II with plaster walls, original woodwork, and layered paint, holds onto odors in ways that newer construction simply doesn't. Smoke from a kitchen fire can work its way into crown molding and horsehair plaster. Pet odors settle into century-old hardwood subfloors. When a smell lingers after surface cleaning, it's usually because the source has migrated into porous materials that need more than a coat of primer to address. Dry Bros Water & Fire Restoration brings professional-grade deodorization methods to Evanston properties, targeting the odor at its source rather than masking it.
+Evanston's older housing stock, much of it built before World War II with plaster walls, original woodwork, and layered paint, holds onto odors in ways that newer construction simply doesn't. Smoke from a kitchen fire can work its way into crown molding and horsehair plaster. Pet odors settle into century-old hardwood subfloors. When a smell lingers after surface cleaning, it's usually because the source has migrated into porous materials that need more than a coat of primer to address. Dry Bros brings professional-grade deodorization methods to Evanston properties, targeting the odor at its source rather than masking it.
 
 ## Why Evanston Properties Hold Odors Longer
 
@@ -51,4 +51,4 @@ For fire-damaged properties, Evanston's permit and inspection requirements may a
 
 Evanston's two- and three-flat buildings, a housing type that runs throughout the city's neighborhoods, present a specific challenge for smoke and odor remediation that often surprises property owners. These buildings share floor-ceiling assemblies between units, and those assemblies frequently contain original sawdust or cellulose insulation from the early twentieth century. That material is highly absorbent and almost impossible to clean in place. When a fire or heavy smoke event affects one unit, the odor can transfer into adjacent units through the shared assembly. We probe those cavities during the assessment phase so that the scope of treatment reflects what's actually happening inside the structure, not just what's visible on the surface.
 
-If you're dealing with a persistent smell in your Evanston home or rental property, call Dry Bros Water & Fire Restoration now. We'll assess the source, explain the method, and get the work done right.
+If you're dealing with a persistent smell in your Evanston home or rental property, call Dry Bros now. We'll assess the source, explain the method, and get the work done right.

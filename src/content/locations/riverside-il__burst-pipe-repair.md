@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Burst Pipe Cleanup and Repair in Riverside, IL | Dry Bros Water & Fire Restoration"
+title: "Emergency Burst Pipe Cleanup and Repair in Riverside, IL | Dry Bros"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Riverside"
 meta_description: "24/7 emergency burst pipe cleanup and repair in Riverside, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "burst pipe cleanup and repair riverside"

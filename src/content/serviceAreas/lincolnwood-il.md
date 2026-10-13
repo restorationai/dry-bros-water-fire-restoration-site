@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Lincolnwood, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Lincolnwood, IL | Dry Bros"
 h1: "Restoration Services in Lincolnwood"
 meta_description: "Serving Lincolnwood, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services lincolnwood"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water extraction, fire and smoke cleanup, mold remediation, and storm damage repair for homeowners and property managers throughout Lincolnwood. We work directly with most major insurance carriers, document the loss as we go, and dry structures to the IICRC S500 standard so a wet basement or a scorched kitchen doesn't turn into a second, bigger problem down the line.
+Dry Bros handles water extraction, fire and smoke cleanup, mold remediation, and storm damage repair for homeowners and property managers throughout Lincolnwood. We work directly with most major insurance carriers, document the loss as we go, and dry structures to the IICRC S500 standard so a wet basement or a scorched kitchen doesn't turn into a second, bigger problem down the line.
 
 ## Restoration emergencies common in Lincolnwood
 
@@ -45,4 +45,4 @@ Much of Lincolnwood's housing dates to the post-World War II building boom, with
 
 Cook County's clay-heavy soil holds water against foundation walls longer than sandier soils would, which is part of why basement moisture problems recur in the same homes. Older homes may also contain asbestos-containing materials in flooring, siding, or pipe insulation, and lead paint in pre-1978 construction, both of which affect how a restoration scope is planned. Structural repairs and rebuilds in Lincolnwood go through the Village's building department, and any permit need is worth confirming before work begins rather than after.
 
-If water, fire, smoke, or storm damage has hit your Lincolnwood property, call Dry Bros Water & Fire Restoration at (877) 379-2767. We're available around the clock, document everything for your insurance claim, and get to work stabilizing the property before the damage spreads further.
+If water, fire, smoke, or storm damage has hit your Lincolnwood property, call Dry Bros at (877) 379-2767. We're available around the clock, document everything for your insurance claim, and get to work stabilizing the property before the damage spreads further.

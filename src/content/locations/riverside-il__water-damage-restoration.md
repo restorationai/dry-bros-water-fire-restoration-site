@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Riverside, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Riverside, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Riverside"
 meta_description: "24/7 emergency water damage restoration in Riverside, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration riverside"
@@ -38,4 +38,4 @@ Most water losses in Riverside end up involving either a homeowner's policy or, 
 
 Basements in Riverside's older homes often have stone or brick foundation walls pointed with historic lime mortar rather than modern Portland cement, and aggressive drying equipment placed directly against those walls can pull moisture out too fast and stress the mortar joints. We adjust airflow and equipment placement in these basements accordingly, drying the space without accelerating damage to a foundation that's already outlasted several owners.
 
-If water is active in your home or building right now, every hour it sits changes what it costs to fix. Dry Bros Water & Fire Restoration answers calls in Riverside around the clock, and we'd rather talk you through next steps on the phone immediately than have you wait until morning to make the call.
+If water is active in your home or building right now, every hour it sits changes what it costs to fix. Dry Bros answers calls in Riverside around the clock, and we'd rather talk you through next steps on the phone immediately than have you wait until morning to make the call.

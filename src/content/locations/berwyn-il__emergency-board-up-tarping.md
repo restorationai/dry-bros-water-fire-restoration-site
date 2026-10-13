@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Board-Up and Tarping in Berwyn, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Board-Up and Tarping in Berwyn, IL | Dry Bros"
 h1: "24/7 Emergency Board-Up and Tarping in Berwyn"
 meta_description: "24/7 emergency board-up and tarping in Berwyn, IL. Insurance billing accepted. Call us now."
 primary_keyword: "emergency board-up and tarping berwyn"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Berwyn? We answer 24/7.** Call now and our crew heads out to secure broken windows, doors and roofs.
 
-Berwyn's dense grid of brick bungalows and two-flats, most of them built between the 1910s and the 1950s, were constructed to last, but they weren't built with modern storm events or house fires in mind. When a fire scorches a soffit, a windstorm peels back a flat roof membrane, or a break-in shatters a ground-floor window, the structure is suddenly open to whatever the Chicago-area weather decides to do next. Getting plywood over those openings and heavy-gauge poly tarping anchored across a compromised roof isn't just cleanup prep, it's the difference between a manageable loss and a cascading one. Dry Bros Water & Fire Restoration responds to those calls in Berwyn and coordinates board-up and tarping from our Chicago base.
+Berwyn's dense grid of brick bungalows and two-flats, most of them built between the 1910s and the 1950s, were constructed to last, but they weren't built with modern storm events or house fires in mind. When a fire scorches a soffit, a windstorm peels back a flat roof membrane, or a break-in shatters a ground-floor window, the structure is suddenly open to whatever the Chicago-area weather decides to do next. Getting plywood over those openings and heavy-gauge poly tarping anchored across a compromised roof isn't just cleanup prep, it's the difference between a manageable loss and a cascading one. Dry Bros responds to those calls in Berwyn and coordinates board-up and tarping from our Chicago base.
 
 ## Why Berwyn's Building Stock Makes Board-Up and Tarping Especially Critical
 

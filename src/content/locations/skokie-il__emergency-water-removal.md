@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Skokie, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Removal & Cleanup in Skokie, IL | Dry Bros"
 h1: "24/7 Emergency Water Removal & Cleanup in Skokie"
 meta_description: "24/7 emergency water removal and cleanup in Skokie, IL. Insurance billing accepted. Call us now."
 primary_keyword: "emergency water removal skokie"
@@ -59,4 +59,4 @@ Dry Bros documents the loss from the first hour on-site: photos, moisture maps, 
 
 Skokie's bungalow belt, the dense stretch of brick and frame homes running through the interior of the city, was built largely before vapor barriers were standard practice. The crawl spaces and partial basements in these homes often have bare soil or single-layer concrete floors that wick ground moisture year-round. After any water event, that baseline moisture load means dehumidifiers need to run longer than they would in a newer home with a properly sealed slab. If a contractor pulls equipment after two days because the air feels dry, ask to see the actual moisture readings from the floor assembly, surface conditions in these homes can be misleading.
 
-Water damage doesn't pause while you figure out next steps. Call Dry Bros Water & Fire Restoration at **call us now** to schedule emergency water removal and cleanup in Skokie and get the water out before secondary damage compounds the loss.
+Water damage doesn't pause while you figure out next steps. Call Dry Bros at **call us now** to schedule emergency water removal and cleanup in Skokie and get the water out before secondary damage compounds the loss.

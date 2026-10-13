@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Des Plaines, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Storm Damage Restoration in Des Plaines, IL | Dry Bros"
 h1: "24/7 Emergency Storm Damage Restoration in Des Plaines"
 meta_description: "24/7 emergency storm damage restoration in Des Plaines, IL. Insurance billing accepted. Call us now."
 primary_keyword: "storm damage restoration des plaines"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Des Plaines? We answer 24/7.** Call now and our crew heads out to secure the property and stop further damage.
 
-Des Plaines sits in a meteorological corridor where Lake Michigan's moisture collides with fast-moving fronts pushing in from the southwest, a combination that produces some of the most unpredictable severe weather in Cook County. Hail that strips shingles, straight-line winds that drop mature oaks across rooflines, and flash flooding that backs up through window wells and basement drains are not rare events here; they're a recurring feature of life along the Des Plaines River valley. When a storm tears through, Dry Bros Water & Fire Restoration is ready to assess the damage, stop secondary losses, and get your property back to pre-storm condition.
+Des Plaines sits in a meteorological corridor where Lake Michigan's moisture collides with fast-moving fronts pushing in from the southwest, a combination that produces some of the most unpredictable severe weather in Cook County. Hail that strips shingles, straight-line winds that drop mature oaks across rooflines, and flash flooding that backs up through window wells and basement drains are not rare events here; they're a recurring feature of life along the Des Plaines River valley. When a storm tears through, Dry Bros is ready to assess the damage, stop secondary losses, and get your property back to pre-storm condition.
 
 ## Why Des Plaines Properties Are Particularly Vulnerable to Storm Damage
 
@@ -62,4 +62,4 @@ If your policy includes additional living expense coverage and the damage makes 
 
 Des Plaines homes built near the river corridor, particularly those on lower-elevation lots west of River Road, often have basement floor drains that tie directly into the combined sewer system. During a major storm event, when the municipal system surcharges, those floor drains can become the path of least resistance for sewage-contaminated water to enter the basement. Homeowners who see water coming up through a floor drain after a storm should treat it as a potential sewage backup, not just stormwater, until it's been tested. We carry the appropriate PPE and testing protocols for exactly this scenario.
 
-If your property has taken storm damage in Des Plaines, call Dry Bros Water & Fire Restoration at **call us now**. We'll assess the full scope of the damage, stop what's still moving, and walk you through every step of the restoration process.
+If your property has taken storm damage in Des Plaines, call Dry Bros at **call us now**. We'll assess the full scope of the damage, stop what's still moving, and walk you through every step of the restoration process.

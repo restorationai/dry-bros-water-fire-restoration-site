@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Des Plaines, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Des Plaines, IL | Dry Bros"
 h1: "Restoration Services in Des Plaines"
 meta_description: "Serving Des Plaines, IL with water, fire, mold, and storm damage restoration. Experienced team. Call us now."
 primary_keyword: "restoration services des plaines"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration responds to water damage, fire damage, mold, and biohazard losses for homeowners and property managers throughout Des Plaines. From a burst pipe in a finished basement to smoke damage after a kitchen fire, the work here is hands-on: moisture mapping, structural drying, odor elimination, and coordinating the paperwork your insurance carrier needs to move the claim forward.
+Dry Bros responds to water damage, fire damage, mold, and biohazard losses for homeowners and property managers throughout Des Plaines. From a burst pipe in a finished basement to smoke damage after a kitchen fire, the work here is hands-on: moisture mapping, structural drying, odor elimination, and coordinating the paperwork your insurance carrier needs to move the claim forward.
 
 ## Restoration emergencies common in Des Plaines
 
@@ -55,4 +55,4 @@ The soils across this part of Cook County are predominantly clay-heavy, which me
 
 Structural repairs and reconstruction work in Des Plaines require permits through the City of Des Plaines Community and Economic Development Department. Work that involves opening walls, replacing structural members, or modifying mechanical systems will typically trigger a permit and inspection, Dry Bros documents scope in a way that supports that process.
 
-If your Des Plaines home or commercial property has been damaged by water, fire, mold, or a biohazard event, call Dry Bros Water & Fire Restoration at **call us now**. We'll assess the damage, explain what the restoration process involves, and work directly with your insurance carrier to move the claim forward.
+If your Des Plaines home or commercial property has been damaged by water, fire, mold, or a biohazard event, call Dry Bros at **call us now**. We'll assess the damage, explain what the restoration process involves, and work directly with your insurance carrier to move the claim forward.

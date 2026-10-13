@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Stickney, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Stickney, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Stickney"
 meta_description: "24/7 emergency water damage restoration in Stickney, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration stickney"
@@ -45,4 +45,4 @@ Most water losses in Stickney's single-family homes go through standard homeowne
 
 A detail that catches a lot of homeowners off guard: in Stickney's older bungalows, the crawlspace or basement stairwell is often narrower and lower than current code would allow for new construction, which means standard air movers and dehumidifiers sometimes have to be staged differently than in a newer home with a full basement. Crews who haven't worked this housing stock before tend to under-equip these spaces, which stretches drying time and lets humidity linger in framing that's already tight on airflow.
 
-If water is spreading across a floor or seeping through a basement wall in Stickney right now, waiting even a few hours changes the scope of the repair. Call Dry Bros Water & Fire Restoration at (877) 379-2767 for water extraction and structural drying that accounts for the way this town's homes and soil actually behave.
+If water is spreading across a floor or seeping through a basement wall in Stickney right now, waiting even a few hours changes the scope of the repair. Call Dry Bros at (877) 379-2767 for water extraction and structural drying that accounts for the way this town's homes and soil actually behave.

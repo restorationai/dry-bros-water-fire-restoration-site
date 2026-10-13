@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Storm Damage Restoration in Cicero, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Storm Damage Restoration in Cicero, IL | Dry Bros"
 h1: "24/7 Emergency Storm Damage Restoration in Cicero"
 meta_description: "24/7 emergency storm damage restoration in Cicero, IL. Insurance billing accepted. Call us now."
 primary_keyword: "storm damage restoration cicero"
@@ -51,4 +51,4 @@ Storm damage claims in Illinois are generally covered under standard homeowners 
 
 In Cicero's older brick bungalows and two-flats, the original roof decking is often skip-sheathed, spaced boards rather than solid plywood, which was standard practice before the mid-20th century. When a storm tears away shingles or a tree limb punctures the roof surface, water doesn't just soak into solid decking; it runs freely between the gaps and reaches the top-floor ceiling faster than most homeowners expect. Emergency tarping on these structures needs to extend further than the visible damage area, because the actual water entry point and the visible interior staining are rarely directly above each other.
 
-If your home in Cicero has taken storm damage, roof breach, downed tree, flooded basement, or any combination, call Dry Bros Water & Fire Restoration at **call us now**. We'll assess the full scope, stabilize the property, and walk you through the restoration and claims process from the first call to the final inspection.
+If your home in Cicero has taken storm damage, roof breach, downed tree, flooded basement, or any combination, call Dry Bros at **call us now**. We'll assess the full scope, stabilize the property, and walk you through the restoration and claims process from the first call to the final inspection.

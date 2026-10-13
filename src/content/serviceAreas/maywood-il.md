@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Maywood, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Maywood, IL | Dry Bros"
 h1: "Restoration Services in Maywood"
 meta_description: "Serving Maywood, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services maywood"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water extraction, fire and smoke cleanup, mold remediation, and storm damage repair for homes and commercial buildings throughout Maywood. We document every loss for insurance, work directly with adjusters, and dry structures to the IICRC S500 standard so the job is verifiable, not just "looks dry." For property owners in an older, flood-prone Cook County suburb, that documentation and drying discipline matters as much as the initial response.
+Dry Bros handles water extraction, fire and smoke cleanup, mold remediation, and storm damage repair for homes and commercial buildings throughout Maywood. We document every loss for insurance, work directly with adjusters, and dry structures to the IICRC S500 standard so the job is verifiable, not just "looks dry." For property owners in an older, flood-prone Cook County suburb, that documentation and drying discipline matters as much as the initial response.
 
 ## Restoration emergencies common in Maywood
 
@@ -45,4 +45,4 @@ Much of Maywood's housing dates to the early-to-mid 20th century, with wood-fram
 
 The village sits on relatively flat ground near the Des Plaines River floodplain, which affects drainage during heavy rain and is a factor insurers and contractors both account for when scoping basement work. Permits for structural repair or rebuild after fire or flood damage are issued through the Village of Maywood's building department, and any work touching electrical, plumbing, or structural framing typically requires a permit and inspection before it's closed back up, regardless of how urgent the repair feels.
 
-If water, fire, or storm damage has hit your Maywood property, call Dry Bros Water & Fire Restoration at (877) 379-2767. We're available 24/7, and the sooner a wet basement or smoke-damaged room gets a trained crew on it, the fewer materials end up needing full replacement.
+If water, fire, or storm damage has hit your Maywood property, call Dry Bros at (877) 379-2767. We're available 24/7, and the sooner a wet basement or smoke-damaged room gets a trained crew on it, the fewer materials end up needing full replacement.

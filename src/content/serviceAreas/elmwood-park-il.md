@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Elmwood Park, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Elmwood Park, IL | Dry Bros"
 h1: "Restoration Services in Elmwood Park"
 meta_description: "Serving Elmwood Park, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services elmwood park"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water extraction, fire and smoke cleanup, mold remediation, and biohazard response for homes and businesses throughout Elmwood Park. Whether a sump pump failed during a spring storm or a kitchen fire left smoke damage running through the ductwork, we document the loss for your insurance carrier and get drying or cleanup equipment running fast. Our crews work on the older brick two-flats and bungalows that make up most of the village's housing stock, as well as the commercial storefronts along the village's main corridors.
+Dry Bros handles water extraction, fire and smoke cleanup, mold remediation, and biohazard response for homes and businesses throughout Elmwood Park. Whether a sump pump failed during a spring storm or a kitchen fire left smoke damage running through the ductwork, we document the loss for your insurance carrier and get drying or cleanup equipment running fast. Our crews work on the older brick two-flats and bungalows that make up most of the village's housing stock, as well as the commercial storefronts along the village's main corridors.
 
 ## Restoration emergencies common in Elmwood Park
 
@@ -47,4 +47,4 @@ Plumbing of that era commonly mixed galvanized steel supply lines with cast iron
 
 Structural repairs and rebuilds in Elmwood Park go through the village's building department, and projects involving electrical, plumbing, or structural work typically require a permit regardless of the trigger event. Illinois follows state-adopted building codes with local amendments, so permit requirements can vary by scope; our crews coordinate with property owners and their contractors so repair work stays compliant from the start.
 
-If water is actively spreading through your basement, smoke has settled into your walls, or you need a straight answer on what a loss will take to dry and repair, call Dry Bros Water & Fire Restoration at (877) 379-2767. We're available 24/7 to talk through what you're seeing and get a crew moving toward Elmwood Park.
+If water is actively spreading through your basement, smoke has settled into your walls, or you need a straight answer on what a loss will take to dry and repair, call Dry Bros at (877) 379-2767. We're available 24/7 to talk through what you're seeing and get a crew moving toward Elmwood Park.

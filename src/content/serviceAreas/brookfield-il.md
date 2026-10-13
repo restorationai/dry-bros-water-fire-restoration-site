@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Brookfield, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Brookfield, IL | Dry Bros"
 h1: "Restoration Services in Brookfield"
 meta_description: "Serving Brookfield, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services brookfield"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water damage, fire and smoke cleanup, storm response, and mold remediation for homes and businesses throughout Brookfield, Illinois. From older bungalows near Salt Creek to commercial spaces along Ogden Avenue, our crews document the loss, stabilize the property, and work directly with most major insurance carriers so Brookfield owners aren't managing the claims process alone while their home is unlivable.
+Dry Bros handles water damage, fire and smoke cleanup, storm response, and mold remediation for homes and businesses throughout Brookfield, Illinois. From older bungalows near Salt Creek to commercial spaces along Ogden Avenue, our crews document the loss, stabilize the property, and work directly with most major insurance carriers so Brookfield owners aren't managing the claims process alone while their home is unlivable.
 
 ## Restoration emergencies common in Brookfield
 
@@ -47,4 +47,4 @@ Much of Brookfield's housing dates to the early-to-mid 20th century, bungalows a
 
 The village sits in a flood-prone stretch of the Salt Creek watershed, and Cook County soils in this area hold water rather than draining it quickly, so saturated ground around a foundation can keep pushing moisture inward for days after a storm clears. Structural repairs, electrical work, and significant rebuild scopes in Brookfield go through the village's building department for permitting, and any work touching pre-1978 construction should be scoped with lead paint and, where applicable, asbestos-containing materials in mind before demolition begins.
 
-If water, fire, or storm damage has hit your Brookfield property, call Dry Bros Water & Fire Restoration at (877) 379-2767. We're available 24/7, document everything for your insurance carrier, and get equipment on-site to start drying, cleaning, or boarding up before the damage spreads further.
+If water, fire, or storm damage has hit your Brookfield property, call Dry Bros at (877) 379-2767. We're available 24/7, document everything for your insurance carrier, and get equipment on-site to start drying, cleaning, or boarding up before the damage spreads further.

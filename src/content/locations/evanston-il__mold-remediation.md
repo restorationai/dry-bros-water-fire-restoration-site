@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Evanston, IL | Dry Bros Water & Fire Restoration"
+title: "Mold Remediation in Evanston, IL | Dry Bros"
 h1: "Mold Remediation in Evanston"
 meta_description: "Mold remediation in Evanston, IL. Insurance billing accepted. Call us now."
 primary_keyword: "mold remediation evanston"

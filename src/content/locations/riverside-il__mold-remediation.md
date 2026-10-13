@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Riverside, IL | Dry Bros Water & Fire Restoration"
+title: "Mold Remediation in Riverside, IL | Dry Bros"
 h1: "Mold Remediation in Riverside"
 meta_description: "24/7 mold remediation in Riverside, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "mold remediation riverside"

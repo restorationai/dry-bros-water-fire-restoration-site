@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Basement Flooding Cleanup in Cicero, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Basement Flooding Cleanup in Cicero, IL | Dry Bros"
 h1: "24/7 Emergency Basement Flooding Cleanup in Cicero"
 meta_description: "24/7 emergency basement flooding cleanup in Cicero, IL. Insurance billing accepted. Call us now."
 primary_keyword: "basement flooding cleanup cicero"
@@ -51,4 +51,4 @@ Most standard homeowner policies cover sudden and accidental water damage, a bur
 
 Cicero's concrete block foundation walls are common in homes built through the mid-twentieth century, and they behave differently from poured concrete under moisture stress. Block walls are hollow-core assemblies, water can enter the cores and pool inside the wall cavity without ever appearing on the interior face. A surface moisture reading on a block wall can look acceptable while the cores are still holding standing water. Crews working in Cicero need to probe the mortar joints and, when necessary, drill weep holes at the base of the wall to drain the cores before drying can begin in earnest. Skipping that step is one of the most common reasons a basement drying job in an older Cicero home takes longer than expected or produces a mold callback weeks later.
 
-If your basement is holding water, or held water recently and still smells like it, call Dry Bros Water & Fire Restoration now. The longer saturated materials sit in a Cicero basement, the deeper the moisture migrates into the assembly and the harder the drying job becomes.
+If your basement is holding water, or held water recently and still smells like it, call Dry Bros now. The longer saturated materials sit in a Cicero basement, the deeper the moisture migrates into the assembly and the harder the drying job becomes.

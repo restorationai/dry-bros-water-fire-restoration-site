@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Melrose Park, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Melrose Park, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Melrose Park"
 meta_description: "24/7 emergency water damage restoration in Melrose Park, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration melrose park"
@@ -42,4 +42,4 @@ Most Melrose Park water losses we see fall into a few categories carriers recogn
 
 Older Melrose Park basements with sump pits tied to a single pump are common, and when that pump fails during a storm it's usually total, not partial, flooding because there's no backup system catching the overflow. We've learned to ask about pump age and battery backup status on the first call, since it tells us a lot about whether we're walking into an isolated puddle or a basement that's taken on several inches overnight.
 
-Water sitting in a Melrose Park basement or soaking into bungalow subfloor doesn't get better on its own, and every hour it sits raises the chance of warped flooring, swollen trim, and the start of mold colonization. Call Dry Bros Water & Fire Restoration at (877) 379-2767 for water damage restoration in Melrose Park, we're set up to answer and respond any hour the problem shows up.
+Water sitting in a Melrose Park basement or soaking into bungalow subfloor doesn't get better on its own, and every hour it sits raises the chance of warped flooring, swollen trim, and the start of mold colonization. Call Dry Bros at (877) 379-2767 for water damage restoration in Melrose Park, we're set up to answer and respond any hour the problem shows up.

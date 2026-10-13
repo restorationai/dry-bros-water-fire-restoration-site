@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Evergreen Park, IL | Dry Bros Water & Fire Restoration"
+title: "Emergency Water Damage Restoration in Evergreen Park, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Evergreen Park"
 meta_description: "24/7 emergency water damage restoration in Evergreen Park, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration evergreen park"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in Evergreen Park?** We answer 24/7 and we understand why this stretch of Cook County sees more sump pump failures and basement seepage than many Chicago-area suburbs. Between the flat, glacially-flattened terrain and the heavy clay subsoil common south of the city, water doesn't drain away from foundations the way it does in sandier soil, which means a burst pipe or sewer backup here often means standing water in a finished basement within hours, not days. Dry Bros Water & Fire Restoration handles extraction, structural drying, and water mitigation for homes throughout the area, and we start from the ground up: what kind of foundation, what kind of soil, and how fast the water is moving.
+**Water damage emergency in Evergreen Park?** We answer 24/7 and we understand why this stretch of Cook County sees more sump pump failures and basement seepage than many Chicago-area suburbs. Between the flat, glacially-flattened terrain and the heavy clay subsoil common south of the city, water doesn't drain away from foundations the way it does in sandier soil, which means a burst pipe or sewer backup here often means standing water in a finished basement within hours, not days. Dry Bros handles extraction, structural drying, and water mitigation for homes throughout the area, and we start from the ground up: what kind of foundation, what kind of soil, and how fast the water is moving.
 
 ## Why Evergreen Park Properties See Water Damage Issues
 
@@ -38,4 +38,4 @@ Evergreen Park sits just southwest of Chicago proper, close enough that our crew
 
 One thing only comes up once you've worked a few basements out here: a lot of Evergreen Park's older blocks share lateral sewer connections that tie multiple homes into a single line before it reaches the main. When one of those lines backs up during a heavy rain event, it's rarely just one house affected, it's often two or three neighbors pulling water out the same week. We flag that pattern early so homeowners know to check in with neighbors and loop in their insurance adjuster on whether the loss is tied to a shared line issue, which can affect how a claim gets classified.
 
-If water is moving through your basement, crawlspace, or first floor right now, don't wait for it to find its own level. Dry Bros Water & Fire Restoration answers calls 24/7 and brings extraction and drying equipment built for Evergreen Park's clay soil and older foundation types, call (877) 379-2767 and we'll talk through what's happening before a crew is even on the road.
+If water is moving through your basement, crawlspace, or first floor right now, don't wait for it to find its own level. Dry Bros answers calls 24/7 and brings extraction and drying equipment built for Evergreen Park's clay soil and older foundation types, call (877) 379-2767 and we'll talk through what's happening before a crew is even on the road.

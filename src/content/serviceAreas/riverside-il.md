@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Riverside, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Riverside, IL | Dry Bros"
 h1: "Restoration Services in Riverside"
 meta_description: "Serving Riverside, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services riverside"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water damage, fire and smoke recovery, mold remediation, and storm cleanup for homes and businesses throughout Riverside, IL. Many of the village's properties sit close to the Des Plaines River and carry original basements and plumbing from Riverside's nineteenth and early twentieth century building boom, which shapes how water moves through a structure and how a loss needs to be scoped. We work directly with Riverside homeowners, landlords, and property managers to get water out, structures dried, and fire or smoke damage addressed with minimal disruption to a home that may also sit inside the village's historic district.
+Dry Bros handles water damage, fire and smoke recovery, mold remediation, and storm cleanup for homes and businesses throughout Riverside, IL. Many of the village's properties sit close to the Des Plaines River and carry original basements and plumbing from Riverside's nineteenth and early twentieth century building boom, which shapes how water moves through a structure and how a loss needs to be scoped. We work directly with Riverside homeowners, landlords, and property managers to get water out, structures dried, and fire or smoke damage addressed with minimal disruption to a home that may also sit inside the village's historic district.
 
 ## Restoration emergencies common in Riverside
 
@@ -43,4 +43,4 @@ From our Chicago location, Riverside is a straightforward run west via I-290 to 
 
 Much of Riverside was built from the late 1800s through the mid-1900s, with Victorian and American Foursquare homes sitting on raised masonry foundations and full basements rather than slab-on-grade construction. That basement-heavy stock means water intrusion tends to collect below grade, saturating framing and insulation out of sight. Plumbing from that era commonly includes cast iron drain lines and galvanized supply piping, both of which corrode and fail with age, and older homes may still carry asbestos-containing insulation or lead paint that a restoration scope has to plan around. The village sits in a floodplain along the Des Plaines River with heavy clay soils typical of Cook County, which slows drainage and raises the water table after sustained rain. Because a large portion of Riverside falls within the Riverside Historic District, exterior repair work often involves additional review through the village's historic preservation process on top of standard Cook County building permits.
 
-If water is spreading through your Riverside basement, smoke has settled into your walls, or a storm just tore into your roof, call Dry Bros Water & Fire Restoration at (877) 379-2767. We answer 24/7 and can get a crew moving toward Riverside the same call.
+If water is spreading through your Riverside basement, smoke has settled into your walls, or a storm just tore into your roof, call Dry Bros at (877) 379-2767. We answer 24/7 and can get a crew moving toward Riverside the same call.

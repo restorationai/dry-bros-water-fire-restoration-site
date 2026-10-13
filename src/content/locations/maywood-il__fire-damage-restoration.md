@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Maywood, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Fire Damage Restoration in Maywood, IL | Dry Bros"
 h1: "24/7 Emergency Fire Damage Restoration in Maywood"
 meta_description: "24/7 emergency fire damage restoration in Maywood, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "fire damage restoration maywood"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Fire Damage Restoration"
 rendered: true
 ---
-**Fire damage in your Maywood home or storefront?** Call Dry Bros Water & Fire Restoration at (877) 379-2767. We answer 24/7, and our crews come from Chicago to handle everything from a scorched kitchen to a full structural loss, including the smoke, soot, and water damage left behind by the fire department's hoses.
+**Fire damage in your Maywood home or storefront?** Call Dry Bros at (877) 379-2767. We answer 24/7, and our crews come from Chicago to handle everything from a scorched kitchen to a full structural loss, including the smoke, soot, and water damage left behind by the fire department's hoses.
 
 Maywood's housing stock skews older, with a lot of early-to-mid-20th-century bungalows and two-flats built close together on narrow lots. That proximity matters after a fire: smoke and soot travel through shared attic spaces, siding gaps, and older HVAC runs faster than most homeowners expect, and a fire that starts in one unit can leave a visible residue film two or three doors down. Older wiring and knob-and-tube remnants still found in some of these homes are also a common ignition point, which means the fire marshal's report often points investigators (and us) toward the electrical panel or an outdated junction box as a starting point for the loss.
 
@@ -44,4 +44,4 @@ Most of what we see in Maywood is single-family and small multi-unit property, s
 
 One thing that trips up out-of-area crews working in Maywood: a lot of the two-flats and bungalows here were converted or added onto over the decades, which means ductwork and electrical runs don't always match what's on the original permit drawings. We check for those undocumented additions during the initial walkthrough, because soot and heat can travel through a retrofitted duct run in ways that don't match the original floor plan, and missing that changes how far the cleanup actually needs to extend.
 
-If your Maywood property has fire, smoke, or soot damage, the time between the fire going out and mitigation starting matters more than almost anything else in how the restoration goes. Call Dry Bros Water & Fire Restoration at (877) 379-2767 for fire damage restoration in Maywood, day or night.
+If your Maywood property has fire, smoke, or soot damage, the time between the fire going out and mitigation starting matters more than almost anything else in how the restoration goes. Call Dry Bros at (877) 379-2767 for fire damage restoration in Maywood, day or night.

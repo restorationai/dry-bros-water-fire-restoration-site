@@ -4,8 +4,8 @@
 
 export const brand = {
   slug: "dry-bros-water-fire-restoration",
-  displayName: "Dry Bros Water & Fire Restoration",
-  shortName: "Dry Bros Water & Fire Restoration",
+  displayName: "Dry Bros",
+  shortName: "Dry Bros",
   legalName: "Dry Bros Water & Fire Restoration",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
@@ -82,7 +82,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "Dry Bros Water & Fire Restoration serves Chicago and the surrounding IL area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "Dry Bros serves Chicago and the surrounding IL area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

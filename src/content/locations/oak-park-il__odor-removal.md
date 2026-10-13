@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "Odor Removal and Deodorization in Oak Park, IL | Dry Bros"
 h1: "Odor Removal and Deodorization in Oak Park"
 meta_description: "Odor removal and deodorization in Oak Park, IL. Insurance billing accepted. Call us now."
 primary_keyword: "odor removal and deodorization oak park"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Oak Park's architectural identity, dense blocks of Prairie-style homes, brick two-flats, and Victorian-era frame houses dating back to the 1880s, creates a deodorization challenge that's genuinely different from newer suburban construction. Older plaster walls, original hardwood subfloors, and decades of accumulated paint layers all act as reservoirs for smoke, mold, and organic odors. When a fire chars the kitchen of a century-old bungalow or a slow plumbing leak turns a basement into a mildew incubator, the smell doesn't sit on the surface, it migrates into materials that were built to last. Dry Bros Water & Fire Restoration brings professional-grade odor elimination to Oak Park properties, using methods matched to what the building actually is.
+Oak Park's architectural identity, dense blocks of Prairie-style homes, brick two-flats, and Victorian-era frame houses dating back to the 1880s, creates a deodorization challenge that's genuinely different from newer suburban construction. Older plaster walls, original hardwood subfloors, and decades of accumulated paint layers all act as reservoirs for smoke, mold, and organic odors. When a fire chars the kitchen of a century-old bungalow or a slow plumbing leak turns a basement into a mildew incubator, the smell doesn't sit on the surface, it migrates into materials that were built to last. Dry Bros brings professional-grade odor elimination to Oak Park properties, using methods matched to what the building actually is.
 
 ## Why Oak Park Properties Hold Odors Longer
 

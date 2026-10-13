@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Flood Damage Restoration in Naperville, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Flood Damage Restoration in Naperville, IL | Dry Bros"
 h1: "24/7 Emergency Flood Damage Restoration in Naperville"
 meta_description: "24/7 emergency flood damage restoration in Naperville, IL. Insurance billing accepted. Call us now."
 primary_keyword: "flood damage restoration naperville"
@@ -53,4 +53,4 @@ For homeowners in Naperville's HOA-governed communities, and there are many, par
 
 Naperville's older ranch homes, particularly those built in the 1960s and early 1970s, frequently have original hardwood flooring installed directly over a concrete slab with minimal vapor barrier between them. When those slabs flood, the hardwood can cup and buckle within hours, but the slab itself retains moisture for weeks. Rushing to refinish or replace the flooring before the slab reaches acceptable moisture content almost always leads to the same problem repeating. Monitoring the slab with a concrete moisture probe, not just the surface of the wood, is the step that determines whether a floor can be saved or needs to come out entirely.
 
-If your home has taken on water, call Dry Bros Water & Fire Restoration now. The sooner extraction and drying begin, the better the outcome for your structure, your contents, and your claim.
+If your home has taken on water, call Dry Bros now. The sooner extraction and drying begin, the better the outcome for your structure, your contents, and your claim.

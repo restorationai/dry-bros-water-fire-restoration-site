@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Cicero, IL | Dry Bros Water & Fire Restoration"
+title: "Contents Restoration and Storage in Cicero, IL | Dry Bros"
 h1: "Contents Restoration and Storage in Cicero"
 meta_description: "Contents restoration and storage in Cicero, IL. Insurance billing accepted. Call us now."
 primary_keyword: "contents restoration and storage cicero"
@@ -50,4 +50,4 @@ If your carrier requires an independent contents appraisal or a signed proof of 
 
 Cicero's older two-flat and bungalow stock was built when furniture was heavier and rooms were smaller, solid wood buffets, upright pianos, cast-iron radiator covers, and built-in china cabinets are common in these homes. Moving this kind of furniture out of a damaged space without causing secondary damage requires different equipment and more crew time than a modern home with flat-pack furniture. When we schedule a pack-out in Cicero, we account for narrow doorways, steep interior staircases, and the likelihood that at least one piece in the home is genuinely difficult to move. It's worth mentioning on the initial call if you know you have large or fragile heirloom pieces, that information changes how we staff the job.
 
-If your home or rental property in Cicero has been affected by water, fire, or smoke damage and your belongings are at risk, call Dry Bros Water & Fire Restoration at **call us now**. The sooner contents are removed from a damaged environment, the more of them can be saved, and we handle the entire process from pack-out through cleaning, storage, and return.
+If your home or rental property in Cicero has been affected by water, fire, or smoke damage and your belongings are at risk, call Dry Bros at **call us now**. The sooner contents are removed from a damaged environment, the more of them can be saved, and we handle the entire process from pack-out through cleaning, storage, and return.

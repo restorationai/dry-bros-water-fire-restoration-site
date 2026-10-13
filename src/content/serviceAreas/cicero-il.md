@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Cicero, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Cicero, IL | Dry Bros"
 h1: "Restoration Services in Cicero"
 meta_description: "Serving Cicero, IL with water, fire, mold, and storm damage restoration. Experienced team. Call us now."
 primary_keyword: "restoration services cicero"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration responds to water damage, fire damage, mold, and biohazard losses for homeowners and property managers throughout Cicero, IL. Whether the call comes from a flooded basement on a side street off Cermak Road or smoke-damaged walls in a two-flat near the western edge of town, the work is the same: stop further damage, document everything for your insurance carrier, and dry or clean to industry standards before secondary problems set in.
+Dry Bros responds to water damage, fire damage, mold, and biohazard losses for homeowners and property managers throughout Cicero, IL. Whether the call comes from a flooded basement on a side street off Cermak Road or smoke-damaged walls in a two-flat near the western edge of town, the work is the same: stop further damage, document everything for your insurance carrier, and dry or clean to industry standards before secondary problems set in.
 
 ## Restoration emergencies common in Cicero
 
@@ -51,4 +51,4 @@ Cook County's heavy clay soils hold water rather than shedding it, which keeps h
 
 Structural repairs and reconstruction in Cicero require permits issued through the Town of Cicero's Building Department. Work that involves opening walls, replacing structural members, or altering mechanical systems will generally trigger a permit and inspection. Coordinating that paperwork early avoids delays when an insurance carrier requires a scope of work before releasing funds.
 
-When your property has taken water, fire, or mold damage, the next step is a documented assessment, not a guess. Call Dry Bros Water & Fire Restoration at **call us now** to schedule an inspection and get the process moving.
+When your property has taken water, fire, or mold damage, the next step is a documented assessment, not a guess. Call Dry Bros at **call us now** to schedule an inspection and get the process moving.

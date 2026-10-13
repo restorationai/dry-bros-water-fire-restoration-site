@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Odor Removal and Deodorization in Chicago | Dry Bros Water & Fire Restoration"
+title: "Odor Removal and Deodorization in Chicago | Dry Bros"
 h1: "Odor Removal and Deodorization in Chicago"
 meta_description: "Odor removal and deodorization in Chicago and surrounding areas. Insurance billing accepted. Call us now."
 primary_keyword: "odor removal and deodorization chicago"

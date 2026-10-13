@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Evanston, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Evanston, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Evanston"
 meta_description: "24/7 emergency water damage restoration in Evanston, IL. Insurance billing accepted. Call us now."
 primary_keyword: "water damage restoration evanston"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-Evanston sits on a narrow strip of land between Lake Michigan and the North Shore's clay-heavy soils, a combination that makes water damage a recurring reality rather than a rare event. When a sump pump fails during a spring thaw, a water main cracks under an aging parkway, or a finished basement floods after a heavy rain pushes groundwater through foundation walls, the damage spreads fast. Dry Bros Water & Fire Restoration responds to water emergencies throughout Evanston, handling everything from initial water extraction to full structural drying so the problem doesn't follow you into the next season.
+Evanston sits on a narrow strip of land between Lake Michigan and the North Shore's clay-heavy soils, a combination that makes water damage a recurring reality rather than a rare event. When a sump pump fails during a spring thaw, a water main cracks under an aging parkway, or a finished basement floods after a heavy rain pushes groundwater through foundation walls, the damage spreads fast. Dry Bros responds to water emergencies throughout Evanston, handling everything from initial water extraction to full structural drying so the problem doesn't follow you into the next season.
 
 ## Why Evanston Properties See Water Damage So Often
 

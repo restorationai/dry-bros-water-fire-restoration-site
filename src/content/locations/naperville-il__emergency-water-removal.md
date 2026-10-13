@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Removal & Cleanup in Naperville, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Removal & Cleanup in Naperville, IL | Dry Bros"
 h1: "24/7 Emergency Water Removal & Cleanup in Naperville"
 meta_description: "24/7 emergency water removal and cleanup in Naperville, IL. Insurance billing accepted. Call us now."
 primary_keyword: "emergency water removal naperville"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-Naperville sits on the DuPage County plain where clay-heavy soils slow drainage and a single burst pipe or sump failure can leave inches of standing water across a finished basement floor before the next morning. When that happens, whether it's a supply line that let go overnight or a storm that overwhelmed the storm sewer on your block, the clock starts immediately. Water that looks contained at the surface is already wicking into drywall, pushing under laminate, and soaking into the framing behind your walls. Dry Bros Water & Fire Restoration handles emergency water removal and cleanup in Naperville with the kind of urgency that situation demands.
+Naperville sits on the DuPage County plain where clay-heavy soils slow drainage and a single burst pipe or sump failure can leave inches of standing water across a finished basement floor before the next morning. When that happens, whether it's a supply line that let go overnight or a storm that overwhelmed the storm sewer on your block, the clock starts immediately. Water that looks contained at the surface is already wicking into drywall, pushing under laminate, and soaking into the framing behind your walls. Dry Bros handles emergency water removal and cleanup in Naperville with the kind of urgency that situation demands.
 
 ## Why Naperville Properties See Water Damage the Way They Do
 
@@ -52,4 +52,4 @@ Dry Bros operates out of Chicago, and Naperville is accessible via I-88 west fro
 
 Naperville's townhome and condominium associations, particularly in developments built between the mid-1990s and mid-2000s, often have governing documents that specify how and when common-area or shared-wall repairs can be made, and some require the association's property manager to be notified before any structural drywall removal begins. If you're in a unit and not sure whether your HOA has that requirement, it's worth a quick call to your management company before demo starts. Dry Bros can work around that coordination; it just needs to happen before, not after, materials come off the wall.
 
-Call **call us now** to reach Dry Bros Water & Fire Restoration. Describe what you're seeing, where the water is, and whether the source is controlled, that information lets us arrive prepared for your specific situation in Naperville rather than starting from scratch on-site.
+Call **call us now** to reach Dry Bros. Describe what you're seeing, where the water is, and whether the source is controlled, that information lets us arrive prepared for your specific situation in Naperville rather than starting from scratch on-site.

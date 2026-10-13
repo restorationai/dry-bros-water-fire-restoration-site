@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Skokie, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Skokie, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Skokie"
 meta_description: "24/7 emergency water damage restoration in Skokie, IL. Insurance billing accepted. Call us now."
 primary_keyword: "water damage restoration skokie"
@@ -49,4 +49,4 @@ Most standard homeowner policies cover sudden and accidental water losses, a bur
 
 Skokie's older two-flat and coach-house properties, common in the blocks between Dempster and Main Street, often share a single water shutoff for both units, located in the basement of the primary structure. If a pipe fails in the upper unit, the tenant downstairs may not know where the shutoff is, and the owner may not be on-site. It's worth confirming the shutoff location with every tenant before an emergency happens. When we arrive at a multi-unit property and the water is still running, locating that valve is the first thing we do, before any equipment comes off the truck.
 
-If water has reached your Skokie home or commercial property, the sooner extraction and drying begin, the less structural material ends up in a dumpster. Call Dry Bros Water & Fire Restoration now to get the process started.
+If water has reached your Skokie home or commercial property, the sooner extraction and drying begin, the less structural material ends up in a dumpster. Call Dry Bros now to get the process started.

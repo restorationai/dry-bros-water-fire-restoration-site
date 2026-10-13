@@ -69,10 +69,10 @@ Act within the first 24 to 48 hours: notify your landlord or property manager in
 
 Getting a professional drying crew on-site quickly matters for your claim, not just your comfort. Documented moisture readings and a written drying log give your insurer, and the upstairs neighbor's insurer if subrogation comes into play, the evidence that the loss was handled correctly and promptly.
 
-If you're dealing with standing water, a soaked ceiling, or a leak that's already traveled between units in a Chicago building, Dry Bros Water & Fire Restoration can start extraction and drying while you sort out whose policy pays for what.
+If you're dealing with standing water, a soaked ceiling, or a leak that's already traveled between units in a Chicago building, Dry Bros can start extraction and drying while you sort out whose policy pays for what.
 
 ---
 
-**About Dry Bros Water & Fire Restoration**
+**About Dry Bros**
 
-Dry Bros Water & Fire Restoration is a locally owned, licensed and insured restoration company serving Chicago, IL and the surrounding suburbs around the clock. Their crews handle water damage restoration, emergency water removal, burst pipe response, basement flooding cleanup, sewage cleanup, and mold remediation across Chicago two-flats, condo buildings, and single-family homes throughout the region.
+Dry Bros is a locally owned, licensed and insured restoration company serving Chicago, IL and the surrounding suburbs around the clock. Their crews handle water damage restoration, emergency water removal, burst pipe response, basement flooding cleanup, sewage cleanup, and mold remediation across Chicago two-flats, condo buildings, and single-family homes throughout the region.

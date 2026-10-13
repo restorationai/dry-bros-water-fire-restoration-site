@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in River Forest, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in River Forest, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in River Forest"
 meta_description: "24/7 emergency water damage restoration in River Forest, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration river forest"
@@ -20,7 +20,7 @@ state: "IL"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in River Forest?** Call Dry Bros Water & Fire Restoration now at (877) 379-2767. We answer 24/7, because a burst pipe in a century-old River Forest home doesn't wait for business hours, and neither do we.
+**Water damage emergency in River Forest?** Call Dry Bros now at (877) 379-2767. We answer 24/7, because a burst pipe in a century-old River Forest home doesn't wait for business hours, and neither do we.
 
 River Forest sits along the Des Plaines River on Chicago's near west side, and that geography shapes how water damage plays out here. Basements in this part of Cook County sit close to the water table, and many of the village's homes date to the early-to-mid 1900s, with fieldstone or brick foundations that were never built to modern waterproofing standards. When those foundations take on water, whether from a spring thaw, a sump failure, or a supply line that lets go behind a plaster wall, the moisture doesn't just sit on the surface. It works into joists, subfloor, and masonry in ways that aren't always obvious until the smell shows up weeks later.
 
@@ -44,4 +44,4 @@ Structural drying in a village like River Forest usually means a mix of low-grai
 
 A lot of River Forest basements have finished space built directly against the original fieldstone foundation wall, often with furring strips and drywall added decades after the house was built. When that wall takes on water, the drywall can look fine while the furring strips and the stone behind it stay damp for days, which is why we always check behind finished basement walls in older River Forest homes rather than relying on a surface-dry reading.
 
-Water sitting in a River Forest basement or soaking into original flooring doesn't get better on its own, and every hour it sits raises the odds of warped subfloor, lifted hardwood, or mold getting a foothold in wall cavities. Call Dry Bros Water & Fire Restoration at (877) 379-2767 for water damage restoration in River Forest, we're set up to respond 24/7 and start extraction the same visit.
+Water sitting in a River Forest basement or soaking into original flooring doesn't get better on its own, and every hour it sits raises the odds of warped subfloor, lifted hardwood, or mold getting a foothold in wall cavities. Call Dry Bros at (877) 379-2767 for water damage restoration in River Forest, we're set up to respond 24/7 and start extraction the same visit.

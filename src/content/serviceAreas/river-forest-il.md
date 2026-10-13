@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in River Forest, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in River Forest, IL | Dry Bros"
 h1: "Restoration Services in River Forest"
 meta_description: "Serving River Forest, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services river forest"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water damage, fire and smoke recovery, mold remediation, and storm cleanup for homes and businesses throughout River Forest. We work directly with property insurance carriers, document the loss for claims purposes, and dry, clean, and rebuild structures using IICRC-standard drying and moisture monitoring, so River Forest homeowners aren't guessing whether a basement or wall cavity is actually dry.
+Dry Bros handles water damage, fire and smoke recovery, mold remediation, and storm cleanup for homes and businesses throughout River Forest. We work directly with property insurance carriers, document the loss for claims purposes, and dry, clean, and rebuild structures using IICRC-standard drying and moisture monitoring, so River Forest homeowners aren't guessing whether a basement or wall cavity is actually dry.
 
 ## Restoration emergencies common in River Forest
 
@@ -45,4 +45,4 @@ Much of River Forest's housing stock dates to the early-to-mid 20th century, wit
 
 Homes built before the 1970s may also contain asbestos-containing materials in older plaster, flooring, or pipe insulation, and lead paint is a reasonable assumption in pre-1978 construction, both of which factor into how a restoration scope is planned and executed. Structural repair or rebuild work in River Forest falls under the village's building department for permitting, and homeowners in older or historic sections of town should expect permit review to account for existing construction materials, not just new work.
 
-If water, fire, or storm damage has hit your River Forest property, don't wait for it to get worse. Call Dry Bros Water & Fire Restoration at (877) 379-2767, we're available 24/7 to start the assessment and get drying or cleanup equipment on site.
+If water, fire, or storm damage has hit your River Forest property, don't wait for it to get worse. Call Dry Bros at (877) 379-2767, we're available 24/7 to start the assessment and get drying or cleanup equipment on site.

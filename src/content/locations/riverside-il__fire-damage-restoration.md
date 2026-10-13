@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Riverside, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Fire Damage Restoration in Riverside, IL | Dry Bros"
 h1: "24/7 Emergency Fire Damage Restoration in Riverside"
 meta_description: "24/7 emergency fire damage restoration in Riverside, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "fire damage restoration riverside"
@@ -38,4 +38,4 @@ Because Riverside is a National Historic Landmark village, exterior repairs, esp
 
 One thing that catches Riverside homeowners off guard: because so many lots back up to the Des Plaines River and its floodplain, fire department access on some streets is narrower than a standard suburban grid, with curving lanes and limited turnaround space that Frederick Law Olmsted designed intentionally in the 1870s. That same layout can slow staging of drying equipment and dumpsters after a fire, so we often scout truck access and parking before equipment arrives rather than assuming a straight pull-up to the curb.
 
-If your Riverside home or garage has fire or smoke damage, the sooner soot and heat are addressed, the less they etch into plaster, wood trim, and balloon-framed wall cavities that are harder to reach once everything's closed back up. Call Dry Bros Water & Fire Restoration at (877) 379-2767, we answer 24/7 and can start coordinating your Riverside fire cleanup right away.
+If your Riverside home or garage has fire or smoke damage, the sooner soot and heat are addressed, the less they etch into plaster, wood trim, and balloon-framed wall cavities that are harder to reach once everything's closed back up. Call Dry Bros at (877) 379-2767, we answer 24/7 and can start coordinating your Riverside fire cleanup right away.

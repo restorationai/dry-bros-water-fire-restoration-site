@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Water Damage Restoration in Lyons, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Water Damage Restoration in Lyons, IL | Dry Bros"
 h1: "24/7 Emergency Water Damage Restoration in Lyons"
 meta_description: "24/7 emergency water damage restoration in Lyons, IL. Insurance billing accepted. Call (877) 379-2767."
 primary_keyword: "water damage restoration lyons"
@@ -42,4 +42,4 @@ Most water losses we see in Lyons fall under a homeowner's policy, though the ca
 
 One thing that catches a lot of Lyons homeowners off guard: because the water table here runs high near the river, a basement that dries out on the surface within a day or two can still be pulling moisture up through the slab for a while afterward. We've learned to keep moisture meters on the slab itself, not just the walls and carpet, because a Lyons basement that looks dry can still be feeding mold growth from underneath if that step gets skipped.
 
-If water is moving through your Lyons home right now, from a storm, a failed sump pump, or a pipe that finally gave out, the clock on mold growth and structural damage starts immediately. Call Dry Bros Water & Fire Restoration and we'll get a crew moving toward Lyons to start extraction and drying before the damage spreads further.
+If water is moving through your Lyons home right now, from a storm, a failed sump pump, or a pipe that finally gave out, the clock on mold growth and structural damage starts immediately. Call Dry Bros and we'll get a crew moving toward Lyons to start extraction and drying before the damage spreads further.

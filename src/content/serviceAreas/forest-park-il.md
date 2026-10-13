@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Forest Park, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Forest Park, IL | Dry Bros"
 h1: "Restoration Services in Forest Park"
 meta_description: "Serving Forest Park, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services forest park"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration responds to water, fire, storm, and biohazard losses for homeowners and property managers throughout Forest Park, Illinois. We handle the technical side of a loss, extraction, structural drying, smoke and soot removal, and sewage or trauma cleanup, while working directly with your insurance carrier so the claims paperwork isn't one more thing on your plate. Whether it's a burst supply line in a century-old two-flat or storm water backing up through a floor drain, we document the loss and start mitigation on the same visit.
+Dry Bros responds to water, fire, storm, and biohazard losses for homeowners and property managers throughout Forest Park, Illinois. We handle the technical side of a loss, extraction, structural drying, smoke and soot removal, and sewage or trauma cleanup, while working directly with your insurance carrier so the claims paperwork isn't one more thing on your plate. Whether it's a burst supply line in a century-old two-flat or storm water backing up through a floor drain, we document the loss and start mitigation on the same visit.
 
 ## Restoration emergencies common in Forest Park
 
@@ -45,4 +45,4 @@ Forest Park sits just off the Eisenhower Expressway (I-290), a direct shot west 
 
 Much of Forest Park's housing dates to the early-to-mid 20th century, with brick bungalows, two-flats, and frame construction built over full basements rather than slabs or crawlspaces. That era of construction means galvanized and early copper supply lines, cast iron drain stacks, and in some buildings, plaster-and-lath walls that absorb and hold water differently than modern drywall, plus the possibility of asbestos-containing material in older flooring, insulation, or duct wrap that a restoration scope has to account for before demolition begins. Clay-heavy soils common across this part of Cook County hold water against foundation walls after heavy rain, which is part of why basement seepage and hydrostatic pressure issues are a recurring theme here. Structural repairs and any rebuild work following a loss go through the Village of Forest Park's building department, and older homes undergoing significant repair may trigger additional review tied to the home's age and systems.
 
-If water is spreading under your floors, smoke has settled into your walls, or a storm has left your roof or basement compromised, call Dry Bros Water & Fire Restoration at (877) 379-2767. We answer 24/7 and can talk you through what to do before a crew arrives.
+If water is spreading under your floors, smoke has settled into your walls, or a storm has left your roof or basement compromised, call Dry Bros at (877) 379-2767. We answer 24/7 and can talk you through what to do before a crew arrives.

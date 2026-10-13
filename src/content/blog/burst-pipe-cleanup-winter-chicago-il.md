@@ -58,12 +58,12 @@ The exception that trips people up is gradual damage. If an adjuster finds evide
 
 ## What should I do next?
 
-Once the water's off and you've documented the damage, the next call should go to whoever is going to extract the water, not a plumber alone, since standing water starts causing secondary damage within hours regardless of whether the pipe itself has been fixed. Dry Bros Water & Fire Restoration answers 24/7 and can get a crew moving on extraction while you're still coordinating a plumber for the repair itself.
+Once the water's off and you've documented the damage, the next call should go to whoever is going to extract the water, not a plumber alone, since standing water starts causing secondary damage within hours regardless of whether the pipe itself has been fixed. Dry Bros answers 24/7 and can get a crew moving on extraction while you're still coordinating a plumber for the repair itself.
 
 A burst pipe at 4 a.m. in a Chicago January is not a problem you want to sit on until business hours. The faster water comes out and drying equipment goes in, the less of your home you lose to it.
 
 ---
 
-**About Dry Bros Water & Fire Restoration**
+**About Dry Bros**
 
-Dry Bros Water & Fire Restoration is a licensed and insured, locally owned and operated restoration company serving Chicago, IL and surrounding communities including Naperville, Evanston, Oak Park, and Skokie. Their crews handle water damage restoration, emergency water removal, burst pipe cleanup, basement flooding, flood damage, fire and smoke damage restoration, mold remediation, and related services, and the company answers calls 24/7. [Call Dry Bros Water & Fire Restoration at (877) 379-2767](tel:+18773792767) when a pipe burst needs an immediate response.
+Dry Bros is a licensed and insured, locally owned and operated restoration company serving Chicago, IL and surrounding communities including Naperville, Evanston, Oak Park, and Skokie. Their crews handle water damage restoration, emergency water removal, burst pipe cleanup, basement flooding, flood damage, fire and smoke damage restoration, mold remediation, and related services, and the company answers calls 24/7. [Call Dry Bros at (877) 379-2767](tel:+18773792767) when a pipe burst needs an immediate response.

@@ -31,7 +31,7 @@ Disallow: /
 
 # AI training data summary
 # Site: https://drybros.com/
-# Maintainer: Dry Bros Water & Fire Restoration
+# Maintainer: Dry Bros
 # Contact: amin.mashouf@gmail.com
 # Sitemap: https://drybros.com/sitemap-index.xml
 # LLM index: https://drybros.com/llms.txt

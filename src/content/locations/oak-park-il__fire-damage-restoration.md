@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Fire Damage Restoration in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Fire Damage Restoration in Oak Park, IL | Dry Bros"
 h1: "24/7 Emergency Fire Damage Restoration in Oak Park"
 meta_description: "24/7 emergency fire damage restoration in Oak Park, IL. Insurance billing accepted. Call us now."
 primary_keyword: "fire damage restoration oak park"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Oak Park? We answer 24/7.** Call now and our crew heads out to secure the property and start the recovery.
 
-Oak Park's architectural identity is inseparable from its building stock, block after block of late-Victorian and Prairie-style homes, many with original balloon-frame construction, wood-lath interiors, and decorative millwork that took craftsmen weeks to install. When fire moves through a structure like that, it doesn't just char surfaces. Smoke infiltrates every cavity between the studs, soot settles into plaster cornices, and the odor embeds itself in materials that modern drywall simply doesn't have. Fire damage restoration here demands a different level of care than a tract-built suburb, and that's exactly the kind of work Dry Bros Water & Fire Restoration is equipped to handle.
+Oak Park's architectural identity is inseparable from its building stock, block after block of late-Victorian and Prairie-style homes, many with original balloon-frame construction, wood-lath interiors, and decorative millwork that took craftsmen weeks to install. When fire moves through a structure like that, it doesn't just char surfaces. Smoke infiltrates every cavity between the studs, soot settles into plaster cornices, and the odor embeds itself in materials that modern drywall simply doesn't have. Fire damage restoration here demands a different level of care than a tract-built suburb, and that's exactly the kind of work Dry Bros is equipped to handle.
 
 ## Why Oak Park's Housing Stock Shapes Fire Damage Recovery
 
@@ -61,4 +61,4 @@ Dry Bros provides detailed scope-of-loss documentation, photographs, moisture re
 
 In Oak Park's older balloon-frame homes, fire and smoke often travel into the attic through open stud bays before the fire department arrives. Attic insulation, particularly the blown-in cellulose common in energy retrofits done over the past few decades, absorbs smoke odor deeply and is almost never salvageable after a significant fire. Homeowners are sometimes surprised to learn the attic requires full insulation removal and replacement even when the fire itself was confined to a lower floor. It's one of the details that separates a thorough restoration scope from one that leaves a persistent smell behind.
 
-If you're dealing with fire damage to a home or commercial property in Oak Park, call Dry Bros Water & Fire Restoration at **call us now**. The sooner the assessment begins, the more options you have for preserving what matters.
+If you're dealing with fire damage to a home or commercial property in Oak Park, call Dry Bros at **call us now**. The sooner the assessment begins, the more options you have for preserving what matters.

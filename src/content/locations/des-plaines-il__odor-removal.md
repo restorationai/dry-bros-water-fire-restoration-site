@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Des Plaines, IL | Dry Bros Water & Fire Restoration"
+title: "Odor Removal and Deodorization in Des Plaines, IL | Dry Bros"
 h1: "Odor Removal and Deodorization in Des Plaines"
 meta_description: "Odor removal and deodorization in Des Plaines, IL. Insurance billing accepted. Call us now."
 primary_keyword: "odor removal and deodorization des plaines"
@@ -54,4 +54,4 @@ Odor removal is frequently covered under homeowner's policies when it's tied to 
 
 Des Plaines homes built in the 1950s and 1960s often have original ductwork with interior surfaces that were never designed to be cleaned or treated, the metal is thinner, joints are less sealed, and insulation wrap on older runs can itself retain odor. When smoke or sewage gases have been pulled through that system, we assess whether duct deodorization alone is sufficient or whether sections of the run need to be replaced before the smell can be fully resolved. It's a detail that matters specifically in this era of construction and one that a surface-only treatment will miss every time.
 
-If a persistent smell in your Des Plaines home has outlasted every cleaning attempt, call Dry Bros Water & Fire Restoration now. We'll assess the source, explain the treatment options that fit your building and your situation, and get to work on a timeline that makes sense for your household.
+If a persistent smell in your Des Plaines home has outlasted every cleaning attempt, call Dry Bros now. We'll assess the source, explain the treatment options that fit your building and your situation, and get to work on a timeline that makes sense for your household.

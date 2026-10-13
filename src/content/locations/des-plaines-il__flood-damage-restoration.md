@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Flood Damage Restoration in Des Plaines, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Flood Damage Restoration in Des Plaines, IL | Dry Bros"
 h1: "24/7 Emergency Flood Damage Restoration in Des Plaines"
 meta_description: "24/7 emergency flood damage restoration in Des Plaines, IL. Insurance billing accepted. Call us now."
 primary_keyword: "flood damage restoration des plaines"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Oak Park, IL | Dry Bros Water & Fire Restoration"
+title: "24/7 Emergency Smoke Damage Restoration in Oak Park, IL | Dry Bros"
 h1: "24/7 Emergency Smoke Damage Restoration in Oak Park"
 meta_description: "24/7 emergency smoke damage restoration in Oak Park, IL. Insurance billing accepted. Call us now."
 primary_keyword: "smoke damage restoration oak park"
@@ -55,4 +55,4 @@ Smoke damage claims on older Oak Park properties can be more involved than a car
 
 Oak Park's historic district designations and the general expectation among homeowners here that original materials be preserved, not swapped out, means smoke damage restoration sometimes involves conversations with the village's building department about what constitutes an acceptable repair versus a replacement. If smoke damage has compromised structural elements like original balloon-frame studs or plaster that's part of a designated interior, permits and inspections may be required before work is closed out. Knowing that going in, and building the documentation accordingly, keeps the project from stalling mid-scope.
 
-If smoke has moved through your Oak Park home, call Dry Bros Water & Fire Restoration now. The sooner residue is addressed, the less it bonds to surfaces, and in a home with the kind of irreplaceable materials Oak Park is known for, that timing matters.
+If smoke has moved through your Oak Park home, call Dry Bros now. The sooner residue is addressed, the less it bonds to surfaces, and in a home with the kind of irreplaceable materials Oak Park is known for, that timing matters.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Bedford Park, IL | Dry Bros Water & Fire Restoration"
+title: "Restoration Services in Bedford Park, IL | Dry Bros"
 h1: "Restoration Services in Bedford Park"
 meta_description: "Serving Bedford Park, IL with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call (877) 379-2767."
 primary_keyword: "restoration services bedford park"
@@ -19,7 +19,7 @@ state: "IL"
 primary: false
 rendered: true
 ---
-Dry Bros Water & Fire Restoration handles water extraction, fire and smoke cleanup, mold remediation, and biohazard response for the homes, warehouses, and distribution facilities that make up Bedford Park. Because the village is one of the most industrially zoned communities in Cook County, we work across both the small residential pockets and the large commercial and cold-storage buildings that dominate the local footprint, documenting every loss for insurance from the first call.
+Dry Bros handles water extraction, fire and smoke cleanup, mold remediation, and biohazard response for the homes, warehouses, and distribution facilities that make up Bedford Park. Because the village is one of the most industrially zoned communities in Cook County, we work across both the small residential pockets and the large commercial and cold-storage buildings that dominate the local footprint, documenting every loss for insurance from the first call.
 
 ## Restoration emergencies common in Bedford Park
 
@@ -45,4 +45,4 @@ Bedford Park's residential stock is limited and largely dates to the mid-20th ce
 
 Cook County's clay-heavy soil holds water close to the surface after storms, which adds hydrostatic pressure against older basement walls and foundations not built to modern drainage standards. Permits for structural repair or rebuild work in Bedford Park go through the village's building department, which administers under Illinois state code adoptions common across Cook County municipalities; anything involving structural framing, electrical, or plumbing replacement after a loss typically needs a permit before work closes the wall back up.
 
-If water, fire, or storm damage has hit your Bedford Park home or facility, call Dry Bros Water & Fire Restoration at (877) 379-2767. We answer 24/7 and can walk you through what to expect before a crew ever reaches your door.
+If water, fire, or storm damage has hit your Bedford Park home or facility, call Dry Bros at (877) 379-2767. We answer 24/7 and can walk you through what to expect before a crew ever reaches your door.
