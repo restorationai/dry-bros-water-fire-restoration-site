@@ -84,7 +84,7 @@ If you're standing in a smoke-damaged kitchen right now trying to figure out wha
 
 ---
 
-**About Dry Bros Water & Fire Restoration**
+**About Dry Bros**
 
 Dry Bros is a licensed and insured restoration company serving Chicago and the surrounding suburbs, including Naperville, Oak Park, Evanston, and Cicero, with 24/7 emergency response. This guide was prepared by the Dry Bros team, led by Amin Mashouf, who works directly with Chicago homeowners on fire, smoke, and water damage claims and restoration scopes across the two-flats, bungalows, and single-family homes that make up the city's housing stock.
 
