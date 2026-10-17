@@ -74,11 +74,7 @@
   "/images/services/reconstruction.webp": {
     "width": 1376,
     "height": 768,
-    "variants": [
-      480,
-      768,
-      1200
-    ]
+    "variants": []
   },
   "/images/services/sewage-cleanup.webp": {
     "width": 1376,
