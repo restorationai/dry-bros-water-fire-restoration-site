@@ -20,7 +20,7 @@ services: ["fire-damage-restoration", "emergency-board-up-tarping", "smoke-damag
 rendered: true
 author: "Amin Mashouf"
 ---
-**TL;DR:** If your home caught fire in Chicago, call 911 first if the fire isn't fully out or anyone is hurt, then your insurer, then a restoration company to board up the property and start the cleanup. Dry Bros Water & Fire Restoration answers 24/7 at (877) 379-2767 for board-up, smoke damage, and contents restoration once the Chicago Fire Department clears the scene.
+**TL;DR:** If your home caught fire in Chicago, call 911 first if the fire isn't fully out or anyone is hurt, then your insurer, then a restoration company to board up the property and start the cleanup. Dry Bros answers 24/7 at (877) 379-2767 for board-up, smoke damage, and contents restoration once the Chicago Fire Department clears the scene.
 
 A house fire in Chicago sets off a chain of phone calls almost immediately: 911, your insurance agent, maybe a cousin who can put you up for the night. The order matters. Call the wrong person first, or skip a call most people don't think of, like requesting your Chicago Fire Department incident report, and you can slow your insurance claim down by weeks. Here's the order that actually works and what each call should cover.
 
@@ -62,6 +62,6 @@ Make the board-up and insurance calls the same day as the fire if at all possibl
 
 ---
 
-**About Dry Bros Water & Fire Restoration**
+**About Dry Bros**
 
 Dry Bros is a licensed and insured restoration company serving Chicago and the surrounding suburbs, including Naperville, Evanston, and Oak Park, 24/7. The crew handles [fire damage restoration](/services/fire-damage-restoration/), smoke damage restoration, emergency board-up and tarping, and contents restoration, along with water, mold, and storm damage recovery across the region. This guide was prepared with input from Amin Mashouf and the team members who take these calls.
