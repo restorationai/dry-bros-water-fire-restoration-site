@@ -156,3 +156,8 @@
 /service-areas/skokie-il/water-cleanup/ /service-areas/skokie-il/emergency-water-removal/ 301
 /service-areas/stickney-il/water-cleanup /service-areas/stickney-il/water-damage-restoration/ 301
 /service-areas/stickney-il/water-cleanup/ /service-areas/stickney-il/water-damage-restoration/ 301
+# 2026-10-19 dev agent: indexed fire city pages removed by the 09-30 city-page gate still draw Google impressions; send them to the fire service page
+/service-areas/forest-park-il/fire-damage-restoration /services/fire-damage-restoration/ 301
+/service-areas/forest-park-il/fire-damage-restoration/ /services/fire-damage-restoration/ 301
+/service-areas/bedford-park-il/fire-damage-restoration /services/fire-damage-restoration/ 301
+/service-areas/bedford-park-il/fire-damage-restoration/ /services/fire-damage-restoration/ 301
