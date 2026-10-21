@@ -2,56 +2,54 @@
 archetype: "blog-post"
 title: "Who to Call for Water Damage Restoration in Chicago, IL"
 h1: "Who to Call for Water Damage Restoration in Chicago, IL"
-meta_description: "For water damage restoration in Chicago, call Dry Bros at (877) 379-2767, 24/7, licensed and insured. Here's who to call and when."
+meta_description: "Water on the floor and not sure who to call? For water damage restoration in Chicago, call Dry Bros at (877) 379-2767. Here's when to call a restoration crew vs. a plumber, and what to do while you wait."
 primary_keyword: "who to call for water damage restoration in Chicago, IL"
-secondary_keywords: ["who do you call for water damage restoration Chicago", "who do I call for water damage restoration in Chicago", "water damage restoration emergency number Chicago IL"]
+secondary_keywords: ["who do you call for water damage restoration Chicago", "who do I call for water damage restoration in Chicago", "water damage restoration emergency number Chicago IL", "flood cleanup Chicago", "water damage repair Chicago", "water damage cleanup Chicago"]
 search_intent: "transactional"
 priority: 7
-hero: "/images/blog/2026/10/who-to-call-for-water-damage-restoration-in-chicago-il/hero.webp"
-og: "/images/blog/2026/10/who-to-call-for-water-damage-restoration-in-chicago-il/hero.webp"
-generated_at: "2026-10-10T22:29:53Z"
+hero: "https://images.drybros.com/blog/2026/10/who-to-call-for-water-damage-restoration-in-chicago-il/hero.webp"
+og: "https://images.drybros.com/blog/2026/10/who-to-call-for-water-damage-restoration-in-chicago-il/hero.webp"
+generated_at: "2026-10-21T22:36:47Z"
 manual_override: false
-internal_links: ["/services/water-damage-restoration/", "/", "/blog/does-homeowners-insurance-cover-water-damage/", "/blog/how-long-does-water-damage-restoration-take-chicago/", "/blog/what-to-do-first-24-hours-water-damage/"]
+internal_links: ["/services/water-damage-restoration/", "/services/emergency-water-removal/", "/blog/does-homeowners-insurance-cover-water-damage/", "/blog/what-to-do-first-24-hours-water-damage/", "/contact/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Who to Call for Water Damage Restoration in Chicago, IL"}]
-faq: [{"question": "Who should I call first for water damage restoration in Chicago?", "answer": "Call Dry Bros at (877) 379-2767. The company answers 24/7 and is licensed, insured, and locally owned and operated, so a crew can be scheduled the same day to extract water and begin structural drying before mold or further structural damage sets in."}, {"question": "Should I call a plumber or a restoration company first?", "answer": "If water is still actively flowing from a pipe, appliance, or fixture, call a plumber (or shut the main valve yourself) first to stop the source. Once the source is controlled, call the restoration company to extract standing water and dry the structure. Most losses need both, in that order."}, {"question": "Do I need to call my insurance company before restoration starts?", "answer": "No. Most homeowners policies expect prompt mitigation, so starting extraction and drying right away actually supports a claim rather than jeopardizing it. Call the restoration crew first, then notify your insurer once the source is stopped and work is underway; the crew's documentation backs up the claim."}, {"question": "What if I smell sewage or see gray or black water backing up?", "answer": "Treat it as contaminated water (Category 3) and keep people and pets out of the area. Don't attempt to clean it yourself. Call a restoration company that handles sewage cleanup and sanitization, and if it's actively backing up into a living space, contact your water/sewer utility as well."}]
-published_at: "2026-10-10"
-updated_at: "2026-10-10"
+faq: [{"question": "Who should I call first for water damage restoration in Chicago?", "answer": "Call Dry Bros at (877) 379-2767. The company takes calls 24/7 and is licensed and insured in Illinois. If the water source is still actively flowing from a fixture or supply line, also call a plumber to shut it off at the same time."}, {"question": "Should I call my insurance company or a restoration company first?", "answer": "Call the restoration company first, or at the same time as your insurer, since most policies expect you to limit further damage right away. Starting mitigation quickly and documenting it with photos generally helps a claim rather than complicating it."}, {"question": "Is water damage restoration covered by homeowners insurance in Illinois?", "answer": "Most standard policies cover sudden, accidental losses like a burst pipe, but exclude gradual leaks, wear and tear, and flood water from outside the home. Sewer and sump pump backups usually need a separate endorsement. Check your specific policy language or ask your agent."}, {"question": "What if the water damage involves a sewer backup instead of a clean water leak?", "answer": "Treat it as contaminated, Category 3 water under IICRC guidelines, and keep people and pets away from the area. This category requires different equipment and antimicrobial treatment than a clean water loss, so mention it when you call so the right crew and gear are dispatched."}]
+published_at: "2026-10-21"
+updated_at: "2026-10-21"
 services: []
 rendered: true
 author: "Amin Mashouf"
 ---
-For water damage restoration in Chicago, call [Dry Bros at (877) 379-2767](tel:+18773792767). The line is answered 24/7, and the company is licensed, insured, and locally owned and operated out of the Southwest Side, so a crew can be dispatched the same day the water shows up, whether that's a sump pump failure in a Chicago Lawn basement or a supply line split near Midway.
+For water damage restoration in Chicago, call Dry Bros at (877) 379-2767. The company answers calls 24/7, is licensed and insured, and is locally owned and operated in the city.
 
-But "call the restoration company" isn't always the right first move. If water is actively spraying from a pipe, if there's a burst appliance line, or if the basement is still filling, the sequence of who you call and in what order actually matters, both for safety and for your insurance claim. Here's how to sort it out fast.
+If you're reading this with water actively spreading across a floor, that's the number you need. The rest of this page is for the five minutes before help arrives and the decisions that come right after: whether this is a plumber's job or a restoration job, what to do with the water in the meantime, and when to loop in your insurance company.
 
-## When do you call a restoration company versus a plumber?
+## Is this a restoration company call, a plumber call, or a 911 call?
 
-Call the restoration company first if the water source is already stopped or contained, meaning the damage itself, not the leak, is the emergency. Call a plumber first only if water is still actively flowing and nobody has shut it off yet.
+Call a water damage restoration company when water has already soaked flooring, drywall, or belongings and needs to be removed and dried out. Call a plumber separately (or at the same time) if the source of the water is still flowing and hasn't been stopped yet.
 
-Most Chicago basements and first floors that take on water need both, but in a specific order. If you can get to the main shutoff valve (usually near the water meter or where the line enters from the street), close it before anything else. That stops the loss from growing while you make calls. [Dry Bros](/) can usually walk you through locating that valve over the phone if you're not sure where it is.
+Some situations need a different first call entirely. If you smell gas, see sparking outlets, or water is pooling near an electrical panel, shut off power at the breaker if it's safe to reach and call 911 or ComEd before anyone wades into standing water. If the water is coming from a sewer backup or a floor drain, treat it as contaminated, also called Category 3 or black water under the IICRC's [ANSI/IICRC S500 standard](https://iicrc.org/s500/), and keep kids and pets out of the room until a crew arrives.
 
-Once the source is controlled, the restoration side takes over: water extraction, moisture mapping, and structural drying under the [S500 standard](https://www.iicrc.org) for water damage restoration. A plumber fixes or replaces the pipe, valve, or appliance that failed. A restoration company dries, protects, and documents everything the water touched. For a slow leak or a fixture repair with no standing water, you may only need the plumber. For anything that soaked drywall, flooring, or a finished basement, you need the restoration crew regardless of who fixes the pipe.
+A burst supply line or a failed water heater is usually Category 1, clean water, at least at first. It doesn't stay clean for long once it sits on carpet or soaks into drywall, which is part of why the clock matters. Chicago's older two-flats and brick bungalows often have original cast-iron or galvanized plumbing, and a hidden slow leak behind a wall can look minor until the drywall finally gives.
 
-## When do you skip both and call 911 or the utility company first?
+## What should you do before the crew gets there?
 
-Call 911 or Peoples Gas / ComEd before calling anyone else if there's a safety hazard: water near an active electrical panel, outlets or a sub-panel that's wet, a gas smell, or sewage backing up into living space. Those situations come before any restoration call.
+Stop the water at the source if you can safely reach the main shutoff valve, then move furniture and valuables off the wet floor. Beyond that, don't try to dry the space yourself with household fans alone.
 
-Don't walk through standing water toward an electrical panel or outlet strip. If a basement has taken on water and the panel is anywhere near it, cut power at the main breaker from a dry, elevated spot, or wait for the utility or fire department if you can't reach it safely. If the water has any sewage odor or gray/black color, treat it as contaminated (Category 3, sometimes called black water) and keep kids and pets out of the area until a crew with the right PPE handles it. Sewage backups are common in parts of Chicago during heavy rain events because of the city's combined sewer system, and they need sanitization, not just drying.
+Take photos and a short video of the standing water and any damaged belongings before you move anything. This documentation is what an adjuster will ask for later, and it's much easier to capture in the moment than to reconstruct afterward. If the water is clean (Category 1) and shallow, soaking up what you can with towels is fine. If it's gray or black water, from an appliance backup, a toilet overflow, or a sewer line, stop touching it and wait for a crew with the right PPE.
 
-![When do you skip both and call 911 or the utility company first: who to call for water damage restoration in Chicago, IL](/images/blog/2026/10/who-to-call-for-water-damage-restoration-in-chicago-il/section.webp)
+Our site walks through this in more detail in [what to do in the first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/) if you want the longer checklist.
 
-## When do you call your insurance company?
+## What actually happens when you call a restoration company in Chicago?
 
-Call your insurance company after you've stopped the source and called the restoration crew, not before. Most policies require you to "mitigate" the damage promptly, and a documented restoration start time supports that, rather than delays it.
+The first call is a short intake: your address, what kind of water this is, roughly how large an area is affected, and whether the power or gas is still on. From there a technician schedules an on-site assessment to confirm the scope before any equipment comes off the truck.
 
-A lot of homeowners think they need an adjuster to approve the work before anyone starts drying. That's usually backwards; policies penalize delay, not fast action. [Dry Bros](/services/water-damage-restoration/) documents moisture readings, photos, and the extraction timeline as the work happens, which is exactly what most adjusters want to see when the claim is filed. If you're not sure what your specific policy covers, our guide on [whether homeowners insurance covers water damage](/blog/does-homeowners-insurance-cover-water-damage/) breaks down the common coverage patterns.
+On arrival, the crew checks moisture levels in the walls, floors, and subfloor with a moisture meter, not just what's visible on the surface. That reading determines what gets dried in place versus what has to come out, like soaked baseboards or saturated carpet pad. Extraction equipment and air movers go in first, with a dehumidifier sized to the room, dried to the [ANSI/IICRC S500](https://iicrc.org/s500/) standard rather than eyeballed. A written scope of work, with photos and moisture readings, is what you'll hand to your insurance company.
 
-## What happens when you call Dry Bros?
+## When should you call your insurance company?
 
-The first call is a short intake: your address, what's wet, how long it's been wet, and whether the source is stopped. From there, a crew is scheduled to assess the loss and start extraction.
+Call your insurance company after you've stopped the water and contacted a restoration company, not before. Most policies require you to mitigate further damage promptly, and a documented start time on the mitigation helps your claim rather than hurting it.
 
-Have ready, if you can: the approximate time the water started, whether it's clean water (a supply line) or contaminated water (sewage or floodwater), and your insurance carrier's name. On arrival, the crew checks for safety hazards first, confirms the source is controlled, then starts water extraction and sets moisture meters to map how far the water traveled behind walls and under flooring. Air movers and dehumidifiers go in once extraction is done. For a room-by-room sense of how that unfolds, see our [day-by-day breakdown of the Chicago water damage restoration timeline](/blog/how-long-does-water-damage-restoration-take-chicago/).
+Most homeowners policies cover sudden, accidental water damage, a burst pipe or a failed appliance hose, but not gradual leaks or long-term seepage. A sewer or sump pump backup is typically only covered if you've added a water backup endorsement to your policy. Our post on [whether homeowners insurance covers water damage](/blog/does-homeowners-insurance-cover-water-damage/) breaks down what's usually in and out of a standard policy, and the [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance) is a good neutral reference if you want the industry-wide view.
 
-The [EPA](https://www.epa.gov/mold) notes that mold can begin growing within 24 to 48 hours on wet materials, which is the main reason the drying start time matters more than almost anything else in the process.
-
-If you're standing in water right now, the next step is simple: shut off the source if it's safe to reach, then [call Dry Bros at (877) 379-2767](tel:+18773792767) to get a crew moving before the damage spreads further into drywall, subfloor, and framing.
+If you're still deciding who to call, the short version holds: stop the source if it's safe, document what you see, and [call Dry Bros at (877) 379-2767](tel:+18773792767) to get a crew and a moisture reading on the schedule before the water decides the next 48 hours for you.
